@@ -13,7 +13,7 @@
   </head>
   
   <body>
-  	<div id="BGEFM_fig" style="height: 950px;" style="weight: 824px;">  </div>
+  	<div id="BGEFM_fig" style="height: 1000px;" style="weight: 900px;">  </div>
   	<div id="BGEFM_zoom">  </div>
     <script type="text/javascript">
       	// <div id="BGEFM_fig" style="height: 850px;" style="weight: 900px;">  </div>
@@ -38,13 +38,11 @@
 			d3.csv("fullData/BGEFM_structure.csv", function(d) {
 				var structures=d;
 
-				// console.log(rows.length + " " + cols.length);
-				// console.log(data[1][0]);
-
-				// UI
+				// global color codes
 				var colorCode = ["#000000","#0000FF","#00FFFF",
 					"#33CC33","#E6E600","#FF6600","#FF0000"];
 
+				// global var for page range
 				var margin = {
 				    top: 100,
 				    right: 20,
@@ -52,24 +50,32 @@
 				    left: 20
 				};
 
-				//The number of columns and rows of the heatmap
-				var mapCols = 60;//structures.length;
-				var	mapRows = 60;//genes.length;
+				// global var for the BGEFM image
+				var img = new Image();
+				var img_width = 950;
+				var img_height = 824;
+
+				//The number of columns and rows of the zoomed data
+				var mapCols = 60;
+				var	mapRows = 60;
+				var mapCols2 = mapCols / structures.length * img_width;
+				var	mapRows2 = mapRows / genes.length * img_height;
 				var cellSize = 10;
 				var offSet = 1;
-
-				//Set the new height and width of the SVG based on the max possible
 				var width = mapCols * (cellSize + offSet);
 				var heigth = mapRows * (cellSize + offSet);
-				var pos = [0, 0];
+				var BGEFM_Url = 'BGEFM_fig.png';
 
+				// SVG of zoomed data
 				var svgZoom = d3.select("#BGEFM_zoom").append("svg")
+					.attr('id','svgZoom')
 				    .attr("width", width + margin.left + margin.right + 50)
 				    .attr("height", heigth + margin.top + margin.bottom )
 				    .style('position','absolute')
 					.style('top',margin.top)
 					.style('left',margin.left + 900);
 
+				// SVG of zoomed gene labels
 				var svgGene = d3.select("#BGEFM_zoom").append("svg")
 				    .attr("width", 80)
 				    .attr("height", heigth + margin.top + margin.bottom )
@@ -77,6 +83,7 @@
 					.style('top',margin.top)
 					.style('left',margin.left + width + 950 + 10);
 
+				// SVG of zoomeD structure labels
 				var svgStructure = d3.select("#BGEFM_zoom").append("svg")
 				    .attr("width", width + margin.left + margin.right + 50)
 				    .attr("height", 100)
@@ -84,56 +91,73 @@
 					.style('top',0)
 					.style('left',margin.left + 900);
 
-				var BGEFM_Url = 'BGEFM_fig.png';
+				// drag behavior of the zoomed box in BGEFM
+				var dragBox = d3.behavior.drag()
+    				.origin(Object)
+    				.on("drag", function(d){
+    					var pos = d3.mouse(this);
+    					var xst = pos[0] - mapCols2/2;
+    					if (xst < margin.left) xst = margin.left;
+    					if (xst > margin.left + img_width - mapCols2) xst = margin.left + img_width - mapCols2;
+    					var yst = pos[1] - mapRows2/2;
+    					if (yst < margin.top) yst = margin.top;
+    					if (yst > margin.top + img_height - mapRows2) yst = margin.top + img_height - mapRows2;
+						rectangle
+							.attr("x",xst)
+							.attr("y",yst);
+    					drawZoomMatrix(xst,yst);
+    				});
+
+    			// SVG of BGEFM
 				var svgBGEFM = d3.select("#BGEFM_fig").append("svg")
-								 .attr('id','mySVG')
-								 .attr({
-								    "width": '100%',
-								    "height": '100%'
-								 });
-				    			 
+								 .attr('id','svgBGEFM')
+								 .attr("width", img_width+margin.left)
+   								 .attr("height", img_height+margin.top);
+
+				// show the BGEFM image
 				var svg_img = svgBGEFM.append('image')
 						  	.attr('image-rendering','optimizeQuality')
 						  	.attr('x',margin.left)
 							.attr('y',margin.top);
-
-				var img = new Image();
 				img.src = BGEFM_Url;
 				img.onload = function() {
-					var img_width = this.width;
-				 	var img_height = this.height;
 					svg_img.attr('height', img_height)
 				  		    .attr('width',img_width)
 				  		    .attr('xlink:href', BGEFM_Url)
-				  		    .attr('image-rendering','optimizeQuality')
-				  		   	.on("mousemove", function(d,i){
-				  		   		pos = d3.mouse(this);
-				  		   		drawZoomMatrix(pos, img_width, img_height);
-				  		   	});
+				  		    .attr('image-rendering','optimizeQuality');
 				}
 
-				function drawZoomMatrix(pos, img_width, img_height){
-	  		   		
-					var xst = Math.min(Math.max(margin.left,pos[0] - mapCols/2) , margin.left + img_width - mapCols);
-					var xnd = Math.max(Math.min(margin.left + img_width,pos[0] + mapRows/2) , margin.left + mapRows);
-					var yst = Math.min(Math.max(margin.top,pos[1] - mapCols/2) , margin.top + img_height - mapCols);
-					var ynd = Math.max(Math.min(margin.top + img_height,pos[1] + mapRows/2) , margin.top + mapRows);
-					
-					var data_xst = Math.round((xst - margin.left) / img_width * structures.length ); //* structures.length
+				// draw the zoomed box in BGEFM
+    			var rectangle = svgBGEFM.append("rect")
+				    			.attr("x", margin.left)
+				      			.attr("y", margin.top)
+				      			.attr("height", mapCols2)
+							    .attr("width", mapRows2)
+							    .style("stroke", "white")
+                                .style("stroke-width",2)
+                                .style("fill-opacity", 0)
+							    .call(dragBox);
+
+				function drawZoomMatrix(xst,yst){
+					// zoomed box in BGEFM
+					var xnd = xst + mapCols;
+					var ynd = yst + mapRows;
+					// zoomed data
+					var data_xst = Math.round((xst - margin.left) / img_width * structures.length ) 
 					var data_xnd = data_xst + mapCols;
-					var data_yst = Math.round((yst - margin.top) / img_height * genes.length ); //* genes.length 
+					var data_yst = Math.round((yst - margin.top) / img_height * genes.length );
 					var data_ynd = data_yst + mapRows;
-					// console.log(xst+" "+xnd+" "+yst+" "+ynd+" - "+data_xst+" "+data_xnd+" "+data_yst+" "+data_ynd);
 					var data_zoom = data.slice(data_yst, data_yst + mapRows);
 					for(var i = 0; i<data_zoom.length; i++){
 					    data_zoom[i] = data_zoom[i].slice(data_xst, data_xst + mapCols);
 					}
 					var genes_zoom = genes.slice(data_yst, data_yst + mapRows);
 					var structures_zoom = structures.slice(data_xst, data_xst + mapRows);
-					console.log(data_zoom[0][0] + " " + genes_zoom[0].GENE );
-					console.log(xst+" "+xnd+" "+yst+" "+ynd+" - "+data_xst+" "+data_xnd+" "+data_yst+" "+data_ynd);
-					console.log(structures_zoom[0].STRUCTURE);
+					// console.log(data_zoom[0][0] + " " + genes_zoom[0].GENE );
+					console.log(xst+" "+xnd+" "+yst+" "+ynd+" -> "+data_xst+" "+data_xnd+" "+data_yst+" "+data_ynd);
+					// console.log(structures_zoom[0].STRUCTURE);
 
+					// redraw the zoomed matrix
 					svgZoom.selectAll(".rect").remove();
 					svgZoom.append("g").selectAll(".rect")
 					    .data(data_zoom)
@@ -153,7 +177,8 @@
 					    .attr('width', cellSize)
 					    .attr('height', cellSize)
 					    .style("fill", function(d) { return colorCode[d]; });
-					
+
+					// redraw the zoomed gene labels
 					svgGene.selectAll(".geneLabel").remove();
 					svgGene.selectAll(".geneLabel")
 						.data(genes_zoom)
@@ -170,6 +195,7 @@
 					    .attr("fill", "#000000")
 						.text(function(d,i) {return genes_zoom[i].GENE;});
 
+					// redraw the zoomed structure labels
 					svgStructure.selectAll(".structureLabel").remove();
 					svgStructure.selectAll(".structureLabel")
 						.data(structures_zoom)
@@ -183,16 +209,13 @@
 						})
 						.attr("transform", "rotate(-90)")
 						.attr("font-family", "sans-serif")
-						
 				        .attr("font-size", "10px")
 					    .attr("fill", "#000000")
 						.text(function(d,i) {return structures_zoom[i].STRUCTURE;});
-				  	
-				}
-
-			});
-		});
-	});
+				} // function drawZoomMatrix(xst, yst)
+			}); // d3.csv structures
+		}); // d3.csv genes
+	}); // d3.text data
     </script>
   </body>
 </html>
