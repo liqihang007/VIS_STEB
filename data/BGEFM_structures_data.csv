@@ -1,0 +1,2072 @@
+STRUCTURE,STRUCTUREID,STRUCTUREFULLNAME,STRUCTURECOLOR,STRUCTUREREGION,STRUCTUREREGIONCOLOR,CLUSTER
+p1,16509,prosomere 1,FFE524,Rest Forebrain,C86A39,1
+Pt,16510,pretectum,FFE524,Rest Forebrain,C86A39,1
+p1R,16511,roof plate of p1,FFEB73,Rest Forebrain,C86A39,1
+PCom,16512,bed area of the posterior commissure,F4E35F,Rest Forebrain,C86A39,1
+PComv,16513,ventricular zone of PCom,F4E35F,Rest Forebrain,C86A39,1
+PComm,16515,mantle zone of PCom,FFEB73,Rest Forebrain,C86A39,1
+PComi,16517,intermediate zone of PCom,FFEB73,Rest Forebrain,C86A39,1
+PComs,16518,superficial zone of PCom,FFEB73,Rest Forebrain,C86A39,1
+p1A,16519,alar plate of p1,FFE524,Rest Forebrain,C86A39,1
+PcP,16520,precommissural pretectal domain,FFE524,Rest Forebrain,C86A39,1
+PcPL,16530,lateral part of PcP,FFE524,Rest Forebrain,C86A39,1
+PcPLm,16532,mantle zone of PcPL,F4E35F,Rest Forebrain,C86A39,1
+PcPLp,16533,periventricular stratum of PcPL,F4E35F,Rest Forebrain,C86A39,1
+PcPL-PAG,16534,PcPL part of the periaqueductal gray,F4E35F,Rest Forebrain,C86A39,1
+PcPLi,16535,intermediate stratum of PcPL,F4E35F,Rest Forebrain,C86A39,1
+APTD,16536,anterior pretectal nucleus- dorsal core part,F4E35F,Rest Forebrain,C86A39,1
+PcPLs,16537,superficial stratum of PcPL,F4E35F,Rest Forebrain,C86A39,1
+APTDS,16538,anterior pretectal nucleus- dorsal superficial part,F4E35F,Rest Forebrain,C86A39,1
+PcPV,16539,ventral part of PcP,FFE524,Rest Forebrain,C86A39,1
+PcPVv,16540,ventricular zone of PcPV,FFE524,Rest Forebrain,C86A39,1
+PcPVm,16541,mantle zone of PcPV,F4E35F,Rest Forebrain,C86A39,1
+PcPVp,16542,periventricular stratum of PcPV,F4E35F,Rest Forebrain,C86A39,1
+PcPV-PAG,16543,PcPV part of the periaqueductal gray,F4E35F,Rest Forebrain,C86A39,1
+PcPVi,16544,intermediate stratum of PcPV,F4E35F,Rest Forebrain,C86A39,1
+APTV,16545,anterior pretectal nucleus- ventral core part,F4E35F,Rest Forebrain,C86A39,1
+PcPVs,16546,superficial stratum of PcPV,F4E35F,Rest Forebrain,C86A39,1
+APTVS,16547,anterior pretectal nucleus- ventral superficial part,F4E35F,Rest Forebrain,C86A39,1
+JcP,16548,juxtacommissural pretectal domain,FFE524,Rest Forebrain,C86A39,1
+JcPD,16549,dorsal part of JcP,FFE524,Rest Forebrain,C86A39,1
+JcPDv,16550,ventricular zone of JcPD,FFE524,Rest Forebrain,C86A39,1
+JcPDm,16551,mantle zone of JcPD,F4E35F,Rest Forebrain,C86A39,1
+JcPDp,16552,periventricular stratum of JcPD,F4E35F,Rest Forebrain,C86A39,1
+JcPD-PAG,16553,JcPD part of the periaqueductal gray,F4E35F,Rest Forebrain,C86A39,1
+SpD,16556,dorsal spiriform nucleus,F4E35F,Rest Forebrain,C86A39,1
+JcPDs,16557,superficial stratum of JcPD,F4E35F,Rest Forebrain,C86A39,1
+JcPL,16559,lateral part of JcP,FFE524,Rest Forebrain,C86A39,1
+JcPLv,16560,ventricular zone of JcPL,FFE524,Rest Forebrain,C86A39,1
+JcPLm,16561,mantle zone of JcPL,F4E35F,Rest Forebrain,C86A39,1
+JcPLp,16562,periventricular stratum of JcPL,F4E35F,Rest Forebrain,C86A39,1
+JcPL-PAG,16563,JcPL part of the periaqueductal gray,F4E35F,Rest Forebrain,C86A39,1
+JcPLi,16564,intermediate stratum of JcPL,F4E35F,Rest Forebrain,C86A39,1
+JcPLRt,16565,reticular formation of JcPL,F4E35F,Rest Forebrain,C86A39,1
+SpL,16566,lateral spiriform nucleus,F4E35F,Rest Forebrain,C86A39,1
+JcPLs,16567,superficial stratum of JcPL,F4E35F,Rest Forebrain,C86A39,1
+JcP-LTL,16568,JcP contribution to LTL,F4E35F,Rest Forebrain,C86A39,1
+JcPV,16569,ventral part of JcP,FFE524,Rest Forebrain,C86A39,1
+JcPVv,16570,ventricular zone of JcPV,FFE524,Rest Forebrain,C86A39,1
+JcPVm,16571,mantle zone of JcPV,F4E35F,Rest Forebrain,C86A39,1
+JcPVp,16572,periventricular stratum of JcPV,F4E35F,Rest Forebrain,C86A39,1
+JcPV-PAG,16573,JcPV part of the periaqueductal gray,F4E35F,Rest Forebrain,C86A39,1
+JcPVi,16574,intermediate stratum of JcPV,F4E35F,Rest Forebrain,C86A39,1
+VJcP,16575,ventral juxtacommissural pretectal nucleus,F4E35F,Rest Forebrain,C86A39,1
+JcPVs,16576,superficial stratum of JcPV,F4E35F,Rest Forebrain,C86A39,1
+CoP,16578,commissural pretectal domain,FFE524,Rest Forebrain,C86A39,1
+CoPD,16579,dorsal part of CoP,FFE524,Rest Forebrain,C86A39,1
+CoPDv,16580,ventricular zone of CoPD,FFE524,Rest Forebrain,C86A39,1
+CoPDm,16581,mantle zone of CoPD,F4E35F,Rest Forebrain,C86A39,1
+CoPDp,16582,periventricular stratum of CoPD,F4E35F,Rest Forebrain,C86A39,1
+CoPD-PAG,16583,CoPD part of the periaqueductal gray,F4E35F,Rest Forebrain,C86A39,1
+CoPDi,16584,intermediate stratum of CoPD,F4E35F,Rest Forebrain,C86A39,1
+MPT,16585,medial pretectal nucleus,F4E35F,Rest Forebrain,C86A39,1
+PrPT,16586,principal pretectal nucleus,F4E35F,Rest Forebrain,C86A39,1
+CoPDRt,16587,reticular formation of CoPD,F4E35F,Rest Forebrain,C86A39,1
+CoPDs,16588,superficial stratum of CoPD,F4E35F,Rest Forebrain,C86A39,1
+OPT,16589,olivary pretectal nucleus,F4E35F,Rest Forebrain,C86A39,1
+DT,16590,dorsal terminal nucleus of the accessory optic tract,F4E35F,Rest Forebrain,C86A39,1
+CoPL,16591,lateral part of CoP,FFE524,Rest Forebrain,C86A39,1
+CoPLv,16592,ventricular zone of CoPL,FFE524,Rest Forebrain,C86A39,1
+CoPLm,16593,mantle zone of CoPL,F4E35F,Rest Forebrain,C86A39,1
+CoPLp,16594,periventricular stratum of CoPL,F4E35F,Rest Forebrain,C86A39,1
+CoPL-PAG,16595,CoPL part of the periaqueductal gray,F4E35F,Rest Forebrain,C86A39,1
+CoPLi,16596,intermediate stratum of CoPL,F4E35F,Rest Forebrain,C86A39,1
+PCPC,16597,parvicellular interstitial nucleus of the posterior commissure,F4E35F,Rest Forebrain,C86A39,1
+IPT,16598,intermediate pretectal nucleus,F4E35F,Rest Forebrain,C86A39,1
+CoPLRt,16599,reticular formation of CoPL,F4E35F,Rest Forebrain,C86A39,1
+CoPLs,16600,superficial stratum of CoPL,F4E35F,Rest Forebrain,C86A39,1
+LTL,16601,lateral terminal nucleus of the accessory optic tract- lateral part,F4E35F,Rest Forebrain,C86A39,1
+CoPV,16602,ventral part of CoP,FFE524,Rest Forebrain,C86A39,1
+CoPVm,16604,mantle zone of CoPV,F4E35F,Rest Forebrain,C86A39,1
+CoPVp,16605,periventricular stratum of CoPV,F4E35F,Rest Forebrain,C86A39,1
+CoPV-PAG,16606,CoPV part of the periaqueductal gray,F4E35F,Rest Forebrain,C86A39,1
+CoPVi,16607,intermediate stratum of CoPV,F4E35F,Rest Forebrain,C86A39,1
+SPT,16608,subpretectal nucleus,F4E35F,Rest Forebrain,C86A39,1
+MCPC,16609,magnocellular interstitial nucleus of the posterior commissure,F4E35F,Rest Forebrain,C86A39,1
+CoPVs,16610,superficial stratum of CoPV,F4E35F,Rest Forebrain,C86A39,1
+LTV,16611,lateral terminal nucleus of the accessory optic tract- ventral part,F4E35F,Rest Forebrain,C86A39,1
+p1AVL,16612,ventrolateral part of alar p1,FFE524,Rest Forebrain,C86A39,1
+p1Lim,16613,liminal part of alar p1,FFE524,Rest Forebrain,C86A39,1
+p1Limv,16614,ventricular zone of p1Lim,FFE524,Rest Forebrain,C86A39,1
+p1Limm,16615,mantle zone of p1Lim,F4E35F,Rest Forebrain,C86A39,1
+p1Limp,16616,periventricular stratum of p1Lim,F4E35F,Rest Forebrain,C86A39,1
+p1Lim-PAG,16617,p1Lim part of periaqueductal gray,F4E35F,Rest Forebrain,C86A39,1
+p1Limi,16618,intermediate stratum of p1Lim,F4E35F,Rest Forebrain,C86A39,1
+p1LimRt,16619,reticular formation of p1Lim,F4E35F,Rest Forebrain,C86A39,1
+p1Lims,16621,superficial stratum of p1Lim,F4E35F,Rest Forebrain,C86A39,1
+M,16649,midbrain,17B317,Rest Midbrain,17B317,1
+m1,16650,mesomere 1,17B317,Rest Midbrain,17B317,1
+MTt,16651,collicular (rostral) midbrain tectum,17B317,Rest Midbrain,17B317,1
+m1A,16658,alar plate of m1,17B317,Rest Midbrain,17B317,1
+m1ADL,16668,dorsolateral part of m1A,17B317,Rest Midbrain,17B317,1
+TG,16669,tectal gray formation,17B317,Rest Midbrain,17B317,1
+TGv,16670,ventricular zone of TG,17B317,Rest Midbrain,17B317,1
+TGm,16671,mantle zone of TG,4EC54E,Rest Midbrain,17B317,1
+TGp,16672,periventricular stratum of TG,4EC54E,Rest Midbrain,17B317,1
+TGDL-PAG,16673,dorsolateral TG part of the periaqueductal gray,4EC54E,Rest Midbrain,17B317,1
+TGi,16674,intermediate stratum of TG,4EC54E,Rest Midbrain,17B317,1
+TGC,16675,central layers of TG,4EC54E,Rest Midbrain,17B317,1
+TGs,16676,superficial stratum of TG,4EC54E,Rest Midbrain,17B317,1
+TGS,16677,superficial layers of TG,4EC54E,Rest Midbrain,17B317,1
+SC,16678,colliculus superior,17B317,Rest Midbrain,17B317,1
+SCv,16679,ventricular zone of SC,17B317,Rest Midbrain,17B317,1
+SCm,16680,mantle zone of SC,4EC54E,Rest Midbrain,17B317,1
+SCi,16684,intermediate stratum of SC,4EC54E,Rest Midbrain,17B317,1
+InWh,16686,intermediate white layer of SC,4EC54E,Rest Midbrain,17B317,1
+InG,16687,intermediate gray layer of SC,4EC54E,Rest Midbrain,17B317,1
+SCs,16688,superficial stratum of SC,4EC54E,Rest Midbrain,17B317,1
+Op,16689,optic fiber layer of SC,4EC54E,Rest Midbrain,17B317,1
+SuG,16690,superficial gray layer of SC,4EC54E,Rest Midbrain,17B317,1
+Zo,16691,zonal layer of SC,4EC54E,Rest Midbrain,17B317,1
+IC,16692,inferior colliculus,17B317,Rest Midbrain,17B317,1
+ICv,16693,ventricular zone of IC,17B317,Rest Midbrain,17B317,1
+ICm,16694,mantle zone of IC,4EC54E,Rest Midbrain,17B317,1
+ICi,16697,intermediate stratum of IC,4EC54E,Rest Midbrain,17B317,1
+CIC,16698,central nucleus of the inferior colliculus,4EC54E,Rest Midbrain,17B317,1
+ICs,16699,superficial stratum of IC,4EC54E,Rest Midbrain,17B317,1
+DCIC,16701,dorsal cortical nucleus of inferior colliculus,4EC54E,Rest Midbrain,17B317,1
+ECIC,16702,external cortical nucleus of inferior colliculus,4EC54E,Rest Midbrain,17B317,1
+m1AVL,16716,ventrolateral part of alar m1,17B317,Rest Midbrain,17B317,1
+m1Lim,16717,liminal alar domain of m1,17B317,Rest Midbrain,17B317,1
+m1Limv,16718,ventricular zone of m1Lim,17B317,Rest Midbrain,17B317,1
+m1Limm,16719,mantle zone of m1Lim,4EC54E,Rest Midbrain,17B317,1
+m1Limp,16720,periventricular stratum of m1Lim,4EC54E,Rest Midbrain,17B317,1
+m1Lim-PAG,16721,m1Lim (VL) part of the periaqueductal gray,4EC54E,Rest Midbrain,17B317,1
+m1Limi,16722,intermediate stratum of m1Lim,4EC54E,Rest Midbrain,17B317,1
+m1LimRt,16723,m1Lim part of the midbrain reticular formation,4EC54E,Rest Midbrain,17B317,1
+m1Lims,16724,superficial stratum of m1Lim,4EC54E,Rest Midbrain,17B317,1
+m2,16751,mesomere 2 (preisthmus or caudal midbrain),00D100,Rest Midbrain,17B317,1
+PIsTt,16752,preisthmic midbrain tectum,00D100,Rest Midbrain,17B317,1
+m2R,16753,m2 roof,93EC93,Rest Midbrain,17B317,1
+m2Rv,112892285,ventricular zone of m2R,61E361,Rest Midbrain,17B317,1
+m2Rm,112892287,mantle zone of m2R,93EC93,Rest Midbrain,17B317,1
+m2Rp,112892289,periventricular stratum of m2R,93EC93,Rest Midbrain,17B317,1
+m2Ri,112892291,intermediate stratum of m2R,93EC93,Rest Midbrain,17B317,1
+m2Rs,112892293,superficial stratum of m2R,93EC93,Rest Midbrain,17B317,1
+m2A,16754,m2 alar plate,00D100,Rest Midbrain,17B317,1
+m2AD,16755,dorsal part of m2A,00D100,Rest Midbrain,17B317,1
+m2ADv,16756,ventricular zone of m2AD,00D100,Rest Midbrain,17B317,1
+m2ADm,16757,mantle zone of m2AD,61E361,Rest Midbrain,17B317,1
+m2ADp,16758,periventricular stratum of m2AD,61E361,Rest Midbrain,17B317,1
+m2ADi,16760,intermediate stratum of m2AD,61E361,Rest Midbrain,17B317,1
+m2ADs,16761,superficial stratum of m2AD,61E361,Rest Midbrain,17B317,1
+m2ADL,16762,dorsolateral part of m2A,00D100,Rest Midbrain,17B317,1
+m2ADLm,16764,mantle zone of m2ADL,61E361,Rest Midbrain,17B317,1
+m2ADLp,16765,periventricular stratum of m2ADL,61E361,Rest Midbrain,17B317,1
+PIsDL-PAG,16766,dorsolateral preisthmic part of periaqueductal gray,61E361,Rest Midbrain,17B317,1
+m2ADLi,16767,intermediate stratum of m2ADL,61E361,Rest Midbrain,17B317,1
+SagD,16768,nucleus sagulum- deep part,61E361,Rest Midbrain,17B317,1
+m2ADLs,16769,superficial stratum of m2ADL,61E361,Rest Midbrain,17B317,1
+SagS,16770,nucleus sagulum- superficial part,61E361,Rest Midbrain,17B317,1
+m2AL,16771,lateral part of m2A,00D100,Rest Midbrain,17B317,1
+m2ALv,16772,ventricular zone of m2AL,00D100,Rest Midbrain,17B317,1
+m2ALm,16773,mantle zone of m2AL,61E361,Rest Midbrain,17B317,1
+m2ALp,16774,periventricular stratum of m2AL,61E361,Rest Midbrain,17B317,1
+PIsL-PAG,16775,lateral part of preisthmic periaqueductal gray,61E361,Rest Midbrain,17B317,1
+m2ALi,16776,intermediate stratum of m2AL,61E361,Rest Midbrain,17B317,1
+CnF,16777,cuneiform nucleus,61E361,Rest Midbrain,17B317,1
+m2ALs,16778,superficial stratum of m2AL,61E361,Rest Midbrain,17B317,1
+m2AVL,16780,ventrolateral part of m2A,00D100,Rest Midbrain,17B317,1
+m2Lim,16781,liminal alar domain of m2,00D100,Rest Midbrain,17B317,1
+m2Limm,16783,mantle zone of m2Lim,61E361,Rest Midbrain,17B317,1
+m2Limp,16784,periventricular stratum of m2Lim,61E361,Rest Midbrain,17B317,1
+m2Lim-PAG,16785,liminal periaqueductal gray of m2,61E361,Rest Midbrain,17B317,1
+m2Limi,16786,intermediate stratum of m2Lim,61E361,Rest Midbrain,17B317,1
+SCnF,16787,subcuneiform nucleus,61E361,Rest Midbrain,17B317,1
+m2LimRt,16788,liminal reticular formation of m2,61E361,Rest Midbrain,17B317,1
+m2Lims,16789,superficial stratum of m2Lim,61E361,Rest Midbrain,17B317,1
+isR,16811,isthmic roof plate,F38BFF,Cerebellum,EA37FF,1
+isRv,16812,ventricular zone of isR,F070FF,Cerebellum,EA37FF,1
+isRm,114403715,mantle zone of isR,F38BFF,Cerebellum,EA37FF,1
+isRi,114403723,intermediate stratum of isR,F38BFF,Cerebellum,EA37FF,1
+isRs,114403727,superficial stratum of isR,F38BFF,Cerebellum,EA37FF,1
+isVeCb,16827,isthmic vestibulocerebellar nucleus,F070FF,Cerebellum,EA37FF,1
+isADL,16843,dorsolateral (non-cerebellar) part of isA,EA37FF,Cerebellum,EA37FF,1
+isADLv,111220612,ventricular zone of isADL,EA37FF,Cerebellum,EA37FF,1
+isADLm,111220614,mantle zone of isADL,F070FF,Cerebellum,EA37FF,1
+isADLp,112892309,periventricular stratum of isADL,F070FF,Cerebellum,EA37FF,1
+isADLi,112892311,intermediate stratum of isADL,F070FF,Cerebellum,EA37FF,1
+isADLs,112892313,superficial stratum of isADL,F070FF,Cerebellum,EA37FF,1
+PBC,16844,parabrachial complex,EA37FF,Cerebellum,EA37FF,1
+PBm,16846,mantle zone of the PBC,F070FF,Cerebellum,EA37FF,1
+PBp,16847,periventricular stratum of the PBC,F070FF,Cerebellum,EA37FF,1
+PB-PAG,16848,parabrachial part of the periaqueductal gray,F070FF,Cerebellum,EA37FF,1
+PBi,16849,intermediate stratum of the PBC,F070FF,Cerebellum,EA37FF,1
+MPB,16850,medial parabrachial nucleus,F070FF,Cerebellum,EA37FF,1
+PBs,16851,superficial stratum of the PBC,F070FF,Cerebellum,EA37FF,1
+LPB,16852,lateral parabrachial nucleus,F070FF,Cerebellum,EA37FF,1
+KF,16853,Koelliker-Fuse nucleus,F070FF,Cerebellum,EA37FF,1
+Ist,16854,isthmus proper,EA37FF,Cerebellum,EA37FF,1
+Istm,16856,mantle zone of Ist,F070FF,Cerebellum,EA37FF,1
+Istp,16857,periventricular stratum of Ist,F070FF,Cerebellum,EA37FF,1
+Ist-PAG,16858,isthmic part of the periaqueductal gray,F070FF,Cerebellum,EA37FF,1
+Isti,16859,intermediate stratum of Ist,F070FF,Cerebellum,EA37FF,1
+DLL,16860,dorsal nucleus of the lateral lemniscus,F070FF,Cerebellum,EA37FF,1
+Ists,16861,superficial stratum of Ist,F070FF,Cerebellum,EA37FF,1
+PBG,16862,parabigeminal nucleus,F070FF,Cerebellum,EA37FF,1
+PeLA,16863,perilemniscal isthmic area,F070FF,Cerebellum,EA37FF,1
+isAVL,16864,ventrolateral part of isA,EA37FF,Cerebellum,EA37FF,1
+isLim,16865,liminal part of alar isthmus,EA37FF,Cerebellum,EA37FF,1
+isLimv,16866,ventricular zone of isLim,EA37FF,Cerebellum,EA37FF,1
+isLimm,16867,mantle zone of isLim,F070FF,Cerebellum,EA37FF,1
+isLimp,16868,periventricular stratum of isLim,F070FF,Cerebellum,EA37FF,1
+isLim-PAG,16869,isthmic liminal part of the periaqueductal gray,F070FF,Cerebellum,EA37FF,1
+isMes5,16870,isthmic part of mesencephalic trigeminal nucleus,F070FF,Cerebellum,EA37FF,1
+isLimi,16871,intermediate stratum of isLim,F070FF,Cerebellum,EA37FF,1
+isLimRt,16873,isthmic liminal reticular area,F070FF,Cerebellum,EA37FF,1
+isLims,16874,superficial stratum of isLim,F070FF,Cerebellum,EA37FF,1
+isILL,16875,isthmic part of the intermediate lateral lemniscal nucleus,F070FF,Cerebellum,EA37FF,1
+isPaL,16886,paralemniscal isthmic area,F070FF,Cerebellum,EA37FF,1
+r1Lim,16959,liminal part of alar r1,EE5DFF,Rest Hindbrain,EA37FF,1
+r1Limv,16960,ventricular zone of r1Lim,EE5DFF,Rest Hindbrain,EA37FF,1
+r1Limm,16961,mantle zone of r1Lim,F284FF,Rest Hindbrain,EA37FF,1
+r1Limp,111220636,periventricular stratum of r1Lim,F284FF,Rest Hindbrain,EA37FF,1
+LDTg,16964,laterodorsal tegmental nucleus,F284FF,Rest Hindbrain,EA37FF,1
+r1Mes5,16966,r1 part of the 'mesencephalic' trigeminal nucleus,F284FF,Rest Hindbrain,EA37FF,1
+r1Lims,111220640,superficial stratum of r1Lim,F284FF,Rest Hindbrain,EA37FF,1
+r8R,17417,r8 roof plate,81E4D1,Rest Hindbrain,EA37FF,1
+ ,, , , , ,
+RSP,15568,rostral secondary prosencephalon,A84D10,Hypothalamus,A84D10,2
+AVPe,15591,anteroventral periventricular preoptic nucleus,B46632,Hypothalamus,A84D10,2
+PO1s,15597,superficial stratum of PO1,B46632,Hypothalamus,A84D10,2
+DMPAs,15598,dorsomedial preoptic area- superficial part,B46632,Hypothalamus,A84D10,2
+PO2s,15610,superficial stratum of PO2,B46632,Hypothalamus,A84D10,2
+VMPO,15611,ventromedial preoptic nucleus,B46632,Hypothalamus,A84D10,2
+VLPO,15612,ventrolateral preoptic nucleus,B46632,Hypothalamus,A84D10,2
+POHs,15620,superficial stratum of POH,B46632,Hypothalamus,A84D10,2
+ESO,15621,episupraoptic nucleus,B46632,Hypothalamus,A84D10,2
+THy,15622,terminal hypothalamus (rostral hypothalamus),A8663A,Hypothalamus,A84D10,2
+THyA,15623,alar part of terminal hypothalamus,A8663A,Hypothalamus,A84D10,2
+TPaA,15624,terminal paraventricular area of THyA,A8663A,Hypothalamus,A84D10,2
+TPaAv,15625,ventricular zone of TPaA,A8663A,Hypothalamus,A84D10,2
+TPaAm,15626,mantle zone of TPaA,B0754D,Hypothalamus,A84D10,2
+TPaAp,15627,periventricular stratum of TPaA,B0754D,Hypothalamus,A84D10,2
+RPa,15628,rostral paraventricular nucleus,B0754D,Hypothalamus,A84D10,2
+LA,15630,lateral anterior hypothalamic nucleus,B0754D,Hypothalamus,A84D10,2
+TPaAs,15632,superficial stratum of TPaA,B0754D,Hypothalamus,A84D10,2
+SO,15633,supraoptic nucleus,B0754D,Hypothalamus,A84D10,2
+TSPaA,15653,terminal subparaventricular area of THyA,A8663A,Hypothalamus,A84D10,2
+TSPaAv,15654,ventricular zone of TSPaA,A8663A,Hypothalamus,A84D10,2
+TSPaAm,15655,mantle zone of TSPaA,B0754D,Hypothalamus,A84D10,2
+TSPaAp,15656,periventricular stratum of TSPaA,B0754D,Hypothalamus,A84D10,2
+SCHp,15657,suprachiasmatic nucleus- periventricular part,B0754D,Hypothalamus,A84D10,2
+TSPaAi,15659,intermediate stratum of TSPaA,B0754D,Hypothalamus,A84D10,2
+SCH,15660,suprachiasmatic nucleus,B0754D,Hypothalamus,A84D10,2
+AH,15662,anterior hypothalamic nucleus,B0754D,Hypothalamus,A84D10,2
+TSPaAs,15663,superficial stratum of TSPaA,B0754D,Hypothalamus,A84D10,2
+SCHs,15664,shell of SCH,B0754D,Hypothalamus,A84D10,2
+THyB,15666,basal part of terminal hypothalamus,86522E,Hypothalamus,A84D10,2
+THyB-D,15667,dorsal part of THyB,86522E,Hypothalamus,A84D10,2
+THyB-Dv,15668,ventricular zone of THyB-D,86522E,Hypothalamus,A84D10,2
+THyB-Dm,15669,mantle zone of THyB-D,975C34,Hypothalamus,A84D10,2
+THyB-Dp,15670,periventricular stratum of THyB-D,975C34,Hypothalamus,A84D10,2
+ABasp,15671,periventricular part of the anterobasal nucleus,975C34,Hypothalamus,A84D10,2
+VMHp,15672,periventricular domain associated to VMH,975C34,Hypothalamus,A84D10,2
+THyB-Di,15673,intermediate stratum of THyB-D,975C34,Hypothalamus,A84D10,2
+ABasc,15674,core part of the anterobasal nucleus,975C34,Hypothalamus,A84D10,2
+VMH,15675,ventromedial hypothalamic nucleus,975C34,Hypothalamus,A84D10,2
+VMHdm,15676,dorsomedial part of VMH,975C34,Hypothalamus,A84D10,2
+VMHce,15677,central part of VMH,975C34,Hypothalamus,A84D10,2
+VMHvl,15678,ventrolateral part of VMH,975C34,Hypothalamus,A84D10,2
+VMHsh,15679,shell of VMH,975C34,Hypothalamus,A84D10,2
+THyB-Ds,15680,superficial stratum of THyB-D,975C34,Hypothalamus,A84D10,2
+ABass,15681,shell part of the anterobasal nucleus,975C34,Hypothalamus,A84D10,2
+SbO,15682,suboptic nucleus,975C34,Hypothalamus,A84D10,2
+Tu,15683,tuberal nucleus,975C34,Hypothalamus,A84D10,2
+THyB-I,15684,intermediate part of THyB,86522E,Hypothalamus,A84D10,2
+THyB-Iv,15685,ventricular zone of THyB-I,86522E,Hypothalamus,A84D10,2
+THyB-Im,15686,mantle zone of THyB-I,975C34,Hypothalamus,A84D10,2
+THyB-Ip,15687,periventricular stratum of THyB-I,975C34,Hypothalamus,A84D10,2
+Arcp,15688,periventricular part of the arcuate nucleus,975C34,Hypothalamus,A84D10,2
+ME,15689,median eminence,975C34,Hypothalamus,A84D10,2
+Inf,15690,infundibulum,975C34,Hypothalamus,A84D10,2
+T-DMHp,15692,periventricular domain associated to T-DMH,975C34,Hypothalamus,A84D10,2
+THyB-Ii,15693,intermediate stratum of THyB-I,975C34,Hypothalamus,A84D10,2
+T-DMH,15694,dorsomedial nucleus- terminal part,975C34,Hypothalamus,A84D10,2
+T-DMHc,15695,core of T-DMH,975C34,Hypothalamus,A84D10,2
+T-DMHs,15696,shell of T-DMH,975C34,Hypothalamus,A84D10,2
+Arci,15697,intermediate part of the arcuate nucleus,975C34,Hypothalamus,A84D10,2
+PMV,15698,ventral premammillary nucleus (migrated),975C34,Hypothalamus,A84D10,2
+THyB-Is,15699,superficial stratum of THyB-I,975C34,Hypothalamus,A84D10,2
+Arcs,15700,superficial part of arcuate nucleus,975C34,Hypothalamus,A84D10,2
+MTu,15701,medial tuberal nucleus,975C34,Hypothalamus,A84D10,2
+THyB-V,15702,ventral part of THyB,86522E,Hypothalamus,A84D10,2
+THyB-Vv,15703,ventricular zone of THyB-V,86522E,Hypothalamus,A84D10,2
+THyB-Vm,15705,mantle zone of THyB-V,975C34,Hypothalamus,A84D10,2
+THyB-Vi,15708,intermediate stratum of THyB-V,975C34,Hypothalamus,A84D10,2
+VTMi,15709,ventral tuberomammillary nucleus- intermediate part (histaminergic),975C34,Hypothalamus,A84D10,2
+THyB-Vs,15710,superficial stratum of THyB-V,975C34,Hypothalamus,A84D10,2
+VTMs,15711,ventral tuberomammillary nucleus- superficial part (histaminergic),975C34,Hypothalamus,A84D10,2
+THyB-P,15712,perimammillary part of THyB,86522E,Hypothalamus,A84D10,2
+THyB-Pv,15713,ventricular zone of THyB-P,86522E,Hypothalamus,A84D10,2
+THyB-Pm,15715,mantle zone of THyB-P,975C34,Hypothalamus,A84D10,2
+THyB-Pp,15716,periventricular stratum of THyB-P,975C34,Hypothalamus,A84D10,2
+PPeM,15717,periventricular perimammillary area,975C34,Hypothalamus,A84D10,2
+THyB-Pi,15718,intermediate stratum of THyB-P,975C34,Hypothalamus,A84D10,2
+PMD,15719,dorsal premammillary nucleus,975C34,Hypothalamus,A84D10,2
+THyB-Ps,15720,superficial stratum of THyB-P,975C34,Hypothalamus,A84D10,2
+Te,15721,terete nucleus,975C34,Hypothalamus,A84D10,2
+THyB-M,15722,mammillary part of THyB,86522E,Hypothalamus,A84D10,2
+Mam,15723,mammillary area,86522E,Hypothalamus,A84D10,2
+Mamv,15724,ventricular zone of Mam,86522E,Hypothalamus,A84D10,2
+Mamm,15725,mantle zone of Mam,975C34,Hypothalamus,A84D10,2
+Mamp,15726,periventricular stratum of Mam,975C34,Hypothalamus,A84D10,2
+MnM,15727,median mammillary nucleus,975C34,Hypothalamus,A84D10,2
+Mami,15728,intermediate stratum of Mam,975C34,Hypothalamus,A84D10,2
+MM,15729,medial mammillary nucleus,975C34,Hypothalamus,A84D10,2
+MMm,15730,medial part of MM,975C34,Hypothalamus,A84D10,2
+MMl,15731,lateral part of MM,975C34,Hypothalamus,A84D10,2
+Mams,15733,superficial stratum of Mam,975C34,Hypothalamus,A84D10,2
+LM,15734,lateral mammillary nucleus,975C34,Hypothalamus,A84D10,2
+VTMm,15735,ventral tuberomammillary nucleus- migrated part (histaminergic),975C34,Hypothalamus,A84D10,2
+THyF,15736,floor of terminal hypothalamus,6D4226,Hypothalamus,A84D10,2
+PHyB,16247,basal peduncular hypothalamus,B25B46,Rest Forebrain,C86A39,2
+PHyB-Dv,16249,ventricular zone of PHyB-D,B25B46,Rest Forebrain,C86A39,2
+PHyB-Dp,16251,periventricular stratum of PHyB-D,C9674E,Rest Forebrain,C86A39,2
+PHyB-I,16259,intermediate part of PHyB,B25B46,Rest Forebrain,C86A39,2
+PHyB-Im,16261,mantle zone of PHyB-I,C9674E,Rest Forebrain,C86A39,2
+PHyB-Ip,16262,periventricular stratum of PHyB-I,C9674E,Rest Forebrain,C86A39,2
+PHyB-Ii,16264,intermediate stratum of PHyB-I,C9674E,Rest Forebrain,C86A39,2
+LBLH,16268,lower basal lateral hypothalamic area,C9674E,Rest Forebrain,C86A39,2
+LBPeF,16269,lower basal perifornical nucleus,C9674E,Rest Forebrain,C86A39,2
+PHyB-Is,16270,superficial stratum of PHyB-I,C9674E,Rest Forebrain,C86A39,2
+LTu,16271,lateral tuberal nucleus,C9674E,Rest Forebrain,C86A39,2
+PHyB-V,16274,ventral part of PHyB,B25B46,Rest Forebrain,C86A39,2
+PHyB-Vm,16277,mantle zone of PHyB-V,C9674E,Rest Forebrain,C86A39,2
+PHyB-Vs,16282,superficial stratum of PHyB-V,C9674E,Rest Forebrain,C86A39,2
+PTe,16283,paraterete nucleus,C9674E,Rest Forebrain,C86A39,2
+PHyB-P,16285,perimammillary part of PHyB,B25B46,Rest Forebrain,C86A39,2
+PHyB-Pm,16287,mantle zone of PHyB-P,C9674E,Rest Forebrain,C86A39,2
+PHyB-Ps,16292,superficial stratum of PHyB-P,C9674E,Rest Forebrain,C86A39,2
+LPRM,16293,lateral periretromammillary nucleus,C9674E,Rest Forebrain,C86A39,2
+PHyB-M,16294,mammillary part of PHyB,B25B46,Rest Forebrain,C86A39,2
+RMa,16295,retromammillary area,B25B46,Rest Forebrain,C86A39,2
+RMav,16296,ventricular zone of RMa,B25B46,Rest Forebrain,C86A39,2
+RMam,16297,mantle zone of RMa,C9674E,Rest Forebrain,C86A39,2
+RMai,16301,intermediate stratum of RMa,C9674E,Rest Forebrain,C86A39,2
+RML,16302,retromammillary area- lateral part,C9674E,Rest Forebrain,C86A39,2
+PHyF,16306,floor of peduncular hypothalamus,AB6553,Rest Forebrain,C86A39,2
+p3Bv,16354,ventricular zone of p3B,CCC383,Rest Forebrain,C86A39,2
+p3Fv,16369,ventricular zone of p3F,8D885B,Rest Forebrain,C86A39,2
+p2Bv,16488,ventricular zone of p2B,CCBE50,Rest Forebrain,C86A39,2
+p1Bv,16625,ventricular zone of p1B,CCB71D,Rest Forebrain,C86A39,2
+MiTg,16872,microcellular tegmental nucleus,F070FF,Cerebellum,EA37FF,2
+r3BIs,17141,superficial stratum of r3BI,853BE6,Pons,9442FF,2
+r3LPn,17142,r3 part of lateral pontine nuclei,853BE6,Pons,9442FF,2
+r3BM,17143,medial part of r3B,7635CC,Pons,9442FF,2
+r3BMv,17144,ventricular zone of r3BM,7635CC,Pons,9442FF,2
+r3BMm,17145,mantle zone of r3BM,853BE6,Pons,9442FF,2
+r3BMp,17146,periventricular stratum of r3BM,853BE6,Pons,9442FF,2
+r3BMs,17153,superficial stratum of r3BM,853BE6,Pons,9442FF,2
+r3MPn,17154,r3 part of medial pontine nuclei,853BE6,Pons,9442FF,2
+r3F,17155,r3 floor plate,682EB3,Pons,9442FF,2
+r3Fv,112892343,ventricular zone of r3F,613F93,Pons,9442FF,2
+r3Fm,112892345,mantle zone of r3F,7635CC,Pons,9442FF,2
+r3Fp,112892347,periventricular stratum of r3F,7635CC,Pons,9442FF,2
+r3Fi,112892349,intermediate stratum of r3F,7635CC,Pons,9442FF,2
+r3Fs,112892351,superficial stratum of r3F,7635CC,Pons,9442FF,2
+r4BIs,17205,superficial stratum of r4BI,8E59E6,Pons,9442FF,2
+r4LPn,17206,r4 part of lateral pontine nuclei,8E59E6,Pons,9442FF,2
+r4BM,17207,medial part of r4B,7E4FCC,Pons,9442FF,2
+r4BMv,17208,ventricular zone of r4BM,7E4FCC,Pons,9442FF,2
+r4BMm,17209,mantle zone of r4BM,8E59E6,Pons,9442FF,2
+r4BMp,17210,periventricular stratum of r4BM,8E59E6,Pons,9442FF,2
+r4BMs,17217,superficial stratum of r4BM,8E59E6,Pons,9442FF,2
+r4MPn,17218,r4 part of medial pontine nuclei,8E59E6,Pons,9442FF,2
+r4F,17219,r4 floor plate,6F45B3,Pons,9442FF,2
+r4Fv,112892353,ventricular zone of r4F,674998,Pons,9442FF,2
+r4Fm,112892355,mantle zone of r4F,7E4FCC,Pons,9442FF,2
+r4Fi,112892359,intermediate stratum of r4F,7E4FCC,Pons,9442FF,2
+r4Fs,112892361,superficial stratum of r4F,7E4FCC,Pons,9442FF,2
+ ,, , , , ,
+H,16808,hindbrain,EA37FF,Rest Hindbrain,EA37FF,3
+PPH,16809,prepontine hindbrain,EA37FF,Rest Hindbrain,EA37FF,3
+is,16810,isthmus,EA37FF,Cerebellum,EA37FF,3
+isA,16813,isthmic alar plate,EA37FF,Cerebellum,EA37FF,3
+CbV,16814,cerebellar vermis,EA37FF,Cerebellum,EA37FF,3
+CbVv,16817,ventricular zone of cerebellar vermis,EA37FF,Cerebellum,EA37FF,3
+CbVm,16818,mantle zone of cerebellar vermis,F070FF,Cerebellum,EA37FF,3
+CbVp,16819,periventricular stratum of cerebellar vermis,F070FF,Cerebellum,EA37FF,3
+CbVWM,16820,white matter of cerebellar vermis,F070FF,Cerebellum,EA37FF,3
+CbVi,16821,intermediate stratum of cerebellar vermis,F070FF,Cerebellum,EA37FF,3
+CbVN,16822,cerebellar nuclei of CbV,F070FF,Cerebellum,EA37FF,3
+Med,16823,medial (fastigial) cerebellar nucleus,F070FF,Cerebellum,EA37FF,3
+MedM,16824,medial (main) part of Med,F070FF,Cerebellum,EA37FF,3
+MedL,16825,lateral part of Med,F070FF,Cerebellum,EA37FF,3
+MedDL,16826,dorsolateral part of Med,F070FF,Cerebellum,EA37FF,3
+CbVs,16828,superficial stratum of cerebellar vermis,F070FF,Cerebellum,EA37FF,3
+CbVCx,16829,cortex of cerebellar vermis,F070FF,Cerebellum,EA37FF,3
+MolV,16840,molecular layer of CbVCx,F070FF,Cerebellum,EA37FF,3
+PkV,16841,Purkinje cell layer of CbVCx,D332E6,Cerebellum,EA37FF,3
+IGrV,16842,internal granular layer of CbVCx,BB2CCC,Cerebellum,EA37FF,3
+r1,16915,rhombomere 1,EE5DFF,Rest Hindbrain,EA37FF,3
+r1R,16916,r1 roof plate,F5B5FF,Rest Hindbrain,EA37FF,3
+r1A,16919,r1 alar plate,EE5DFF,Rest Hindbrain,EA37FF,3
+CbH,16920,cerebellar hemisphere,F284FF,Rest Hindbrain,EA37FF,3
+CbHv,16922,ventricular zone of CbH,EE5DFF,Rest Hindbrain,EA37FF,3
+CbHm,16924,mantle zone of CbH,F284FF,Rest Hindbrain,EA37FF,3
+CbHp,16925,periventricular stratum of CbH,F284FF,Rest Hindbrain,EA37FF,3
+CbHWM,16926,cerebellar white matter,F284FF,Rest Hindbrain,EA37FF,3
+CbHi,16927,intermediate stratum of CbH,F284FF,Rest Hindbrain,EA37FF,3
+CbHN,16928,cerebellar nuclei of CbH,F284FF,Rest Hindbrain,EA37FF,3
+Int,16929,intermediate (interpositus) cerebellar nucleus,F284FF,Rest Hindbrain,EA37FF,3
+IntA,16930,anterior part of Int,F284FF,Rest Hindbrain,EA37FF,3
+IntDL,16931,dorsolateral part of Int,F284FF,Rest Hindbrain,EA37FF,3
+IntP,16932,posterior part of Int,F284FF,Rest Hindbrain,EA37FF,3
+Lat,16933,lateral (dentate) cerebellar nucleus,F284FF,Rest Hindbrain,EA37FF,3
+LatDL,16934,dorsolateral part of Lat,F284FF,Rest Hindbrain,EA37FF,3
+LatPC,16935,parvicellular part of Lat,F284FF,Rest Hindbrain,EA37FF,3
+r1VeCb,16936,r1 part of vestibulocerebellar nucleus,F284FF,Rest Hindbrain,EA37FF,3
+CbHs,16938,superficial stratum of cerebellar hemisphere,F284FF,Rest Hindbrain,EA37FF,3
+CbHCx,16939,cortex of cerebellar hemisphere,F284FF,Rest Hindbrain,EA37FF,3
+MolH,16947,molecular layer of CbHCx,F284FF,Rest Hindbrain,EA37FF,3
+PkH,16948,Purkinje cell layer of CbHCx,D332E6,Rest Hindbrain,EA37FF,3
+IGrH,16949,internal granular layer of CbHCx,BB2CCC,Rest Hindbrain,EA37FF,3
+r1Ve,16950,r1 part of vestibular sensory column,EE5DFF,Rest Hindbrain,EA37FF,3
+r1Vev,16951,ventricular zone of r1Ve,EE5DFF,Rest Hindbrain,EA37FF,3
+r1Vem,16952,mantle zone of r1Ve,F284FF,Rest Hindbrain,EA37FF,3
+r1Vep,111220624,periventricular stratum of r1Ve,F284FF,Rest Hindbrain,EA37FF,3
+r1Vei,111220626,intermediate stratum of r1Ve,F284FF,Rest Hindbrain,EA37FF,3
+r1SuVe,16953,r1 part of superior vestibular nucleus,F284FF,Rest Hindbrain,EA37FF,3
+r1Ves,111220628,superficial stratum of r1Ve,F284FF,Rest Hindbrain,EA37FF,3
+r2Co,17026,r2 part of cochlear sensory column,EE80FF,Rest Hindbrain,EA37FF,3
+r2Cov,17027,ventricular zone of r2Co,EE80FF,Rest Hindbrain,EA37FF,3
+r2Com,17028,mantle zone of r2Co,F29EFF,Rest Hindbrain,EA37FF,3
+r2Cop,111220650,periventricular stratum of r2Co,F29EFF,Rest Hindbrain,EA37FF,3
+r2DC,17029,r2 part of dorsal cochlear nucleus,F29EFF,Rest Hindbrain,EA37FF,3
+r2Coi,111220652,intermediate stratum of r2Co,F29EFF,Rest Hindbrain,EA37FF,3
+r2Cos,111220654,superficial stratum of r2Co,F29EFF,Rest Hindbrain,EA37FF,3
+r2AVC,17030,r2 part of anteroventral cochlear nucleus,F29EFF,Rest Hindbrain,EA37FF,3
+r3Co,17096,r3 part of cochlear sensory column,9442FF,Pons,9442FF,3
+r3Cov,17097,ventricular zone of r3Co,9442FF,Pons,9442FF,3
+r3Com,17098,mantle zone of r3Co,A35DFF,Pons,9442FF,3
+r3Cop,111220682,periventricular stratum of r3Co,A35DFF,Pons,9442FF,3
+r3DC,17099,r3 part of dorsal cochlear nucleus,A35DFF,Pons,9442FF,3
+r3Coi,111220684,intermediate stratum of r3Co,A35DFF,Pons,9442FF,3
+r3Cos,111220686,superficial stratum of r3Co,A35DFF,Pons,9442FF,3
+r3AVC,17100,r3 part of anteroventral cochlear nucleus,A35DFF,Pons,9442FF,3
+r4R,17157,r4 roof plate,BA90FF,Pons,9442FF,3
+r4Co,17159,r4 part of cochlear sensory column,9E63FF,Pons,9442FF,3
+r4Cov,17160,ventricular zone of r4Co,9E63FF,Pons,9442FF,3
+r4Com,17161,mantle zone of r4Co,AC79FF,Pons,9442FF,3
+r4Cop,111220714,periventricular stratum of r4Co,AC79FF,Pons,9442FF,3
+r4DC,17162,r4 part of dorsal cochlear nucleus,AC79FF,Pons,9442FF,3
+r4Coi,111220716,intermediate stratum of r4Co,AC79FF,Pons,9442FF,3
+r4Cos,111220718,superficial stratum of r4Co,AC79FF,Pons,9442FF,3
+r4PVC,17163,r4 part of posteroventral cochlear nucleus,AC79FF,Pons,9442FF,3
+r5Co,17224,r5 part of the cochlear column,37A7FF,Rest Hindbrain,EA37FF,3
+r5Cov,17225,ventricular zone of r5Co,37A7FF,Rest Hindbrain,EA37FF,3
+r5Com,17226,mantle zone of r5Co,5DB8FF,Rest Hindbrain,EA37FF,3
+r5Cop,111220746,periventricular stratum of r5Co,5DB8FF,Rest Hindbrain,EA37FF,3
+r5DC,17227,r5 part of dorsal cochlear nucleus,5DB8FF,Rest Hindbrain,EA37FF,3
+r5Coi,111220748,intermediate stratum of r5Co,5DB8FF,Rest Hindbrain,EA37FF,3
+r5Cos,111220750,superficial stratum of r5Co,5DB8FF,Rest Hindbrain,EA37FF,3
+r5PVC,17228,r5 part of posteroventral cochlear nucleus,5DB8FF,Rest Hindbrain,EA37FF,3
+r6Co,17293,r6 part of the cochlear column,5DB8FF,Rest Hindbrain,EA37FF,3
+r6Cov,17294,ventricular zone of r6Co,5DB8FF,Rest Hindbrain,EA37FF,3
+r6Com,17295,mantle zone of r6Co,7CC6FF,Rest Hindbrain,EA37FF,3
+r6Cop,111220778,periventricular stratum of r6Co,7CC6FF,Rest Hindbrain,EA37FF,3
+r6DC,17296,r6 part of dorsal cochlear nucleus,7CC6FF,Rest Hindbrain,EA37FF,3
+r6Coi,111220780,intermediate stratum of r6Co,7CC6FF,Rest Hindbrain,EA37FF,3
+r6Cos,111220782,superficial stratum of r6Co,7CC6FF,Rest Hindbrain,EA37FF,3
+r6Ves,111220788,superficial stratum of r6Ve,7CC6FF,Rest Hindbrain,EA37FF,3
+r6SpVe,17301,r6 part of spinal vestibular nucleus,7CC6FF,Rest Hindbrain,EA37FF,3
+r7Co,17356,r7 part of cochlear column,12D9B9,Rest Hindbrain,EA37FF,3
+r7Com,17358,mantle zone of r7Co,56E4CD,Rest Hindbrain,EA37FF,3
+r7Cop,111220810,periventricular stratum of r7Co,56E4CD,Rest Hindbrain,EA37FF,3
+r7DC,17359,r7 part of the dorsal cochlear nucleus,56E4CD,Rest Hindbrain,EA37FF,3
+r7Cos,111220814,superficial stratum of r7Co,56E4CD,Rest Hindbrain,EA37FF,3
+r7PVC,17360,r7 part of the posteroventral cochlear nucleus,56E4CD,Rest Hindbrain,EA37FF,3
+r8Vep,111220842,periventricular stratum of r8Ve,79E2CE,Rest Hindbrain,EA37FF,3
+r8MVePC,17423,r8 part of parvocellular medial vestibular nucleus,79E2CE,Rest Hindbrain,EA37FF,3
+r9Ve,17479,r9 part of the vestibular column,75D9BF,Rest Hindbrain,EA37FF,3
+r9Vev,17480,ventricular zone of r9Ve,75D9BF,Rest Hindbrain,EA37FF,3
+r9Vem,17481,mantle zone of r9Ve,96E2CE,Rest Hindbrain,EA37FF,3
+r9Vep,111220868,periventricular stratum of r9Ve,96E2CE,Rest Hindbrain,EA37FF,3
+r9MVePC,17483,r9 part of parvocellular medial vestibular nucleus,96E2CE,Rest Hindbrain,EA37FF,3
+r9Vei,111220870,intermediate stratum of r9Ve,96E2CE,Rest Hindbrain,EA37FF,3
+r9SpVe,17482,r9 part of spinal vestibular nucleus,96E2CE,Rest Hindbrain,EA37FF,3
+r9Ves,111220872,superficial stratum of r9Ve,96E2CE,Rest Hindbrain,EA37FF,3
+r9ECu,17484,r9 part of external cuneate nucleus,96E2CE,Rest Hindbrain,EA37FF,3
+r10Ve,17541,r10 part of the vestibular column,91D9BF,Rest Hindbrain,EA37FF,3
+r10Vev,17542,ventricular zone of r10Ve,91D9BF,Rest Hindbrain,EA37FF,3
+r10Vem,17543,mantle zone of r10Ve,A6E0CB,Rest Hindbrain,EA37FF,3
+r10Vep,111220894,periventricular stratum of r10Ve,A6E0CB,Rest Hindbrain,EA37FF,3
+r10Vei,111220896,intermediate stratum of r10Ve,A6E0CB,Rest Hindbrain,EA37FF,3
+r10SpVe,17544,r10 part of spinal vestibular nucleus,A6E0CB,Rest Hindbrain,EA37FF,3
+r10Ves,111220898,superficial stratum of r10Ve,A6E0CB,Rest Hindbrain,EA37FF,3
+r10ECu,17546,r10 part of external cuneate nucleus,A6E0CB,Rest Hindbrain,EA37FF,3
+r10Trs,111220904,superficial stratum of r10Tr,A6E0CB,Rest Hindbrain,EA37FF,3
+r10Sp5C,17550,r10 part of spinal trigeminal nucleus- caudal part,A6E0CB,Rest Hindbrain,EA37FF,3
+r10Gr,17553,r10 part of nucleus gracilis,A6E0CB,Rest Hindbrain,EA37FF,3
+r11,17596,rhombomere 11,BFD9BF,Rest Hindbrain,EA37FF,3
+r11A,17598,r11 alar plate,BFD9BF,Rest Hindbrain,EA37FF,3
+r11Ve,17599,r11 part of the vestibular column,BFD9BF,Rest Hindbrain,EA37FF,3
+r11Vem,17601,mantle zone of r11Ve,BBE0CB,Rest Hindbrain,EA37FF,3
+r11Vei,111220922,intermediate stratum of r11Ve,BBE0CB,Rest Hindbrain,EA37FF,3
+r11Ves,111220924,superficial stratum of r11Ve,BBE0CB,Rest Hindbrain,EA37FF,3
+r11ECu,17602,r11 part of the external uneate nucleus,BBE0CB,Rest Hindbrain,EA37FF,3
+r11Tr,17603,r11 part of the trigeminal column,BFD9BF,Rest Hindbrain,EA37FF,3
+r11Trm,17605,mantle zone of r11Tr,BBE0CB,Rest Hindbrain,EA37FF,3
+r11Trp,111220926,periventricular stratum of r11Tr,BBE0CB,Rest Hindbrain,EA37FF,3
+r11Sol,17608,r11 part of solitary complex,BBE0CB,Rest Hindbrain,EA37FF,3
+r11Tri,111220928,intermediate stratum of r11Tr,BBE0CB,Rest Hindbrain,EA37FF,3
+r11-5Tr,17607,r11 part of trigeminal transition zone,BBE0CB,Rest Hindbrain,EA37FF,3
+r11Trs,111220930,superficial stratum of r11Tr,BBE0CB,Rest Hindbrain,EA37FF,3
+r11Sp5C,17606,r11 part of spinal trigeminal nucleus- caudal part,BBE0CB,Rest Hindbrain,EA37FF,3
+r11Gr,17609,r11 part of nucleus gracilis,BBE0CB,Rest Hindbrain,EA37FF,3
+ ,, , , , ,
+m1R,16652,roof plate of m1,89D889,Rest Midbrain,17B317,4
+m1Rv,16653,ventricular zone of m1R,4EC54E,Rest Midbrain,17B317,4
+m1Rm,16654,mantle zone of m1R,89D889,Rest Midbrain,17B317,4
+m1Rp,114403703,periventricular stratum of m1R,89D889,Rest Midbrain,17B317,4
+m1Ri,114403707,intermediate stratum of m1R,89D889,Rest Midbrain,17B317,4
+m1Rs,114403711,superficial stratum of m1R,89D889,Rest Midbrain,17B317,4
+BTGC,16655,bed of the tectal gray commissure,89D889,Rest Midbrain,17B317,4
+BTC,16656,bed of the tectal commissure,89D889,Rest Midbrain,17B317,4
+BICC,16657,bed of the intercollicular commissure,89D889,Rest Midbrain,17B317,4
+m1AD,16659,dorsal part of m1A,17B317,Rest Midbrain,17B317,4
+m1ADv,16660,ventricular zone of m1AD,17B317,Rest Midbrain,17B317,4
+m1ADm,16661,mantle zone of m1AD,4EC54E,Rest Midbrain,17B317,4
+m1ADp,16662,periventricular stratum of m1AD,4EC54E,Rest Midbrain,17B317,4
+m1AD-PAG,16663,m1AD (DM) part of periaqueductal gray,4EC54E,Rest Midbrain,17B317,4
+m1ADi,16664,intermediate stratum of m1AD,4EC54E,Rest Midbrain,17B317,4
+m1VPaC,16665,ventral paracommissural tectal nucleus- m1 part,4EC54E,Rest Midbrain,17B317,4
+m1ADs,16666,superficial stratum of m1AD,4EC54E,Rest Midbrain,17B317,4
+m1DPaC,16667,dorsal paracommissural tectal nucleus- m1 part,4EC54E,Rest Midbrain,17B317,4
+SCp,16681,periventricular stratum of SC,4EC54E,Rest Midbrain,17B317,4
+SCDL-PAG,16682,dorsolateral SC part of the periaqueductal gray,4EC54E,Rest Midbrain,17B317,4
+DpWh,16683,deep white layer of SC,4EC54E,Rest Midbrain,17B317,4
+DpG,16685,deep gray layer of SC,4EC54E,Rest Midbrain,17B317,4
+ICp,16695,periventricular stratum of IC,4EC54E,Rest Midbrain,17B317,4
+ICDL-PAG,16696,dorsolateral IC periaqueductal gray,4EC54E,Rest Midbrain,17B317,4
+ICIC,16700,internal cortical nucleus of inferior colliculus,4EC54E,Rest Midbrain,17B317,4
+m1AL,16703,lateral part of alar m1,17B317,Rest Midbrain,17B317,4
+m1ALm,16705,mantle zone of m1AL,4EC54E,Rest Midbrain,17B317,4
+m1ALp,16706,periventricular stratum of m1AL,4EC54E,Rest Midbrain,17B317,4
+TGL-PAG,16707,lateral TG part of the periaqueductal gray,4EC54E,Rest Midbrain,17B317,4
+SCL-PAG,16708,lateral SC part of the periaqueductal gray,4EC54E,Rest Midbrain,17B317,4
+ICL-PAG,16709,lateral IC periaqueductal gray,4EC54E,Rest Midbrain,17B317,4
+m1ALi,16710,intermediate stratum of m1AL,4EC54E,Rest Midbrain,17B317,4
+ICBR,16711,nucleus of the inferior collicular brachium- rostral part,4EC54E,Rest Midbrain,17B317,4
+ICBC,16712,nucleus of the inferior collicular brachium- caudal part,4EC54E,Rest Midbrain,17B317,4
+m1ALs,16713,superficial stratum of m1AL,4EC54E,Rest Midbrain,17B317,4
+SubBR,16714,subbrachial nucleus- rostral part,4EC54E,Rest Midbrain,17B317,4
+SubBC,16715,subbrachial nucleus- caudal part,4EC54E,Rest Midbrain,17B317,4
+r2R,17024,r2 roof plate,F3A4FF,Rest Hindbrain,EA37FF,4
+SpC,17651,spinal cord,EBE3D5,Spinal Cord,EBE3D5,4
+SpR,17652,SpC roof plate,EBE3D5,Spinal Cord,EBE3D5,4
+SpA,17653,SpC alar plate,EBE3D5,Spinal Cord,EBE3D5,4
+SpAM,17654,medial (cornucommissural) part of the spinal alar plate,EBE3D5,Spinal Cord,EBE3D5,4
+SpAMm,17656,mantle zone of the SpAM,EBE3D5,Spinal Cord,EBE3D5,4
+SpAMp,17657,periventricular stratum of the SpAM,EBE3D5,Spinal Cord,EBE3D5,4
+AM10Sp,17658,alar medial part of Rexed's layer 10,EBE3D5,Spinal Cord,EBE3D5,4
+SpAMi,17659,intermediate stratum of the SpAM,EBE3D5,Spinal Cord,EBE3D5,4
+4SpCC,17660,cornucommissural part of Rexed's layer 4,EBE3D5,Spinal Cord,EBE3D5,4
+IB,17661,internal basilar (cervical) nucleus,EBE3D5,Spinal Cord,EBE3D5,4
+SpAL,17666,lateral (dorsal horn) part of the spinal alar plate,EBE3D5,Spinal Cord,EBE3D5,4
+SpALv,17667,ventricular zone of the SpAL,EBE3D5,Spinal Cord,EBE3D5,4
+SpALm,17669,mantle zone of the SpAL,EBE3D5,Spinal Cord,EBE3D5,4
+SpALi,17671,intermediate stratum of the SpAL,EBE3D5,Spinal Cord,EBE3D5,4
+SpALs,17674,superficial stratum of the SpAL,EBE3D5,Spinal Cord,EBE3D5,4
+SpAV,17677,ventral (liminal) part of the spinal alar plate,EBE3D5,Spinal Cord,EBE3D5,4
+SpAVm,17679,mantle zone of the SpAV,EBE3D5,Spinal Cord,EBE3D5,4
+SpAVi,17682,intermediate stratum of the SpAV,EBE3D5,Spinal Cord,EBE3D5,4
+SpAVs,17689,superficial stratum of the SpAV,EBE3D5,Spinal Cord,EBE3D5,4
+SpB,17692,SpC basal plate (anterior horn),D4CCC0,Spinal Cord,EBE3D5,4
+SpBL,17693,lateral part of SpB,D4CCC0,Spinal Cord,EBE3D5,4
+SpBLv,17694,ventricular zone of SpBL,D4CCC0,Spinal Cord,EBE3D5,4
+SpBLm,17695,mantle zone of SpBL,D4CCC0,Spinal Cord,EBE3D5,4
+SpBLp,17696,periventricular stratum of SpBL,D4CCC0,Spinal Cord,EBE3D5,4
+BL10Sp,17697,basal lateral part of Rexed's layer 10,D4CCC0,Spinal Cord,EBE3D5,4
+SpBLi,17698,intermediate stratum of SpBL,D4CCC0,Spinal Cord,EBE3D5,4
+SpBLs,17709,superficial stratum of SpBL,D4CCC0,Spinal Cord,EBE3D5,4
+SpBI,17710,intermediate part of SpB,D4CCC0,Spinal Cord,EBE3D5,4
+SpBIv,17711,ventricular zone of SpBI,D4CCC0,Spinal Cord,EBE3D5,4
+SpBIm,17712,mantle zone of SpBI,D4CCC0,Spinal Cord,EBE3D5,4
+SpBIi,17715,intermediate stratum of SpBI,D4CCC0,Spinal Cord,EBE3D5,4
+SpBIs,17724,superficial stratum of SpBI,D4CCC0,Spinal Cord,EBE3D5,4
+SpBM,17725,medial part of SpB,D4CCC0,Spinal Cord,EBE3D5,4
+SpBMv,17726,ventricular zone of SpBM,D4CCC0,Spinal Cord,EBE3D5,4
+SpBMm,17727,mantle zone of SpBM,D4CCC0,Spinal Cord,EBE3D5,4
+SpBMi,17730,intermediate stratum of SpBM,D4CCC0,Spinal Cord,EBE3D5,4
+SpBMs,17733,superficial stratum of SpBM,D4CCC0,Spinal Cord,EBE3D5,4
+SpF,17734,SpC floor plate,D4CCC0,Spinal Cord,EBE3D5,4
+SpFm,112892441,mantle zone of SpF,D4CCC0,Spinal Cord,EBE3D5,4
+SpFs,112892447,superficial stratum of SpF,D4CCC0,Spinal Cord,EBE3D5,4
+ ,, , , , ,
+NP,15565,neural plate,C86A39,Rest Forebrain,C86A39,5
+F,15566,forebrain,C86A39,Rest Forebrain,C86A39,5
+SP,15567,secondary prosencephalon,A84D10,Rest Forebrain,C86A39,5
+CSP,15738,caudal secondary prosencephalon,ED985C,Rest Forebrain,C86A39,5
+Tel,15739,telencephalic vesicle,ED985C,Rest Forebrain,C86A39,5
+TelR,15740,roof plate of evaginated telencephalic vesicle,FAB17C,Rest Forebrain,C86A39,5
+CSCom,15741,caudal septocommissural area,FAB17C,Rest Forebrain,C86A39,5
+CSComv,15742,ventricular zone of CSCom,ED985C,Rest Forebrain,C86A39,5
+CSComm,15744,mantle zone of CSCom,FAB17C,Rest Forebrain,C86A39,5
+CSComs,15748,superficial stratum of CSCom,FAB17C,Rest Forebrain,C86A39,5
+TelA,15750,alar plate of evaginated telencephalic vesicle,ED985C,Rest Forebrain,C86A39,5
+Pall,15903,pallium,D61837,Rest Forebrain,C86A39,5
+VPall,15904,ventral pallium,DA4335,Rest Forebrain,C86A39,5
+OB,15905,olfactory bulb- principal part,DA4335,Rest Forebrain,C86A39,5
+OBv,15906,ventricular zone of OB,DA4335,Rest Forebrain,C86A39,5
+OBm,15907,mantle zone of OB,DE5548,Rest Forebrain,C86A39,5
+OBp,15908,periventricular stratum of OB,DE5548,Rest Forebrain,C86A39,5
+OB-Gr,15909,OB granular layer,B9392D,Rest Forebrain,C86A39,5
+OB-Ipl,15910,OB inner plexiform layer,DE5548,Rest Forebrain,C86A39,5
+OBi,15911,intermediate stratum of OB,DE5548,Rest Forebrain,C86A39,5
+OB-Mtr,15912,OB mitral cell layer,C43C30,Rest Forebrain,C86A39,5
+OB-Opl,15913,OB outer plexiform layer,DE5548,Rest Forebrain,C86A39,5
+OBs,15914,superficial stratum of OB,DE5548,Rest Forebrain,C86A39,5
+OB-Glom,15915,OB glomerular layer,DA4335,Rest Forebrain,C86A39,5
+OB-OF,15916,OB olfactory fiber layer,DE5548,Rest Forebrain,C86A39,5
+AOV,15917,anterior olfactory area- ventral part,DA4335,Rest Forebrain,C86A39,5
+AOVv,15918,ventricular zone of AOV,DA4335,Rest Forebrain,C86A39,5
+AOVm,15919,mantle zone of AOV,DE5548,Rest Forebrain,C86A39,5
+AOVp,15920,periventricular stratum of AOV,DE5548,Rest Forebrain,C86A39,5
+AOVi,15921,intermediate stratum of AOV,DE5548,Rest Forebrain,C86A39,5
+AOVs,15922,superficial stratum of AOV,DE5548,Rest Forebrain,C86A39,5
+AOV1,15923,layer 1 of AOV cortex,DE5548,Rest Forebrain,C86A39,5
+AOV2,15924,layer 2 of AOV cortex,C43C30,Rest Forebrain,C86A39,5
+AOV3,15925,layer 3 of AOV cortex,DE5548,Rest Forebrain,C86A39,5
+AOVE,15926,external part of AOV,DE5548,Rest Forebrain,C86A39,5
+Nv,15927,navicular nucleus,DE5548,Rest Forebrain,C86A39,5
+VPrP,15928,ventropallial prepiriform area,DA4335,Rest Forebrain,C86A39,5
+VPrPv,15929,ventricular zone of VPrP,DA4335,Rest Forebrain,C86A39,5
+VPrPm,15930,mantle zone of VPrP,DE5548,Rest Forebrain,C86A39,5
+VPrPp,15931,periventricular stratum of VPrP,DE5548,Rest Forebrain,C86A39,5
+VPrPi,15932,intermediate stratum of VPrP,DE5548,Rest Forebrain,C86A39,5
+BEC,15933,bed nucleus of the external capsule,DE5548,Rest Forebrain,C86A39,5
+DEn,15934,dorsal endopiriform nucleus,DE5548,Rest Forebrain,C86A39,5
+VEn,15935,ventral endopiriform nucleus,DE5548,Rest Forebrain,C86A39,5
+VPrPs,15936,superficial stratum of VPrP,DE5548,Rest Forebrain,C86A39,5
+VPrP1,15937,layer 1 of VPrP cortex,DE5548,Rest Forebrain,C86A39,5
+VPrP2,15938,layer 2 of VPrP cortex,C43C30,Rest Forebrain,C86A39,5
+VPrP3,15939,layer 3 of VPrP cortex,DE5548,Rest Forebrain,C86A39,5
+VAP,15940,ventropallial amygdalopiriform area,DA4335,Rest Forebrain,C86A39,5
+VAPv,15941,ventricular zone of the VAP,DA4335,Rest Forebrain,C86A39,5
+VAPm,15942,mantle zone of VAP,DE5548,Rest Forebrain,C86A39,5
+VAPp,15943,periventricular stratum of the VAP,DE5548,Rest Forebrain,C86A39,5
+La,15944,lateral amygdaloid nucleus,DE5548,Rest Forebrain,C86A39,5
+AHi,15945,amygdalohippocampal area,DE5548,Rest Forebrain,C86A39,5
+VAPi,15946,intermediate stratum of the VAP,DE5548,Rest Forebrain,C86A39,5
+BMA,15947,basomedial amygdaloid nucleus- anterior part,DE5548,Rest Forebrain,C86A39,5
+BMP,15948,basomedial amygdaloid nucleus- posterior part,DE5548,Rest Forebrain,C86A39,5
+VAPs,15949,superficial stratum of the VAP,DE5548,Rest Forebrain,C86A39,5
+PMCo,15950,posteromedial cortical amygdaloid area,DE5548,Rest Forebrain,C86A39,5
+LOT,15951,nucleus of the lateral olfactory tract,DE5548,Rest Forebrain,C86A39,5
+LOT3,15952,layer 3 of LOT,DE5548,Rest Forebrain,C86A39,5
+LOT2,15953,layer 2 of LOT,DE5548,Rest Forebrain,C86A39,5
+LOT1,15954,layer 1 of LOT,DE5548,Rest Forebrain,C86A39,5
+LPall,15956,lateral pallium,E76E3E,Rest Forebrain,C86A39,5
+AOB,15957,accessory olfactory bulb,E76E3E,Rest Forebrain,C86A39,5
+AOBv,15958,ventricular zone of AOB,E76E3E,Rest Forebrain,C86A39,5
+AOBm,15959,mantle zone of AOB,F37441,Rest Forebrain,C86A39,5
+AOBp,15960,periventricular stratum of AOB,F37441,Rest Forebrain,C86A39,5
+AGr,15961,AOB- granular layer,DB683B,Rest Forebrain,C86A39,5
+AIPl,15962,AOB- internal plexiform layer,F37441,Rest Forebrain,C86A39,5
+AOBi,15963,intermediate stratum of AOB,F37441,Rest Forebrain,C86A39,5
+AMtr,15964,AOB- mitral cell layer,F37441,Rest Forebrain,C86A39,5
+AOPl,15965,AOB- outer plexiform layer,F37441,Rest Forebrain,C86A39,5
+AOBs,15966,superficial stratum of AOB,F37441,Rest Forebrain,C86A39,5
+AGlom,15967,AOB- glomerular layer,F37441,Rest Forebrain,C86A39,5
+AOD,15969,anterior olfactory area- dorsal part,E76E3E,Rest Forebrain,C86A39,5
+AODv,15970,ventricular zone of AOD,E76E3E,Rest Forebrain,C86A39,5
+AODm,15971,mantle zone of AOD,F37441,Rest Forebrain,C86A39,5
+AODp,15972,periventricular stratum of AOD,F37441,Rest Forebrain,C86A39,5
+AODi,15973,intermediate stratum of AOD,F37441,Rest Forebrain,C86A39,5
+AODs,15974,superficial stratum of AOD,F37441,Rest Forebrain,C86A39,5
+AOD1,15975,layer 1 of AOD cortex,F37441,Rest Forebrain,C86A39,5
+AOD2,15976,layer 2 of AOD cortex,DB683B,Rest Forebrain,C86A39,5
+AOD3,15977,layer 3 of AOD cortex,F37441,Rest Forebrain,C86A39,5
+AODE,15978,external part of AOD,F37441,Rest Forebrain,C86A39,5
+LPrP,15979,lateropallial prepiriform area,E76E3E,Rest Forebrain,C86A39,5
+LPrPv,15980,ventricular zone of LPrP,E76E3E,Rest Forebrain,C86A39,5
+LPrPm,15981,mantle zone of LPrP,F37441,Rest Forebrain,C86A39,5
+LPrPp,15982,periventricular stratum of LPrP,F37441,Rest Forebrain,C86A39,5
+LPrPi,15983,intermediate stratum of LPrP,F37441,Rest Forebrain,C86A39,5
+Cl,15984,claustrum,F37441,Rest Forebrain,C86A39,5
+LPrPs,15985,superficial stratum of LPrP,F37441,Rest Forebrain,C86A39,5
+LPrP1,15986,layer 1 of LPrP cortex,F37441,Rest Forebrain,C86A39,5
+LPrP2,15987,layer 2 of LPrP cortex,DB683B,Rest Forebrain,C86A39,5
+LPrP3,15988,layer 3 of LPrP cortex,F37441,Rest Forebrain,C86A39,5
+LAP,15989,lateropallial amygdalopiriform area,E76E3E,Rest Forebrain,C86A39,5
+LAPv,15990,ventricular zone of LAP,E76E3E,Rest Forebrain,C86A39,5
+LAPm,15991,mantle zone of LAP,F37441,Rest Forebrain,C86A39,5
+LAPp,15992,periventricular stratum of LAP,F37441,Rest Forebrain,C86A39,5
+LAPi,15993,intermediate stratum of LAP,F37441,Rest Forebrain,C86A39,5
+BLA,15994,basolateral amygdaloid nucleus- anterior part,F37441,Rest Forebrain,C86A39,5
+BLP,15995,basolateral amygdaloid nucleus- posterior part,F37441,Rest Forebrain,C86A39,5
+BLV,15996,basolateral amygdaloid nucleus- ventral part,F37441,Rest Forebrain,C86A39,5
+LAPs,15997,superficial stratum of LAP,F37441,Rest Forebrain,C86A39,5
+APir,15998,amygdalopiriform area,F37441,Rest Forebrain,C86A39,5
+PLCo,15999,posterolateral cortical amygdaloid area,F37441,Rest Forebrain,C86A39,5
+ACo,16000,anterior cortical amygdaloid area,F37441,Rest Forebrain,C86A39,5
+DPall,16001,dorsal pallium/isocortex,F2193C,Cortex,F2193C,5
+DPallv,111220552,ventricular zone of DPall,F2193C,Cortex,F2193C,5
+DPallm,111220554,mantle zone of DPall,F32F4F,Cortex,F2193C,5
+DPallp,111220556,periventricular stratum of DPall,F32F4F,Cortex,F2193C,5
+DPalli,111220558,intermediate stratum of DPall,F32F4F,Cortex,F2193C,5
+DPalls,111220560,superficial stratum of DPall,F32F4F,Cortex,F2193C,5
+FCx,16002,frontal cortex,F2193C,Cortex,F2193C,5
+FCm,16004,mantle zone of FCx,F32F4F,Cortex,F2193C,5
+FCs,16007,superficial stratum of FCx (cortical plate/marginal zone),F32F4F,Cortex,F2193C,5
+FC-1,16008,layer 1 of FCx,F32F4F,Cortex,F2193C,5
+FC-2,16009,layer 2 of FCx,F32F4F,Cortex,F2193C,5
+FC-3,16010,layer 3 of FCx,F32F4F,Cortex,F2193C,5
+FC-4,16011,layer 4 of FCx,F32F4F,Cortex,F2193C,5
+FC-5,16012,layer 5 of FCx,F32F4F,Cortex,F2193C,5
+FC-6,16013,layer 6 of FCx,F32F4F,Cortex,F2193C,5
+FC-6a,16014,sublayer 6a of FCx,F32F4F,Cortex,F2193C,5
+FC-6b,16015,sublayer 6b of FCx,F32F4F,Cortex,F2193C,5
+PCx,16016,parietal cortex,F2193C,Cortex,F2193C,5
+PCm,16018,mantle zone of PCx,F32F4F,Cortex,F2193C,5
+PCs,16021,superficial stratum of PCx (cortical plate/marginal zone),F32F4F,Cortex,F2193C,5
+PC-1,16022,layer 1 of PCx,F32F4F,Cortex,F2193C,5
+PC-2,16023,layer 2 of PCx,F32F4F,Cortex,F2193C,5
+PC-3,16024,layer 3 of PCx,F32F4F,Cortex,F2193C,5
+PC-4,16025,layer 4 of PCx,F32F4F,Cortex,F2193C,5
+PC-5,16026,layer 5 of PCx,F32F4F,Cortex,F2193C,5
+PC-6,16027,layer 6 of PCx,F32F4F,Cortex,F2193C,5
+PC-6a,16028,sublayer 6a of PCx,F32F4F,Cortex,F2193C,5
+PC-6b,16029,sublayer 6b of PCx,F32F4F,Cortex,F2193C,5
+OCx,16030,occipital cortex,F2193C,Cortex,F2193C,5
+OCm,16032,mantle zone of OCx,F32F4F,Cortex,F2193C,5
+OCs,16035,superficial stratum of OCx (cortical plate/marginal zone),F32F4F,Cortex,F2193C,5
+OC-1,16036,layer 1 of OCx,F32F4F,Cortex,F2193C,5
+OC-2,16037,layer 2 of OCx,F32F4F,Cortex,F2193C,5
+OC-3,16038,layer 3 of OCx,F32F4F,Cortex,F2193C,5
+OC-4,16039,layer 4 of OCx,F32F4F,Cortex,F2193C,5
+OC-5,16040,layer 5 of OCx,F32F4F,Cortex,F2193C,5
+OC-6,16041,layer 6 of OCx,F32F4F,Cortex,F2193C,5
+OC-6a,16042,sublayer 6a of OCx,F32F4F,Cortex,F2193C,5
+OC-6b,16043,sublayer 6b of OCx,F32F4F,Cortex,F2193C,5
+TCx,16044,temporal cortex,F2193C,Cortex,F2193C,5
+TCm,16046,mantle zone of TCx,F32F4F,Cortex,F2193C,5
+TCs,16049,superficial stratum of TCx (cortical plate/marginal zone),F32F4F,Cortex,F2193C,5
+TC-1,16050,layer 1 of TCx,F32F4F,Cortex,F2193C,5
+TC-2,16051,layer 2 of TCx,F32F4F,Cortex,F2193C,5
+TC-3,16052,layer 3 of TCx,F32F4F,Cortex,F2193C,5
+TC-4,16053,layer 4 of TCx,F32F4F,Cortex,F2193C,5
+TC-5,16054,layer 5 of TCx,F32F4F,Cortex,F2193C,5
+TC-6,16055,layer 6 of TCx,F32F4F,Cortex,F2193C,5
+InsCx,16058,insular cortex,F2193C,Cortex,F2193C,5
+InsCm,16060,mantle zone of InsCx,F32F4F,Cortex,F2193C,5
+InsCs,16063,superficial stratum of InsCx (cortical plate/marginal zone),F32F4F,Cortex,F2193C,5
+InsC-1,16064,layer 1 of InsCx,F32F4F,Cortex,F2193C,5
+InsC-2,16065,layer 2 of InsCx,F32F4F,Cortex,F2193C,5
+InsC-3,16066,layer 3 of InsCx,F32F4F,Cortex,F2193C,5
+InsC-4,16067,layer 4 of InsCx,F32F4F,Cortex,F2193C,5
+InsC-5,16068,layer 5 of InsCx,F32F4F,Cortex,F2193C,5
+InsC-6,16069,layer 6 of InsCx,F32F4F,Cortex,F2193C,5
+InsC-6a,16070,sublayer 6a of InsCx,F32F4F,Cortex,F2193C,5
+InsC-6b,16071,sublayer 6b of InsCx,F32F4F,Cortex,F2193C,5
+CCx,16072,cingulate cortex,F2193C,Cortex,F2193C,5
+CCm,16074,mantle zone of CCx,F32F4F,Cortex,F2193C,5
+CCs,16077,superficial stratum of CCx (cortical plate/marginal zone),F32F4F,Cortex,F2193C,5
+CC-1,16078,layer 1 of CCx,F32F4F,Cortex,F2193C,5
+CC-2,16079,layer 2 of CCx,F32F4F,Cortex,F2193C,5
+CC-3,16080,layer 3 of CCx,F32F4F,Cortex,F2193C,5
+CC-4,16081,layer 4 of CCx,F32F4F,Cortex,F2193C,5
+CC-5,16082,layer 5 of CCx,F32F4F,Cortex,F2193C,5
+CC-6,16083,layer 6 of CCx,F32F4F,Cortex,F2193C,5
+CC-6a,16084,sublayer 6a of CCx,F32F4F,Cortex,F2193C,5
+CC-6b,16085,sublayer 6b of CCx,F32F4F,Cortex,F2193C,5
+PERCx,16086,perirhinal-ectorhinal cortex,F2193C,Cortex,F2193C,5
+PRh-Ect-1,16087,layer 1 of PRh-Ect,F32F4F,Cortex,F2193C,5
+PRh-Ect-2,16088,layer 2 of PRh-Ect,F32F4F,Cortex,F2193C,5
+PRh-Ect-3,16089,layer 3 of PRh-Ect,F32F4F,Cortex,F2193C,5
+PRh-Ect-4,16090,layer 4 of PRh-Ect,F32F4F,Cortex,F2193C,5
+PRh-Ect-5,16091,layer 5 of PRh-Ect,F32F4F,Cortex,F2193C,5
+PRh-Ect-6,16092,layer 6 of PRh-Ect,F32F4F,Cortex,F2193C,5
+RSCx,16093,retrosplenial cortex,F2193C,Cortex,F2193C,5
+RSC-1,16094,layer 1 of RSC,F32F4F,Cortex,F2193C,5
+RSC-2,16095,layer 2 of RSC,F32F4F,Cortex,F2193C,5
+RSC-3,16096,layer 3 of RSC,F32F4F,Cortex,F2193C,5
+RSC-4,16097,layer 4 of RSC,F32F4F,Cortex,F2193C,5
+RSC-5,16098,layer 5 of RSC,F32F4F,Cortex,F2193C,5
+RSC-6,16099,layer 6 of RSC,F32F4F,Cortex,F2193C,5
+RSC-6a,16100,layer 6a of RSC,F32F4F,Cortex,F2193C,5
+RSC-6b,16101,layer 6b of RSC,F32F4F,Cortex,F2193C,5
+ERCx,16102,entorhinal cortex,F2193C,Cortex,F2193C,5
+ERm,16104,mantle zone of ERCx,F32F4F,Cortex,F2193C,5
+ERs,16107,superficial stratum of ERCx (cortical plate/marginal zone),F32F4F,Cortex,F2193C,5
+ER-1,16108,layer 1 of ERCx,F32F4F,Cortex,F2193C,5
+ER-2,16109,layer 2 of ERCx,F32F4F,Cortex,F2193C,5
+ER-3,16110,layer 3 of ERCx,F32F4F,Cortex,F2193C,5
+ER-4,16111,layer 4 of ERCx,F32F4F,Cortex,F2193C,5
+ER-5,16112,layer 5 of ERCx,F32F4F,Cortex,F2193C,5
+ER-6,16113,layer 6 of ERCx,F32F4F,Cortex,F2193C,5
+MPall,16114,medial pallium (hippocampal allocortex),FF4865,Hippocampus,FF4865,5
+MPallv,111220562,ventricular zone of MPall,FF4865,Hippocampus,FF4865,5
+MPallm,111220564,mantle zone of MPall,FF5974,Hippocampus,FF4865,5
+MPallp,111220566,periventricular stratum of MPall,FF5974,Hippocampus,FF4865,5
+MPalli,111220568,intermediate stratum of MPall,FF5974,Hippocampus,FF4865,5
+MPalls,111220570,superficial stratum of MPall,FF5974,Hippocampus,FF4865,5
+DG,16115,dentate gyrus,FF4865,Hippocampus,FF4865,5
+DGv,16116,ventricular zone of DG,FF4865,Hippocampus,FF4865,5
+DGm,16117,mantle zone of DG,FF5974,Hippocampus,FF4865,5
+DGp,16118,periventricular stratum of DG,FF5974,Hippocampus,FF4865,5
+DGi,16119,intermediate stratum of DG,FF5974,Hippocampus,FF4865,5
+DGHil,16120,hilus of the DG,FF5974,Hippocampus,FF4865,5
+DGs,16121,superficial stratum of DG,FF5974,Hippocampus,FF4865,5
+DGGran,16122,granule cell layer of the DG,D93D56,Hippocampus,FF4865,5
+DGMol,16123,molecular layer of the DG,FF5974,Hippocampus,FF4865,5
+CA,16124,hippocampus (cortex Ammonis),FF4865,Hippocampus,FF4865,5
+CAv,16125,ventricular zone of CA,FF4865,Hippocampus,FF4865,5
+CAm,16126,mantle zone of CA,FF5974,Hippocampus,FF4865,5
+CAp,16127,periventricular stratum of CA,FF5974,Hippocampus,FF4865,5
+CAi,16128,intermediate stratum of CA,FF5974,Hippocampus,FF4865,5
+CAs,16130,superficial stratum of CA,FF5974,Hippocampus,FF4865,5
+CA1,16131,Field CA1,FF5974,Hippocampus,FF4865,5
+CA1so,16132,Field CA1- stratum oriens,FF5974,Hippocampus,FF4865,5
+CA1sp,16133,Field CA1- stratum pyramidale,D93D56,Hippocampus,FF4865,5
+CA1sr,16134,Field CA1- stratum radiatum,FF5974,Hippocampus,FF4865,5
+CA1slm,16135,Field CA1- stratum lacunosum-moleculare,FF5974,Hippocampus,FF4865,5
+CA2,16136,Field CA2,FF5974,Hippocampus,FF4865,5
+CA2slm,16137,Field CA2- stratum lacunosum-moleculare,FF5974,Hippocampus,FF4865,5
+CA2so,16138,Field CA2- stratum oriens,FF5974,Hippocampus,FF4865,5
+CA2sp,16139,Field CA2- stratum pyramidale,D93D56,Hippocampus,FF4865,5
+CA2sr,16140,Field CA2- stratum radiatum,FF5974,Hippocampus,FF4865,5
+CA3,16141,Field CA3,FF5974,Hippocampus,FF4865,5
+CA3so,16142,Field CA3- stratum oriens,FF5974,Hippocampus,FF4865,5
+CA3sp,16143,Field CA3- stratum pyramidale,D93D56,Hippocampus,FF4865,5
+CA3sr,16145,Field CA3- stratum radiatum,FF5974,Hippocampus,FF4865,5
+CA3slm,16146,Field CA3- stratum lacunosum-moleculare,FF5974,Hippocampus,FF4865,5
+IG,16147,induseum griseum,FF4865,Hippocampus,FF4865,5
+IGm,16149,mantle zone of the IG,FF5974,Hippocampus,FF4865,5
+IGp,16150,periventricular stratum of the IG,FF5974,Hippocampus,FF4865,5
+IGi,16151,intermediate stratum of the IG,FF5974,Hippocampus,FF4865,5
+IGs,16152,superficial stratum of the IG,FF5974,Hippocampus,FF4865,5
+PyIG,16153,pyramidal layer of IG,FF5974,Hippocampus,FF4865,5
+TTe,16154,taenia tecta,FF4865,Hippocampus,FF4865,5
+TTem,16156,mantle zone of TTe,FF5974,Hippocampus,FF4865,5
+TTep,16157,periventricular stratum of TTe,FF5974,Hippocampus,FF4865,5
+DPp,16158,dorsal peduncular cortex- periventricular part,FF5974,Hippocampus,FF4865,5
+TTei,16159,intermediate stratum of TTe,FF5974,Hippocampus,FF4865,5
+DPi,16160,dorsal peduncular cortex- intermediate part,FF5974,Hippocampus,FF4865,5
+TTes,16161,superficial stratum of TTe,FF5974,Hippocampus,FF4865,5
+PyTT,16162,pyramidal layer of taenia tecta,FF5974,Hippocampus,FF4865,5
+S,16163,subiculum,FF4865,Hippocampus,FF4865,5
+Sv,16164,ventricular zone of S,FF4865,Hippocampus,FF4865,5
+Sm,16165,mantle zone of S,FF5974,Hippocampus,FF4865,5
+Sp,16166,periventricular stratum of S,FF5974,Hippocampus,FF4865,5
+Si,16167,intermediate stratum of S,FF5974,Hippocampus,FF4865,5
+Ss,16169,superficial stratum of S,FF5974,Hippocampus,FF4865,5
+PyS,16170,pyramidal layer of S,FF5974,Hippocampus,FF4865,5
+SMol,16171,molecular layer of S,FF5974,Hippocampus,FF4865,5
+PrS,16172,presubiculum,FF4865,Hippocampus,FF4865,5
+PrSm,16174,mantle zone of PrS,FF5974,Hippocampus,FF4865,5
+PrSs,16177,superficial stratum of PrS (cortical plate/marginal zone),FF5974,Hippocampus,FF4865,5
+PrS-1,16178,layer 1 of PrS,FF5974,Hippocampus,FF4865,5
+PrS-2,16179,layer 2 of PrS,FF5974,Hippocampus,FF4865,5
+PrS-3,16180,layer 3 of PrS,FF5974,Hippocampus,FF4865,5
+PrS-5,16182,layer 5 of PrS,FF5974,Hippocampus,FF4865,5
+PrS-6,16183,layer 6 of PrS,FF5974,Hippocampus,FF4865,5
+PrS-6a,16184,layer 6a of PrS,FF5974,Hippocampus,FF4865,5
+PrS-6b,16185,layer 6b of PrS,FF5974,Hippocampus,FF4865,5
+PaS,16186,parasubiculum,FF4865,Hippocampus,FF4865,5
+PaSm,16188,mantle zone of PaS,FF5974,Hippocampus,FF4865,5
+PaSs,16191,superficial stratum of PaS (cortical plate/marginal zone),FF5974,Hippocampus,FF4865,5
+PaS-1,16192,layer 1 of PaS,FF5974,Hippocampus,FF4865,5
+PaS-2,16193,layer 2 of PaS,FF5974,Hippocampus,FF4865,5
+PaS-3,16194,layer 3 of PaS,FF5974,Hippocampus,FF4865,5
+PaS-4,16195,layer 4 of PaS,FF5974,Hippocampus,FF4865,5
+PaS-5,16196,layer 5 of PaS,FF5974,Hippocampus,FF4865,5
+PaS-6,16197,layer 6 of PaS,FF5974,Hippocampus,FF4865,5
+PaS-6a,111220572,layer 6a of PaS,FF5974,Hippocampus,FF4865,5
+PaS-6b,111220574,layer 6b of PaS,FF5974,Hippocampus,FF4865,5
+Fc,112892265,fasciola cinerea,FF4865,Hippocampus,FF4865,5
+Fcm,112892269,mantle zone of the Fc,FF5974,Hippocampus,FF4865,5
+Fcs,112892275,superficial stratum of the Fc,FF5974,Hippocampus,FF4865,5
+SePall,16198,pallial septum,C87C2C,Rest Forebrain,C86A39,5
+SePallv,16199,ventricular zone of SePall,C87C2C,Rest Forebrain,C86A39,5
+SePallm,16200,mantle zone of SePall,D08F4A,Rest Forebrain,C86A39,5
+SePallp,16201,periventricular stratum of SePall,D08F4A,Rest Forebrain,C86A39,5
+SePalli,16202,intermediate stratum of SePall,D08F4A,Rest Forebrain,C86A39,5
+SePalls,16203,superficial stratum of SePall,D08F4A,Rest Forebrain,C86A39,5
+SHi,16204,septohippocampal nucleus,D08F4A,Rest Forebrain,C86A39,5
+TelH,16205,telencephalo-hypothalamic transition area,AB382E,Rest Forebrain,C86A39,5
+TelHv,16206,ventricular zone of TelH,AB382E,Rest Forebrain,C86A39,5
+TelHm,16207,mantle zone of TelH,B7544C,Rest Forebrain,C86A39,5
+TelHp,16208,periventricular stratum of TelH,B7544C,Rest Forebrain,C86A39,5
+TelHi,16209,intermediate stratum of TelH,B7544C,Rest Forebrain,C86A39,5
+TelHs,16210,superficial stratum of TelH,B7544C,Rest Forebrain,C86A39,5
+p2R,16377,roof plate of p2 (epithalamic roofplate),FEF3A8,Thalamus,FFF189,5
+p2Ch,16378,choroidal tissue of p2,FFF189,Thalamus,FFF189,5
+p2Chv,111220584,ventricular zone of p2Ch,FFF189,Thalamus,FFF189,5
+BHbC,16379,bed of the habenular commissure,FEF3A8,Thalamus,FFF189,5
+ ,, , , , ,
+POTel,15569,preoptic telencephalon,A84D10,Hypothalamus,A84D10,6
+POR,15570,preoptic roof plate,C86A39,Hypothalamus,A84D10,6
+RSCom,15571,rostral septocommissural area,C86A39,Hypothalamus,A84D10,6
+RSComm,15574,mantle zone of RSCom,C86A39,Hypothalamus,A84D10,6
+POA,15576,preoptic alar plate,A84D10,Hypothalamus,A84D10,6
+PO,15577,preoptic area,A84D10,Hypothalamus,A84D10,6
+LTer,15578,lamina terminalis area,B46632,Hypothalamus,A84D10,6
+LTerv,15579,ventricular zone of LTer,A84D10,Hypothalamus,A84D10,6
+LTerm,15580,mantle zone of LTer,B46632,Hypothalamus,A84D10,6
+LTeri,15583,intermediate stratum of the LTer,B46632,Hypothalamus,A84D10,6
+MnPOI,15584,median preoptic nucleus- intermediate part,B46632,Hypothalamus,A84D10,6
+LTers,15585,superficial stratum of the LTer,B46632,Hypothalamus,A84D10,6
+MnPOS,15586,median preoptic nucleus- superficial part,B46632,Hypothalamus,A84D10,6
+PO1,15587,first (dorsal) preoptic domain,A84D10,Hypothalamus,A84D10,6
+PO1v,15588,ventricular zone of PO1,A84D10,Hypothalamus,A84D10,6
+PO1m,15589,mantle zone of PO1,B46632,Hypothalamus,A84D10,6
+PO1p,15590,periventricular stratum of PO1,B46632,Hypothalamus,A84D10,6
+DSPO,15592,dorsal septopreoptic nucleus,B46632,Hypothalamus,A84D10,6
+PO1i,15593,intermediate stratum of PO1,B46632,Hypothalamus,A84D10,6
+PS,15594,parastrial preoptic nucleus,B46632,Hypothalamus,A84D10,6
+DMPAi,15595,dorsomedial preoptic area- intermediate part,B46632,Hypothalamus,A84D10,6
+LPO1,15596,lateral preoptic area- PO1 part,B46632,Hypothalamus,A84D10,6
+PO2,15599,second (ventral) preoptic domain,A84D10,Hypothalamus,A84D10,6
+PO2v,15600,ventricular zone of PO2,A84D10,Hypothalamus,A84D10,6
+PO2m,15601,mantle zone of PO2,B46632,Hypothalamus,A84D10,6
+PO2p,15602,periventricular stratum of PO2,B46632,Hypothalamus,A84D10,6
+MPOPe,15603,medial preoptic periventricular stratum,B46632,Hypothalamus,A84D10,6
+MPO,15604,medial preoptic nucleus,B46632,Hypothalamus,A84D10,6
+MPOL,15605,lateral part of MPO,B46632,Hypothalamus,A84D10,6
+MPOM,15606,medial part of MPO,B46632,Hypothalamus,A84D10,6
+MPOC,15607,central part of MPO,B46632,Hypothalamus,A84D10,6
+PO2i,15608,intermediate stratum of PO2,B46632,Hypothalamus,A84D10,6
+LPO2,15609,lateral preoptic nucleus- PO2 part,B46632,Hypothalamus,A84D10,6
+POH,15613,preopto-hypothalamic band,A84D10,Hypothalamus,A84D10,6
+POHv,15614,ventricular zone of POH,A84D10,Hypothalamus,A84D10,6
+POHm,15615,mantle zone of POH,B46632,Hypothalamus,A84D10,6
+POHp,15616,periventricular stratum of POH,B46632,Hypothalamus,A84D10,6
+POHi,15617,intermediate stratum of POH,B46632,Hypothalamus,A84D10,6
+StHy,15618,striohypothalamic nucleus,B46632,Hypothalamus,A84D10,6
+POHA,15619,preopto-hypothalamic area,B46632,Hypothalamus,A84D10,6
+TPaAi,15629,intermediate stratum of TPaA,B0754D,Hypothalamus,A84D10,6
+TSM,15631,terminal nucleus of the stria medullaris,B0754D,Hypothalamus,A84D10,6
+TSPa,15658,terminal subparaventricular area,B0754D,Hypothalamus,A84D10,6
+SPall,15751,subpallium,F37321,Rest Forebrain,C86A39,6
+SeSPall,15752,subpallial septum,FAA41A,Rest Forebrain,C86A39,6
+DgSe,15753,diagonal part of septum,FAA41A,Rest Forebrain,C86A39,6
+DgSev,15754,ventricular zone of DgSe,FAA41A,Rest Forebrain,C86A39,6
+DgSem,15755,mantle zone of DgSe,FBB13B,Rest Forebrain,C86A39,6
+DgSep,15756,periventricular stratum of DgSe,FBB13B,Rest Forebrain,C86A39,6
+DgSei,15759,intermediate stratum of DgSe,FBB13B,Rest Forebrain,C86A39,6
+LSIV,15760,lateral septal nucleus- intermedio-ventral part,FBB13B,Rest Forebrain,C86A39,6
+SHy,15761,septohypothalamic nucleus,FBB13B,Rest Forebrain,C86A39,6
+DgSes,15762,superficial stratum of DgSe,FBB13B,Rest Forebrain,C86A39,6
+VDB,15763,vertical nucleus of the diagonal band,FBB13B,Rest Forebrain,C86A39,6
+MS,15764,medial septal nucleus,FBB13B,Rest Forebrain,C86A39,6
+PalSe,15765,pallidal septum,FAA41A,Rest Forebrain,C86A39,6
+PalSev,15766,ventricular zone of PalSe,FAA41A,Rest Forebrain,C86A39,6
+PalSem,15767,mantle zone of PalSe,FBB13B,Rest Forebrain,C86A39,6
+PalSep,15768,periventricular stratum of PalSe,FBB13B,Rest Forebrain,C86A39,6
+LSIp,15769,lateral septal nucleus- intermediate part- periventricular,FBB13B,Rest Forebrain,C86A39,6
+PalSei,15770,intermediate stratum of PalSe,FBB13B,Rest Forebrain,C86A39,6
+LSII,15771,lateral septal nucleus- intermedio-intermediate part,FBB13B,Rest Forebrain,C86A39,6
+Ld,15772,lambdoid septal zone,FBB13B,Rest Forebrain,C86A39,6
+PalSes,15773,superficial stratum of PalSe,FBB13B,Rest Forebrain,C86A39,6
+StrSe,15774,striatal septum,FAA41A,Rest Forebrain,C86A39,6
+StrSev,15775,ventricular zone of StrSe,FAA41A,Rest Forebrain,C86A39,6
+StrSem,15776,mantle zone of StrSe,FBB13B,Rest Forebrain,C86A39,6
+StrSep,15777,periventricular part of StrSe,FBB13B,Rest Forebrain,C86A39,6
+LSD,15778,lateral septal nucleus- dorsal part,FBB13B,Rest Forebrain,C86A39,6
+TS,15779,triangular septal nucleus,FBB13B,Rest Forebrain,C86A39,6
+SFi,15780,septofimbrial nucleus,FBB13B,Rest Forebrain,C86A39,6
+StrSei,15781,intermediate part of StrSe,FBB13B,Rest Forebrain,C86A39,6
+LSID,15782,lateral septal nucleus- intermedio-dorsal part,FBB13B,Rest Forebrain,C86A39,6
+StrSes,15783,superficial part of StrSe,FBB13B,Rest Forebrain,C86A39,6
+PaSe,15784,paraseptal subpallium,F37321,Rest Forebrain,C86A39,6
+SeDg,15785,septodiagonal transition area,F37321,Rest Forebrain,C86A39,6
+SeDgv,15786,ventricular zone of SeDg,F37321,Rest Forebrain,C86A39,6
+SeDgm,15787,mantle zone of SeDg,F5853A,Rest Forebrain,C86A39,6
+SeDgp,15788,periventricular stratum of SeDg,F5853A,Rest Forebrain,C86A39,6
+BSTMS,15789,bed nucleus of the stria terminalis- medioseptal division,F5853A,Rest Forebrain,C86A39,6
+BSTMa,15791,nucleus of the stria terminalis- medial division- anterior part,F5853A,Rest Forebrain,C86A39,6
+SeDgi,15792,intermediate stratum of SeDg,F5853A,Rest Forebrain,C86A39,6
+SIBT,15793,substantia innominata/basal nucleus- transitional part,F5853A,Rest Forebrain,C86A39,6
+BAC,15794,bed nucleus of the anterior commissure,F5853A,Rest Forebrain,C86A39,6
+SeDgs,15795,superficial stratum of SeDg,F5853A,Rest Forebrain,C86A39,6
+HDBT,15796,horizontal nucleus of the diagonal band- transitional part,F5853A,Rest Forebrain,C86A39,6
+SePal,15797,septopallidal transition area,F37321,Rest Forebrain,C86A39,6
+SePalv,15798,ventricular zone of SePal,F37321,Rest Forebrain,C86A39,6
+SePalm,15799,mantle zone of SePal,F5853A,Rest Forebrain,C86A39,6
+SePalp,15800,periventricular stratum of SePal,F5853A,Rest Forebrain,C86A39,6
+SePali,15803,intermediate stratum of SePal,F5853A,Rest Forebrain,C86A39,6
+SePalCo,15804,septopallidal core nucleus,F5853A,Rest Forebrain,C86A39,6
+SePalSh,15805,septopallidal shell area,F5853A,Rest Forebrain,C86A39,6
+SePals,15806,superficial stratum of SePal,F5853A,Rest Forebrain,C86A39,6
+TuSePal,15807,septopallidal part of the olfactory tuberculum,F5853A,Rest Forebrain,C86A39,6
+ICjM,15808,island of Calleja major,F5853A,Rest Forebrain,C86A39,6
+SeStr,15809,septostriatal transition area (accumbens),F37321,Rest Forebrain,C86A39,6
+SeStrv,15810,ventricular zone of SeStr,F37321,Rest Forebrain,C86A39,6
+SeStrm,15811,mantle zone of SeStr,F5853A,Rest Forebrain,C86A39,6
+SeStrp,15812,periventricular stratum of SeStr,F5853A,Rest Forebrain,C86A39,6
+AcbCo,15813,accumbens nucleus- core domain,F5853A,Rest Forebrain,C86A39,6
+SeStri,15814,intermediate stratum of SeStr,F5853A,Rest Forebrain,C86A39,6
+AcbSh,15815,accumbens nucleus- shell domain,F5853A,Rest Forebrain,C86A39,6
+SeStrs,15816,superficial stratum of SeStr,F5853A,Rest Forebrain,C86A39,6
+TuSeStr,15817,septostriatal part of the olfactory tuberculum,F5853A,Rest Forebrain,C86A39,6
+CSPall,15818,central subpallium (classic basal ganglia),E58724,Rest Forebrain,C86A39,6
+Dg,15819,diagonal domain,E58724,Rest Forebrain,C86A39,6
+Dgv,15820,ventricular zone of Dg,E58724,Rest Forebrain,C86A39,6
+Dgm,15821,mantle zone of Dg,EA9E4E,Rest Forebrain,C86A39,6
+Dgp,15822,periventricular stratum of Dg,EA9E4E,Rest Forebrain,C86A39,6
+BSTMC,15823,bed nucleus of the stria terminalis- mediocentral division,EA9E4E,Rest Forebrain,C86A39,6
+Dgi,15828,intermediate stratum of Dg,EA9E4E,Rest Forebrain,C86A39,6
+SIB,15829,substantia innominata/basal nucleus,EA9E4E,Rest Forebrain,C86A39,6
+IPal,15830,internal globus pallidus,EA9E4E,Rest Forebrain,C86A39,6
+Dgs,15831,superficial stratum of Dg,EA9E4E,Rest Forebrain,C86A39,6
+HDB,15832,horizontal nucleus of the diagonal band,EA9E4E,Rest Forebrain,C86A39,6
+MCDB,15833,magnocellular diagonal band nucleus,EA9E4E,Rest Forebrain,C86A39,6
+Pal,15834,pallidum (globus pallidus complex),E58724,Rest Forebrain,C86A39,6
+Palv,15835,ventricular zone of Pal,E58724,Rest Forebrain,C86A39,6
+Palm,15836,mantle zone of Pal,EA9E4E,Rest Forebrain,C86A39,6
+Palp,15837,periventricular stratum of Pal,EA9E4E,Rest Forebrain,C86A39,6
+BSTLC,15838,bed nucleus of the stria terminalis- laterocentral division,EA9E4E,Rest Forebrain,C86A39,6
+Pali,15842,intermediate stratum of Pal,EA9E4E,Rest Forebrain,C86A39,6
+EPal,15843,external globus pallidum,EA9E4E,Rest Forebrain,C86A39,6
+VPal,15844,ventral pallidum,EA9E4E,Rest Forebrain,C86A39,6
+Pals,15845,superficial stratum of Pal,EA9E4E,Rest Forebrain,C86A39,6
+TuPal,15846,pallidal part of olfactory tuberculum,EA9E4E,Rest Forebrain,C86A39,6
+TuPal1,15847,plexiform layer of TuPal,EA9E4E,Rest Forebrain,C86A39,6
+TuPal2,15848,corticoid layer of TuPal,EA9E4E,Rest Forebrain,C86A39,6
+TuPal3,15849,polymorph layer of TuPal,EA9E4E,Rest Forebrain,C86A39,6
+ICjPal,15850,pallidal islands of Calleja,EA9E4E,Rest Forebrain,C86A39,6
+Str,15851,striatum (corpus striatum),E58724,Rest Forebrain,C86A39,6
+Strv,15852,ventricular zone of Str,E58724,Rest Forebrain,C86A39,6
+Strm,15853,mantle zone of Str,EA9E4E,Rest Forebrain,C86A39,6
+Strp,15854,periventricular stratum of Str,EA9E4E,Rest Forebrain,C86A39,6
+Cau,15855,caudate nucleus,EA9E4E,Rest Forebrain,C86A39,6
+Stri,15856,intermediate stratum of Str,EA9E4E,Rest Forebrain,C86A39,6
+Put,15857,putamen,EA9E4E,Rest Forebrain,C86A39,6
+VStr,15858,ventral striatum,EA9E4E,Rest Forebrain,C86A39,6
+IPAC,15859,interstitial nucleus of the posterior limb of the anterior commissure,EA9E4E,Rest Forebrain,C86A39,6
+Strs,15861,superficial stratum of Str,EA9E4E,Rest Forebrain,C86A39,6
+TuStr,15862,striatal part of olfactory tuberculum,EA9E4E,Rest Forebrain,C86A39,6
+TuStr1,15863,plexiform layer of TuStr,EA9E4E,Rest Forebrain,C86A39,6
+TuStr2,15864,corticoid layer of TuStr,EA9E4E,Rest Forebrain,C86A39,6
+TuStr3,15865,polymorph layer of TuStr,EA9E4E,Rest Forebrain,C86A39,6
+ICjStr,15866,striatal islands of Calleja,EA9E4E,Rest Forebrain,C86A39,6
+ASPall,15867,subpallial amygdala,E6A723,Rest Forebrain,C86A39,6
+AStr,15868,striatal amygdala,E6A723,Rest Forebrain,C86A39,6
+AStrv,15869,ventricular zone of AStr,E6A723,Rest Forebrain,C86A39,6
+AStrm,15870,mantle zone of AStr,EAB442,Rest Forebrain,C86A39,6
+AStrp,15871,periventricular stratum of AStr,EAB442,Rest Forebrain,C86A39,6
+ASt,15872,amygdalo-striatal transition,EAB442,Rest Forebrain,C86A39,6
+AStri,15873,intermediate stratum of AStr,EAB442,Rest Forebrain,C86A39,6
+CeL,15874,central amygdalar nucleus- lateral part,EAB442,Rest Forebrain,C86A39,6
+CeC,15875,central amygdalar nucleus- capsular part,EAB442,Rest Forebrain,C86A39,6
+IA,15876,intercalated amygdaloid nuclei,EAB442,Rest Forebrain,C86A39,6
+AStrs,15877,superficial stratum of AStr,EAB442,Rest Forebrain,C86A39,6
+APal,15878,pallidal amygdala,E6A723,Rest Forebrain,C86A39,6
+APalv,15879,ventricular zone of APal,E6A723,Rest Forebrain,C86A39,6
+APalm,15880,mantle zone of APal,EAB442,Rest Forebrain,C86A39,6
+APalp,15881,periventricular stratum of APal,EAB442,Rest Forebrain,C86A39,6
+BSTLA,15882,bed nucleus of stria terminalis- lateral amygdaloid division,EAB442,Rest Forebrain,C86A39,6
+APali,15883,intermediate stratum of APal,EAB442,Rest Forebrain,C86A39,6
+CeM,15884,central amygdaloid nucleus- medial part,EAB442,Rest Forebrain,C86A39,6
+APals,15885,superficial stratum of APal,EAB442,Rest Forebrain,C86A39,6
+AHy,15893,hypothalamic amygdala,E6A723,Rest Forebrain,C86A39,6
+AHym,15895,mantle zone of AHy,EAB442,Rest Forebrain,C86A39,6
+AHys,15898,superficial stratum of AHy,EAB442,Rest Forebrain,C86A39,6
+MePD,15899,medial amygdala- posterodorsal part,EAB442,Rest Forebrain,C86A39,6
+MePV,15900,medial amygdala- posteroventral part,EAB442,Rest Forebrain,C86A39,6
+MeAD,15901,medial amygdala- anterodorsal part,EAB442,Rest Forebrain,C86A39,6
+MeAV,15902,medial amygdala- anteroventral part,EAB442,Rest Forebrain,C86A39,6
+PPav,16214,ventricular zone of PPaA,DF7257,Rest Forebrain,C86A39,6
+PPap,16216,periventricular stratum of PPaA,E4866F,Rest Forebrain,C86A39,6
+PPa,16217,paraventricular nucleus- peduncular or principal part,E4866F,Rest Forebrain,C86A39,6
+PaD,16218,paraventricular nucleus- dorsal part,E4866F,Rest Forebrain,C86A39,6
+PaC,16219,paraventricular nucleus- cap part,E4866F,Rest Forebrain,C86A39,6
+PaR,16224,paraventricular nucleus- rostral part,E4866F,Rest Forebrain,C86A39,6
+ ,, , , , ,
+p3Bs,16364,superficial stratum of p3B,DAD18D,Rest Forebrain,C86A39,7
+EPAc,16351,accessory entopeduncular nucleus (post-migratory),DAD18D,Rest Forebrain,C86A39,7
+p3SNC,16365,p3 portion of the substantia nigra pars compacta,DAD18D,Rest Forebrain,C86A39,7
+p3SNR,16366,p3 portion of the substantia nigra pars reticulata,DAD18D,Rest Forebrain,C86A39,7
+p3PN,16367,p3 portion of paranigral nucleus,DAD18D,Rest Forebrain,C86A39,7
+p3F,16368,floor plate of p3,A69F6B,Rest Forebrain,C86A39,7
+p3Fm,16370,mantle zone of p3F,CCC383,Rest Forebrain,C86A39,7
+p3Fp,16371,periventricular stratum of p3F,CCC383,Rest Forebrain,C86A39,7
+p3Fi,16372,intermediate stratum of p3F,CCC383,Rest Forebrain,C86A39,7
+p3Fs,16373,superficial stratum of p3F,CCC383,Rest Forebrain,C86A39,7
+p3VTA,16374,p3 portion of the ventral tegmental area,8D885B,Rest Forebrain,C86A39,7
+p2Bm,16489,mantle zone of p2B,E0D058,Rest Forebrain,C86A39,7
+p2Bi,16492,intermediate stratum of p2B,E0D058,Rest Forebrain,C86A39,7
+RI,16494,rostral interstitial nucleus,E0D058,Rest Forebrain,C86A39,7
+PR,16495,prerubral area,E0D058,Rest Forebrain,C86A39,7
+p2PBP,16496,p2 portion of the parabrachial pigmented nucleus,E0D058,Rest Forebrain,C86A39,7
+p2Bs,16497,superficial stratum of p2B,E0D058,Rest Forebrain,C86A39,7
+p2SNC,16499,p2 portion of the substantia nigra pars compacta,E0D058,Rest Forebrain,C86A39,7
+p2SNR,16500,p2 portion of the substantia nigra pars reticulata,E0D058,Rest Forebrain,C86A39,7
+p2PN,16501,p2 portion of paranigral nucleus,E0D058,Rest Forebrain,C86A39,7
+p2F,16502,floor plate of p2,B3A646,Rest Forebrain,C86A39,7
+p2Fm,16504,mantle zone of p2F,CCBE50,Rest Forebrain,C86A39,7
+p2Fp,16505,periventricular stratum of p2F,CCBE50,Rest Forebrain,C86A39,7
+p2Fi,16506,intermediate stratum of p2F,CCBE50,Rest Forebrain,C86A39,7
+p2Fs,16507,superficial stratum of p2F,CCBE50,Rest Forebrain,C86A39,7
+p2VTA,16508,p2 portion of the ventral tegmental area,A69A41,Rest Forebrain,C86A39,7
+PtTg,16623,pretectal tegmentum,CCB71D,Rest Forebrain,C86A39,7
+p1B,16624,basal plate of p1,CCB71D,Rest Forebrain,C86A39,7
+p1Bm,16626,mantle zone of p1B,E6CE20,Rest Forebrain,C86A39,7
+p1Bp,16627,periventricular stratum of p1B,E6CE20,Rest Forebrain,C86A39,7
+p1B-PAG,16628,p1B part of the periaqueductal gray,E6CE20,Rest Forebrain,C86A39,7
+Dk,16629,nucleus of Darkschewitsch,E6CE20,Rest Forebrain,C86A39,7
+p1PEW,16630,p1 part of the pre-Edinger-Westphal nucleus,E6CE20,Rest Forebrain,C86A39,7
+p1Bi,16631,intermediate stratum of p1B,E6CE20,Rest Forebrain,C86A39,7
+InC,16620,interstitial nucleus of Cajal (post-migratory),E6CE20,Rest Forebrain,C86A39,7
+p1BRt,16632,basal reticular formation of p1,E6CE20,Rest Forebrain,C86A39,7
+RPC,16633,red nucleus- parvicellular part,E6CE20,Rest Forebrain,C86A39,7
+p1PaR,16634,p1 part of the pararubral nucleus,E6CE20,Rest Forebrain,C86A39,7
+p1PBP,16635,p1 part of parabrachial pigmented nucleus,E6CE20,Rest Forebrain,C86A39,7
+p1Bs,16636,superficial stratum of p1B,E6CE20,Rest Forebrain,C86A39,7
+p1SNC,16638,p1 part of the substantia nigra compacta,E6CE20,Rest Forebrain,C86A39,7
+p1SNR,16639,p1 part of the substantia nigra reticulata,E6CE20,Rest Forebrain,C86A39,7
+p1PN,16640,p1 portion of the paranigral nucleus,E6CE20,Rest Forebrain,C86A39,7
+p1F,16641,floor plate of p1,B3A019,Rest Forebrain,C86A39,7
+p1Fv,16642,ventricular zone of p1F,A69517,Rest Forebrain,C86A39,7
+p1Fm,16643,mantle zone of p1F,CCB71D,Rest Forebrain,C86A39,7
+p1Fp,16644,periventricular stratum of p1F,CCB71D,Rest Forebrain,C86A39,7
+p1Fi,16646,intermediate stratum of p1F,CCB71D,Rest Forebrain,C86A39,7
+p1Fs,16647,superficial stratum of p1F,CCB71D,Rest Forebrain,C86A39,7
+p1VTA,16648,p1 part of the ventral tegmental area,A69517,Rest Forebrain,C86A39,7
+MTg,16725,m1 (rostral) midbrain tegmentum,128F12,Rest Midbrain,17B317,7
+m1B,16726,basal plate of m1,128F12,Rest Midbrain,17B317,7
+m1Bv,16727,ventricular zone of m1B,128F12,Rest Midbrain,17B317,7
+m1Bm,16728,mantle zone of m1B,45AC47,Rest Midbrain,17B317,7
+m1Bp,16729,periventricular stratum of m1B,45AC47,Rest Midbrain,17B317,7
+m1B-PAG,16730,m1B part of the periaqueductal gray,45AC47,Rest Midbrain,17B317,7
+m1PEW,16731,m1 part of the pre-Edinger-Westphal nucleus,45AC47,Rest Midbrain,17B317,7
+m1Bi,16732,intermediate stratum of m1B,45AC47,Rest Midbrain,17B317,7
+RLi,16748,rostral linear nucleus,45AC47,Rest Midbrain,17B317,7
+3EW,16733,oculomotor nucleus- Edinger-Westphal subnucleus,45AC47,Rest Midbrain,17B317,7
+3M,16734,oculomotor nucleus- main part,45AC47,Rest Midbrain,17B317,7
+m1BRt,16735,medial basal reticular formation of m1,45AC47,Rest Midbrain,17B317,7
+m1PaR,16736,pararubral nucleus- m1 part,45AC47,Rest Midbrain,17B317,7
+RMC,16737,red nucleus- magnocellular part,45AC47,Rest Midbrain,17B317,7
+m1Bs,16738,superficial stratum of m1B,45AC47,Rest Midbrain,17B317,7
+m1PN,16739,m1 part of paranigral nucleus,45AC47,Rest Midbrain,17B317,7
+m1SNC,16740,substantia nigra compacta- m1 part,45AC47,Rest Midbrain,17B317,7
+m1SNR,16741,substantia nigra reticulata- m1 part,45AC47,Rest Midbrain,17B317,7
+m1PBP,112892283,m1 part of parabrachialis pigmentosus,45AC47,Rest Midbrain,17B317,7
+m1F,16742,floor plate of m1,378A37,Rest Midbrain,17B317,7
+m1Fv,16743,ventricular zone of m1F,338033,Rest Midbrain,17B317,7
+m1Fm,16744,mantle zone of m1F,128F12,Rest Midbrain,17B317,7
+m1Fp,16745,periventricular stratum of m1F,128F12,Rest Midbrain,17B317,7
+m1Fi,16747,intermediate stratum of m1F,128F12,Rest Midbrain,17B317,7
+m1Fs,16749,superficial stratum of m1F,128F12,Rest Midbrain,17B317,7
+m1VTA,16750,ventral tegmental area- m1 part,338033,Rest Midbrain,17B317,7
+PIsTg,16790,preisthmic tegmentum,00A700,Rest Midbrain,17B317,7
+m2B,16791,m2 basal plate,00A700,Rest Midbrain,17B317,7
+m2Bm,16793,mantle zone of m2B,0CBF0C,Rest Midbrain,17B317,7
+m2Bp,16794,periventricular stratum of m2B,0CBF0C,Rest Midbrain,17B317,7
+m2B-PAG,16795,basal m2 periaqueductal gray,0CBF0C,Rest Midbrain,17B317,7
+m2DR,16796,m2 part of the dorsal raphe nucleus,0CBF0C,Rest Midbrain,17B317,7
+m2Bi,16797,intermediate stratum of m2B,0CBF0C,Rest Midbrain,17B317,7
+m2BRt,16798,reticular formation of basal m2,0CBF0C,Rest Midbrain,17B317,7
+m2PaR,16799,m2 part of pararubral nucleus,0CBF0C,Rest Midbrain,17B317,7
+m2Bs,16800,superficial stratum of m2B,0CBF0C,Rest Midbrain,17B317,7
+m2PN,16801,m2 part of paranigral nucleus,0CBF0C,Rest Midbrain,17B317,7
+m2PBP,16802,m2 part of nucleus parabrachialis pigmentosus,0CBF0C,Rest Midbrain,17B317,7
+m2SNC,16803,m2 part of substantia nigra compacta,0CBF0C,Rest Midbrain,17B317,7
+m2SNR,16804,m2 part of substantia nigra reticulata,0CBF0C,Rest Midbrain,17B317,7
+m2F,16805,m2 floor plate,449F44,Rest Midbrain,17B317,7
+m2Fm,112892301,mantle zone of m2F,00A700,Rest Midbrain,17B317,7
+m2Fp,112892303,periventricular stratum of m2F,00A700,Rest Midbrain,17B317,7
+m2Fi,112892305,intermediate stratum of m2F,00A700,Rest Midbrain,17B317,7
+m2Fs,112892307,superficial stratum of m2F,00A700,Rest Midbrain,17B317,7
+m2VTA,16806,m2 part of VTA,3F943F,Rest Midbrain,17B317,7
+isB,16876,isthmic basal plate,BB2CCC,Cerebellum,EA37FF,7
+isBL,16877,lateral part of the isB,D332E6,Cerebellum,EA37FF,7
+isBLm,16879,mantle zone of isBL,D332E6,Cerebellum,EA37FF,7
+isBLp,16880,periventricular stratum of isBL,D332E6,Cerebellum,EA37FF,7
+isDRDL,16881,dorsolateral isthmic part of the dorsal raphe nucleus,D332E6,Cerebellum,EA37FF,7
+isDRW,112892315,lateral wings of the dorsal raphe nucleus,D332E6,Cerebellum,EA37FF,7
+isBLi,16882,intermediate stratum of isBL,D332E6,Cerebellum,EA37FF,7
+isBLRt,16883,isthmic part of basolateral isthmic reticular formation,D332E6,Cerebellum,EA37FF,7
+isBLs,16885,superficial stratum of isBL,D332E6,Cerebellum,EA37FF,7
+isBI,16887,intermediate part of isB,BB2CCC,Cerebellum,EA37FF,7
+isBIv,16888,ventricular zone of isBI,BB2CCC,Cerebellum,EA37FF,7
+isBIm,16889,mantle zone of isBI,D332E6,Cerebellum,EA37FF,7
+isBIp,16890,periventricular stratum of isBI,D332E6,Cerebellum,EA37FF,7
+isDRI,16891,intermediate isthmic part of the dorsal raphe nucleus,D332E6,Cerebellum,EA37FF,7
+isBIi,16893,intermediate stratum of isBI,D332E6,Cerebellum,EA37FF,7
+isBIRt,16894,basointermediate isthmic reticular formation,D332E6,Cerebellum,EA37FF,7
+isBIs,16895,superficial stratum of isBI,D332E6,Cerebellum,EA37FF,7
+isSNR,16896,substantia nigra reticulata- isthmic part,D332E6,Cerebellum,EA37FF,7
+isBM,16897,medial part of the isB,BB2CCC,Cerebellum,EA37FF,7
+isBMv,16898,ventricular zone of isBM,BB2CCC,Cerebellum,EA37FF,7
+isBMm,16899,mantle zone of isBM,D332E6,Cerebellum,EA37FF,7
+isBMp,16900,periventricular mantle of isBM,D332E6,Cerebellum,EA37FF,7
+isDRV,16901,ventral isthmic part of dorsal raphe nucleus,D332E6,Cerebellum,EA37FF,7
+isBMi,16902,intermediate mantle of isBM,D332E6,Cerebellum,EA37FF,7
+4M,16903,trochlear nucleus,D332E6,Cerebellum,EA37FF,7
+4Sh,16904,trochlear shell,D332E6,Cerebellum,EA37FF,7
+CLi,16906,caudal linear (raphe) nucleus,D332E6,Cerebellum,EA37FF,7
+isBMs,16907,superficial mantle of isBM,D332E6,Cerebellum,EA37FF,7
+isSNC,16908,substantia nigra compacta- isthmic part,D332E6,Cerebellum,EA37FF,7
+IPPr,16909,interpeduncular nucleus- prodromal part,D332E6,Cerebellum,EA37FF,7
+isPN,16910,isthmic portion of paranigral nucleus,D332E6,Cerebellum,EA37FF,7
+isF,16911,isthmic floor plate,A427B3,Cerebellum,EA37FF,7
+isFv,16912,ventricular zone of isF,9824A6,Cerebellum,EA37FF,7
+isFm,16913,mantle zone of isF,BB2CCC,Cerebellum,EA37FF,7
+isFp,112892317,periventricular stratum of isF,BB2CCC,Cerebellum,EA37FF,7
+isFi,112892319,intermediate stratum of isF,BB2CCC,Cerebellum,EA37FF,7
+isFs,112892321,superficial stratum of isF,BB2CCC,Cerebellum,EA37FF,7
+isVTA,16914,ventral tegmental area- isthmic part,9824A6,Cerebellum,EA37FF,7
+r1B,16967,r1 basal plate,BE4ACC,Rest Hindbrain,EA37FF,7
+r1BL,16968,lateral part of r1B,BE4ACC,Rest Hindbrain,EA37FF,7
+r1BLv,16969,ventricular zone of r1BL,BE4ACC,Rest Hindbrain,EA37FF,7
+r1BLm,16970,mantle zone of r1BL,D654E6,Rest Hindbrain,EA37FF,7
+r1BLp,16971,periventricular stratum of r1BL,D654E6,Rest Hindbrain,EA37FF,7
+LC,16972,locus coeruleus,D654E6,Rest Hindbrain,EA37FF,7
+Bar,16973,nucleus of Barrington,D654E6,Rest Hindbrain,EA37FF,7
+NPS,16974,neuropeptide-S nucleus,D654E6,Rest Hindbrain,EA37FF,7
+r1BLi,16975,intermediate stratum of r1BL,D654E6,Rest Hindbrain,EA37FF,7
+r1BLRt,16978,r1 part of basolateral reticular formation,D654E6,Rest Hindbrain,EA37FF,7
+r1BLs,16981,superficial stratum of r1BL,D654E6,Rest Hindbrain,EA37FF,7
+r1ILL,16982,r1 part of intermediate nucleus of the lateral lemniscus,D654E6,Rest Hindbrain,EA37FF,7
+r1BI,16984,intermediate part of r1B,BE4ACC,Rest Hindbrain,EA37FF,7
+r1BIm,16986,mantle zone of r1BI,D654E6,Rest Hindbrain,EA37FF,7
+r1BIp,16987,periventricular stratum of r1BI,D654E6,Rest Hindbrain,EA37FF,7
+r1BIi,16990,intermediate stratum of r1BI,D654E6,Rest Hindbrain,EA37FF,7
+r1BIRt,16991,r1 part of basointermediate reticular formation,D654E6,Rest Hindbrain,EA37FF,7
+r1SubC,16992,nucleus subcoeruleus- r1 part,D654E6,Rest Hindbrain,EA37FF,7
+r1BIs,16993,superficial stratum of r1BI,D654E6,Rest Hindbrain,EA37FF,7
+r1LPn,124372440,r1 part of lateral pontine nuclei,D654E6,Rest Hindbrain,EA37FF,7
+r1BM,16994,medial part of r1B,BE4ACC,Rest Hindbrain,EA37FF,7
+r1BMv,16995,ventricular zone of r1BM,BE4ACC,Rest Hindbrain,EA37FF,7
+r1BMm,16996,mantle zone of r1BM,D654E6,Rest Hindbrain,EA37FF,7
+r1BMp,16997,periventricular stratum of r1BM,D654E6,Rest Hindbrain,EA37FF,7
+r1DR,16998,r1 part of dorsal raphe nucleus,D654E6,Rest Hindbrain,EA37FF,7
+Sph,16999,sphenoid nucleus,D654E6,Rest Hindbrain,EA37FF,7
+DTg,17000,dorsal tegmental nucleus,D654E6,Rest Hindbrain,EA37FF,7
+DTgC,17001,core part of DTg,D654E6,Rest Hindbrain,EA37FF,7
+DTgS,17002,shell part of DTg,D654E6,Rest Hindbrain,EA37FF,7
+r1BMi,17004,intermediate stratum of r1BM,D654E6,Rest Hindbrain,EA37FF,7
+IPA,17005,apical interpeduncular nucleus,D654E6,Rest Hindbrain,EA37FF,7
+VTg,17007,ventral tegmental nucleus,D654E6,Rest Hindbrain,EA37FF,7
+ATg,17008,anterior tegmental nucleus,D654E6,Rest Hindbrain,EA37FF,7
+PTg,17009,posterior tegmental nucleus,D654E6,Rest Hindbrain,EA37FF,7
+r1PMnR,17010,r1 part of paramedian raphe nucleus,D654E6,Rest Hindbrain,EA37FF,7
+r1MnR,17011,r1 part of median raphe nucleus,D654E6,Rest Hindbrain,EA37FF,7
+r1BMRt,17012,r1 part of basomedial reticular formation,D654E6,Rest Hindbrain,EA37FF,7
+r1BMs,17013,superficial stratum of r1BM,D654E6,Rest Hindbrain,EA37FF,7
+IPR,17014,rostral interpeduncular nucleus,D654E6,Rest Hindbrain,EA37FF,7
+IPC,17018,caudal interpeduncular nucleus,D654E6,Rest Hindbrain,EA37FF,7
+r1F,17022,r1 floor plate,A741B3,Rest Hindbrain,EA37FF,7
+r1Fm,112892325,mantle zone of r1F,BE4ACC,Rest Hindbrain,EA37FF,7
+r1Fp,112892327,periventricular stratum of r1F,BE4ACC,Rest Hindbrain,EA37FF,7
+r1Fi,112892329,intermediate stratum of r1F,BE4ACC,Rest Hindbrain,EA37FF,7
+r1Fs,112892331,superficial stratum of r1F,BE4ACC,Rest Hindbrain,EA37FF,7
+MnIPR,124372444,median part of IPR,9B3CA6,Rest Hindbrain,EA37FF,7
+MnIPC,124372448,median part of IPC,9B3CA6,Rest Hindbrain,EA37FF,7
+r2SubC,17059,r2 part of nucleus subcoeruleus,D673E6,Rest Hindbrain,EA37FF,7
+r2BI,17066,intermediate part of r2B,CA6DD9,Rest Hindbrain,EA37FF,7
+r2BIm,17068,mantle zone of r2BI,D673E6,Rest Hindbrain,EA37FF,7
+r2BIp,17069,periventricular stratum of r2BI,D673E6,Rest Hindbrain,EA37FF,7
+r2BICG,17070,r2 part of central gray,D673E6,Rest Hindbrain,EA37FF,7
+r2BIi,17074,intermediate stratum of r2BI,D673E6,Rest Hindbrain,EA37FF,7
+DMTg,17075,dorsomedial tegmental nucleus,D673E6,Rest Hindbrain,EA37FF,7
+r2BIRt,17076,r2 part of basointermediate reticular formation,D673E6,Rest Hindbrain,EA37FF,7
+r2PMnR,17077,r2 part of paramedian raphe nucleus,D673E6,Rest Hindbrain,EA37FF,7
+r2BM,17079,medial part of r2B,CA6DD9,Rest Hindbrain,EA37FF,7
+r2BMv,17080,ventricular zone of r2BM,CA6DD9,Rest Hindbrain,EA37FF,7
+r2BMm,17081,mantle zone of r2BM,D673E6,Rest Hindbrain,EA37FF,7
+r2BMp,17082,periventricular stratum of r2BM,D673E6,Rest Hindbrain,EA37FF,7
+PDTg,17083,posterodorsal tegmental nucleus,D673E6,Rest Hindbrain,EA37FF,7
+Inc,17084,nucleus incertus,D673E6,Rest Hindbrain,EA37FF,7
+r2BMi,17085,intermediate stratum of r2BM,D673E6,Rest Hindbrain,EA37FF,7
+r2BMRt,17086,r2 part of basomedial reticular formation,D673E6,Rest Hindbrain,EA37FF,7
+r2PPnR,17087,r2 part of prepontine raphe nucleus,D673E6,Rest Hindbrain,EA37FF,7
+r2MnR,17088,r2 part of median raphe nucleus,D673E6,Rest Hindbrain,EA37FF,7
+r2BMs,17089,superficial stratum of r2BM,D673E6,Rest Hindbrain,EA37FF,7
+RMTg,17090,rostromedial tegmental nucleus,D673E6,Rest Hindbrain,EA37FF,7
+r2F,17091,r2 floor plate,A75AB3,Rest Hindbrain,EA37FF,7
+r2Fv,112892333,ventricular zone of r2F,9A579D,Rest Hindbrain,EA37FF,7
+r2Fm,112892335,mantle zone of r2F,CA6DD9,Rest Hindbrain,EA37FF,7
+r2Fp,112892337,periventricular stratum of r2F,CA6DD9,Rest Hindbrain,EA37FF,7
+r2Fi,112892339,intermediate stratum of r2F,CA6DD9,Rest Hindbrain,EA37FF,7
+r2Fs,112892341,superficial stratum of r2F,CA6DD9,Rest Hindbrain,EA37FF,7
+r3BLp,17127,periventricular stratum of r3BL,853BE6,Pons,9442FF,7
+r3BLCG,17128,r3 part of basolateral central gray,853BE6,Pons,9442FF,7
+r3BIp,17135,periventricular stratum of r3BI,853BE6,Pons,9442FF,7
+r3CGA,17136,r3 part of central gray nucleus alpha,853BE6,Pons,9442FF,7
+r3PnR,17149,r3 pontine raphe nucleus,853BE6,Pons,9442FF,7
+r3RtTgC,17151,r3 part of reticulotegmental nucleus- core portion,853BE6,Pons,9442FF,7
+r3BMRt,17152,r3 part of basomedial reticular formation,853BE6,Pons,9442FF,7
+EVe,17189,efferent vestibular nucleus,8E59E6,Pons,9442FF,7
+r4BIp,17199,periventricular stratum of r4BI,8E59E6,Pons,9442FF,7
+r4BIIZ,17200,r4 part of basointermediate intermediate zone,8E59E6,Pons,9442FF,7
+r4RtTgC,17214,r4 part of reticulotegmental nucleus- core portion,8E59E6,Pons,9442FF,7
+r4BMRt,17215,r4 part of basomedial reticular formation,8E59E6,Pons,9442FF,7
+r4PnR,17216,r4 part of pontine raphe cell population,8E59E6,Pons,9442FF,7
+r5BLp,17254,periventricular stratum of r5BL,3.30E+09,Rest Hindbrain,EA37FF,7
+r5BLIZ,17255,r5 part of basolateral intermediate zone,3.30E+09,Rest Hindbrain,EA37FF,7
+SGe,17190,supragenual nucleus,3.30E+09,Rest Hindbrain,EA37FF,7
+r5BMp,17278,periventricular stratum of r5BM,3.30E+09,Rest Hindbrain,EA37FF,7
+6M,17279,abducens motor nucleus,3.30E+09,Rest Hindbrain,EA37FF,7
+Pa6,17281,para-abducens nucleus,3.30E+09,Rest Hindbrain,EA37FF,7
+r5RM,17284,nucleus raphe magnus- r5 part,3.30E+09,Rest Hindbrain,EA37FF,7
+r6BMp,17341,periventricular stratum of r6BM,54A6E6,Rest Hindbrain,EA37FF,7
+r6Pr,17342,r6 part of nucleus prepositus,54A6E6,Rest Hindbrain,EA37FF,7
+r7Pr,17404,r7 part of nucleus prepositus,10C3A7,Rest Hindbrain,EA37FF,7
+ ,, , , , ,
+NHy,15691,neurohypophysis,975C34,Hypothalamus,A84D10,8
+r5F,17289,r5 floor plate,2775B3,Rest Hindbrain,EA37FF,8
+r5Fv,112892363,ventricular zone of r5F,2670AB,Rest Hindbrain,EA37FF,8
+r5Fm,112892365,mantle zone of r5F,2C86CC,Rest Hindbrain,EA37FF,8
+r5Fp,112892367,periventricular stratum of r5F,2C86CC,Rest Hindbrain,EA37FF,8
+r5Fi,112892369,intermediate stratum of r5F,2C86CC,Rest Hindbrain,EA37FF,8
+r5Fs,112892371,superficial stratum of r5F,2C86CC,Rest Hindbrain,EA37FF,8
+r6BM,17338,medial part of r6B,4A93CC,Rest Hindbrain,EA37FF,8
+r6BMm,17340,mantle zone of r6BM,54A6E6,Rest Hindbrain,EA37FF,8
+r6BMi,17343,intermediate stratum of r6BM,54A6E6,Rest Hindbrain,EA37FF,8
+r6BMRt,17344,r6 part of basomedial reticular formation,54A6E6,Rest Hindbrain,EA37FF,8
+r6RM,17345,raphe magnus nucleus- r6 part,54A6E6,Rest Hindbrain,EA37FF,8
+r6Gi,17346,r6 part of gigantocellular reticular area,54A6E6,Rest Hindbrain,EA37FF,8
+r6GiV,17347,r6 part of ventral gigangocellular reticular area,54A6E6,Rest Hindbrain,EA37FF,8
+r6F,17351,r6 floor plate,4181B3,Rest Hindbrain,EA37FF,8
+r6Fm,112892375,mantle zone of r6F,4A93CC,Rest Hindbrain,EA37FF,8
+r6Fs,112892381,superficial stratum of r6F,4A93CC,Rest Hindbrain,EA37FF,8
+r7B,17380,r7 basal plate,0EAE94,Rest Hindbrain,EA37FF,8
+r7BIi,17395,intermediate stratum of r7BI,10C3A7,Rest Hindbrain,EA37FF,8
+r7BIRt,17396,r7 part of the basointermediate reticular formation,10C3A7,Rest Hindbrain,EA37FF,8
+r7BM,17400,medial part of r7B,0EAE94,Rest Hindbrain,EA37FF,8
+r7BMv,17401,ventricular zone of r7BM,0EAE94,Rest Hindbrain,EA37FF,8
+r7BMm,17402,mantle zone of r7BM,10C3A7,Rest Hindbrain,EA37FF,8
+r7BMp,17403,periventricular stratum of r7BM,10C3A7,Rest Hindbrain,EA37FF,8
+r7-12M,17405,r7 portion of the hypoglossal motor nucleus,10C3A7,Rest Hindbrain,EA37FF,8
+r7Ro,17406,r7 part of the nucleus of Roller,10C3A7,Rest Hindbrain,EA37FF,8
+r7BMi,17407,intermediate stratum of r7BM,10C3A7,Rest Hindbrain,EA37FF,8
+r7BMRt,17409,r7 part of basomedial reticular formation,10C3A7,Rest Hindbrain,EA37FF,8
+r7Gi,17410,r7 part of gigantocellular reticular area,10C3A7,Rest Hindbrain,EA37FF,8
+r7GiV,17411,r7 part of ventral gigangocellular reticular area,10C3A7,Rest Hindbrain,EA37FF,8
+r7BMs,17412,superficial stratum of r7BM,10C3A7,Rest Hindbrain,EA37FF,8
+r7-RP,17413,r7 raphe pallidus cell population,10C3A7,Rest Hindbrain,EA37FF,8
+r7PPy,17414,r7 part of parapyramidal nucleus,10C3A7,Rest Hindbrain,EA37FF,8
+r7F,17415,r7 floor plate,0D9882,Rest Hindbrain,EA37FF,8
+r8B,17437,r8 basal plate,3FAE99,Rest Hindbrain,EA37FF,8
+r8BLp,17441,periventricular stratum of r8BL,47C3AC,Rest Hindbrain,EA37FF,8
+r8-BLIZ,17442,r8 part of basolateral intermediate zone,47C3AC,Rest Hindbrain,EA37FF,8
+r8LRtPC,17447,parvocellular part of r8LRt,47C3AC,Rest Hindbrain,EA37FF,8
+r8BI,17449,intermediate part of r8B,3FAE99,Rest Hindbrain,EA37FF,8
+r8BIm,17451,mantle zone of r8BI,47C3AC,Rest Hindbrain,EA37FF,8
+r8BIp,17452,periventricular stratum of r8BI,47C3AC,Rest Hindbrain,EA37FF,8
+r8BIIZ,17453,r8 part of basointermediate intermediate zone,47C3AC,Rest Hindbrain,EA37FF,8
+r8BIi,17455,intermediate stratum of r8BI,47C3AC,Rest Hindbrain,EA37FF,8
+r8BIRt,17456,r8 part of basointermediate reticular formation,47C3AC,Rest Hindbrain,EA37FF,8
+r8BIs,17457,superficial stratum of r8BI,47C3AC,Rest Hindbrain,EA37FF,8
+r8PGi,17459,r8 part of the paragigantocellular nucleus,47C3AC,Rest Hindbrain,EA37FF,8
+r8BM,17460,medial part of r8B,3FAE99,Rest Hindbrain,EA37FF,8
+r8BMv,17461,ventricular zone of r8BM,3FAE99,Rest Hindbrain,EA37FF,8
+r8BMm,17462,mantle zone of r8BM,47C3AC,Rest Hindbrain,EA37FF,8
+r8BMp,17463,periventricular stratum of r8BM,47C3AC,Rest Hindbrain,EA37FF,8
+r8Pr,17464,r8 part of nucleus prepositus,47C3AC,Rest Hindbrain,EA37FF,8
+r8-12M,17465,r8 portion of the hypoglossal motor nucleus,47C3AC,Rest Hindbrain,EA37FF,8
+r8Ro,17466,r8 part of nucleus of Roller,47C3AC,Rest Hindbrain,EA37FF,8
+r8BMi,17467,intermediate stratum of r8BM,47C3AC,Rest Hindbrain,EA37FF,8
+r8BMRt,17469,r8 part of basomedial reticular formation,47C3AC,Rest Hindbrain,EA37FF,8
+r8Gi,17470,r8 part of gigantocellular reticular area,47C3AC,Rest Hindbrain,EA37FF,8
+r8GiV,17471,r8 part of ventral gigangocellular reticular area,47C3AC,Rest Hindbrain,EA37FF,8
+r8BMs,17472,superficial stratum of r8BM,47C3AC,Rest Hindbrain,EA37FF,8
+r8-RP,17473,r8 raphe pallidus cell population,47C3AC,Rest Hindbrain,EA37FF,8
+r8-IO,17474,r8 part of inferior olive,47C3AC,Rest Hindbrain,EA37FF,8
+r8F,17475,r8 floor plate,379886,Rest Hindbrain,EA37FF,8
+r9B,17500,r9 basal plate,5EAE99,Rest Hindbrain,EA37FF,8
+r9BLp,17504,periventricular stratum of r9BL,69C3AC,Rest Hindbrain,EA37FF,8
+r9BLIZ,17505,r9 part of the basolateral intermediate zone,69C3AC,Rest Hindbrain,EA37FF,8
+r9LRtPC,17510,parvocellular part of the r9LRt,69C3AC,Rest Hindbrain,EA37FF,8
+r9BI,17512,intermediate part of r9B,5EAE99,Rest Hindbrain,EA37FF,8
+r9BIm,17514,mantle zone of r9BI,69C3AC,Rest Hindbrain,EA37FF,8
+r9BIp,17515,periventricular stratum of r9BI,69C3AC,Rest Hindbrain,EA37FF,8
+r9IS,17517,r9 part of nucleus intercalatus Staderini,69C3AC,Rest Hindbrain,EA37FF,8
+r9BIi,17518,intermediate stratum of r9BI,69C3AC,Rest Hindbrain,EA37FF,8
+r9BIRt,17519,r9 part of basointermediate reticular formation,69C3AC,Rest Hindbrain,EA37FF,8
+r9BIs,17520,superficial stratum of r9BI,69C3AC,Rest Hindbrain,EA37FF,8
+r9PGi,17521,r9 part of paragigantocellular nucleus,69C3AC,Rest Hindbrain,EA37FF,8
+r9BM,17523,medial part of r9B,5EAE99,Rest Hindbrain,EA37FF,8
+r9BMv,17524,ventricular zone of r9BM,5EAE99,Rest Hindbrain,EA37FF,8
+r9BMm,17525,mantle zone of r9BM,69C3AC,Rest Hindbrain,EA37FF,8
+r9BMp,17526,periventricular stratum of r9BM,69C3AC,Rest Hindbrain,EA37FF,8
+r9-12M,17527,r9 portion of the hypoglossal motor nucleus,69C3AC,Rest Hindbrain,EA37FF,8
+r9Ro,17528,r9 part of nucleus of Roller,69C3AC,Rest Hindbrain,EA37FF,8
+r9BMi,17529,intermediate stratum of r9BM,69C3AC,Rest Hindbrain,EA37FF,8
+r9BMRt,17531,r9 part of basomedial reticular formation,69C3AC,Rest Hindbrain,EA37FF,8
+r9Gi,17532,r9 part of gigantocellular reticular area,69C3AC,Rest Hindbrain,EA37FF,8
+r9GiV,17533,r9 part of ventral gigangocellular reticular area,69C3AC,Rest Hindbrain,EA37FF,8
+r9BMs,17534,superficial stratum of r9BM,69C3AC,Rest Hindbrain,EA37FF,8
+r9-RP,17535,r9 raphe pallidus cell population,69C3AC,Rest Hindbrain,EA37FF,8
+r9-IO,17536,r9 part of the inferior olive,69C3AC,Rest Hindbrain,EA37FF,8
+r9F,17537,r9 floor plate,529886,Rest Hindbrain,EA37FF,8
+r9Fm,112892409,mantle zone of r9F,5EAE99,Rest Hindbrain,EA37FF,8
+r9Fp,112892411,periventricular stratum of r9F,5EAE99,Rest Hindbrain,EA37FF,8
+r9Fi,112892413,intermediate stratum of r9F,5EAE99,Rest Hindbrain,EA37FF,8
+r9Fs,112892415,superficial stratum of r9F,5EAE99,Rest Hindbrain,EA37FF,8
+r10B,17562,r10 basal plate,74AE99,Rest Hindbrain,EA37FF,8
+r10BL,17563,lateral part of r10B,74AE99,Rest Hindbrain,EA37FF,8
+r10BLv,17564,ventricular zone of r10BL,74AE99,Rest Hindbrain,EA37FF,8
+r10BLm,17565,mantle zone of r10BL,83C3AC,Rest Hindbrain,EA37FF,8
+r10BLp,17566,periventricular stratum of r10BL,83C3AC,Rest Hindbrain,EA37FF,8
+r10BLIZ,17567,r10 part of the basolateral intermediate zone,83C3AC,Rest Hindbrain,EA37FF,8
+r10BLi,17568,intermediate stratum of r10BL,83C3AC,Rest Hindbrain,EA37FF,8
+r10BLRt,17569,r10 part of basolateral reticular formation,83C3AC,Rest Hindbrain,EA37FF,8
+r10BLs,17570,superficial stratum of r10BL,83C3AC,Rest Hindbrain,EA37FF,8
+r10BI,17571,intermediate part of r10B,74AE99,Rest Hindbrain,EA37FF,8
+r10BIv,17572,ventricular zone of r10BI,74AE99,Rest Hindbrain,EA37FF,8
+r10BIm,17573,mantle zone of r10BI,83C3AC,Rest Hindbrain,EA37FF,8
+r10BIp,17574,periventricular stratum of r10BI,83C3AC,Rest Hindbrain,EA37FF,8
+r10BIIZ,17576,r10 part of basointermediate intermediate zone,83C3AC,Rest Hindbrain,EA37FF,8
+r10BIi,17577,intermediate stratum of r10BI,83C3AC,Rest Hindbrain,EA37FF,8
+r10BIRt,17579,r10 part of basointermediate reticular formation,83C3AC,Rest Hindbrain,EA37FF,8
+r10BIs,17580,superficial stratum of r10BI,83C3AC,Rest Hindbrain,EA37FF,8
+r10BM,17581,medial part of r10B,74AE99,Rest Hindbrain,EA37FF,8
+r10BMv,17582,ventricular zone of r10BM,74AE99,Rest Hindbrain,EA37FF,8
+r10BMm,17583,mantle zone of r10BM,83C3AC,Rest Hindbrain,EA37FF,8
+r10BMp,17584,periventricular stratum of r10BM,83C3AC,Rest Hindbrain,EA37FF,8
+r10-12M,17585,r10 portion of the hypoglossal motor nucleus,83C3AC,Rest Hindbrain,EA37FF,8
+r10Ro,17586,r10 part of nucleus of Roller,83C3AC,Rest Hindbrain,EA37FF,8
+r10BMi,17587,intermediate stratum of r10BM,83C3AC,Rest Hindbrain,EA37FF,8
+r10BMRt,17589,r10 part of basomedial reticular formation,83C3AC,Rest Hindbrain,EA37FF,8
+r10Gi,17590,r10 part of gigantocellular reticular area,83C3AC,Rest Hindbrain,EA37FF,8
+r10GiV,17591,r10 part of ventral gigangocellular reticular area,83C3AC,Rest Hindbrain,EA37FF,8
+r10BMs,17592,superficial stratum of r10BM,83C3AC,Rest Hindbrain,EA37FF,8
+r10-RP,17593,r10 raphe pallidus cell population,83C3AC,Rest Hindbrain,EA37FF,8
+r10-IO,17594,r10 part of the inferior olive,83C3AC,Rest Hindbrain,EA37FF,8
+r10F,17595,r10 floor plate,669886,Rest Hindbrain,EA37FF,8
+r10Fv,112892419,ventricular zone of r10F,578474,Rest Hindbrain,EA37FF,8
+r10Fm,112892421,mantle zone of r10F,74AE99,Rest Hindbrain,EA37FF,8
+r10Fi,112892425,intermediate stratum of r10F,74AE99,Rest Hindbrain,EA37FF,8
+r10Fs,112892427,superficial stratum of r10F,74AE99,Rest Hindbrain,EA37FF,8
+r11B,17620,r11 basal plate,89AE99,Rest Hindbrain,EA37FF,8
+r11BL,17621,lateral part of r11B,89AE99,Rest Hindbrain,EA37FF,8
+r11BLv,17622,ventricular zone of r11BL,89AE99,Rest Hindbrain,EA37FF,8
+r11BLm,17623,mantle zone of r11BL,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BLp,17624,periventricular stratum of r11BL,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BLIZ,17625,r11 part of the basolateral intermediate zone,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BLi,17626,intermediate stratum of r11BL,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BLRt,17627,r11 part of basolateral reticular formation,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BLs,17628,superficial stratum of r11BL,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BI,17629,intermediate part of r11B,89AE99,Rest Hindbrain,EA37FF,8
+r11BIm,17631,mantle zone of r11BI,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BIp,17632,periventricular stratum of r11BI,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BIIZ,17633,r11 part of basointermediate intermediate zone,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BIi,17635,intermediate stratum of r11BI,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BIRt,17636,r11 part of basointermediate reticular formation,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BIs,17637,superficial stratum of r11BI,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BM,17638,medial part of r11B,89AE99,Rest Hindbrain,EA37FF,8
+r11BMv,17639,ventricular zone of r11BM,89AE99,Rest Hindbrain,EA37FF,8
+r11BMm,17640,mantle zone of r11BM,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BMp,17641,periventricular stratum of r11BM,9AC3AC,Rest Hindbrain,EA37FF,8
+r11Ro,114403731,r11 part of nucleus of Roller,9AC3AC,Rest Hindbrain,EA37FF,8
+r11-12M,17642,r11 part of hypoglossal motor nucleus,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BMi,17643,intermediate stratum of r11BM,9AC3AC,Rest Hindbrain,EA37FF,8
+r11-RO,17644,r11 part of nucleus raphe obscurus,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BMRt,17645,r11 part of basomedial reticular formation,9AC3AC,Rest Hindbrain,EA37FF,8
+r11Gi,17646,r11 part of gigantocellular reticular area,9AC3AC,Rest Hindbrain,EA37FF,8
+r11GiV,17647,r11 part of ventral gigangocellular reticular area,9AC3AC,Rest Hindbrain,EA37FF,8
+r11BMs,17648,superficial stratum of r11BM,9AC3AC,Rest Hindbrain,EA37FF,8
+r11-RP,17649,r11 part of nucleus raphe pallidus,9AC3AC,Rest Hindbrain,EA37FF,8
+r11-IO,127201621,r11 part of the inferior olive,9AC3AC,Rest Hindbrain,EA37FF,8
+r11F,17650,r11 floor plate,789886,Rest Hindbrain,EA37FF,8
+r11Fv,112892429,ventricular zone of r11F,6C8A79,Rest Hindbrain,EA37FF,8
+r11Fm,112892431,mantle zone of r11F,89AE99,Rest Hindbrain,EA37FF,8
+r11Fi,112892435,intermediate stratum of r11F,89AE99,Rest Hindbrain,EA37FF,8
+r11Fs,112892437,superficial stratum of r11F,89AE99,Rest Hindbrain,EA37FF,8
+SpAVv,17678,ventricular zone of the SpAV,EBE3D5,Spinal Cord,EBE3D5,8
+ ,, , , , ,
+r1Tr,16954,r1 part of trigeminal sensory column,EE5DFF,Rest Hindbrain,EA37FF,9
+r1Trv,16955,ventricular zone of r1Tr,EE5DFF,Rest Hindbrain,EA37FF,9
+r1Trm,16956,mantle zone of r1Tr,F284FF,Rest Hindbrain,EA37FF,9
+r1Trp,111220630,periventricular stratum of r1Tr,F284FF,Rest Hindbrain,EA37FF,9
+r1Tri,111220632,intermediate stratum of r1Tr,F284FF,Rest Hindbrain,EA37FF,9
+r1DPCRt,16958,r1 part of dorsal parvicellular reticular formation,F284FF,Rest Hindbrain,EA37FF,9
+r1Trs,111220634,superficial stratum of r1Tr,F284FF,Rest Hindbrain,EA37FF,9
+r1Pr5,16957,r1 part of principal trigeminal sensory nucleus,F284FF,Rest Hindbrain,EA37FF,9
+r1Limi,111220638,intermediate stratum of r1Lim,F284FF,Rest Hindbrain,EA37FF,9
+r1VPCRt,16962,r1 part of ventral parvicellular reticular formation,F284FF,Rest Hindbrain,EA37FF,9
+r2,17023,rhombomere 2,EE80FF,Rest Hindbrain,EA37FF,9
+r2A,17025,r2 alar plate,EE80FF,Rest Hindbrain,EA37FF,9
+r2Ve,17031,r2 part of vestibular sensory column,EE80FF,Rest Hindbrain,EA37FF,9
+r2Vev,17032,ventricular zone of r2Ve,EE80FF,Rest Hindbrain,EA37FF,9
+r2Vem,17033,mantle zone of r2Ve,F29EFF,Rest Hindbrain,EA37FF,9
+r2Vep,111220656,periventricular stratum of r2Ve,F29EFF,Rest Hindbrain,EA37FF,9
+r2Vei,111220658,intermediate stratum of r2Ve,F29EFF,Rest Hindbrain,EA37FF,9
+r2SuVe,17034,r2 part of superior vestibular nucleus,F29EFF,Rest Hindbrain,EA37FF,9
+r2Ves,111220660,superficial stratum of r2Ve,F29EFF,Rest Hindbrain,EA37FF,9
+r2Tr,17036,r2 part of trigeminal sensory column,EE80FF,Rest Hindbrain,EA37FF,9
+r2Trv,17037,ventricular zone of r2Tr,EE80FF,Rest Hindbrain,EA37FF,9
+r2Trm,17038,mantle zone of r2Tr,F29EFF,Rest Hindbrain,EA37FF,9
+r2Trp,111220662,periventricular stratum of r2Tr,F29EFF,Rest Hindbrain,EA37FF,9
+r2Tri,111220664,intermediate stratum of r2Tr,F29EFF,Rest Hindbrain,EA37FF,9
+r2-5Tr,17040,r2 part of trigeminal transition zone,F29EFF,Rest Hindbrain,EA37FF,9
+r2DPCRt,17041,r2 part of dorsal parvicellular reticular formation,F29EFF,Rest Hindbrain,EA37FF,9
+r2Trs,111220666,superficial stratum of r2Tr,F29EFF,Rest Hindbrain,EA37FF,9
+r2Pr5,17039,r2 part of principal trigeminal sensory nucleus,F29EFF,Rest Hindbrain,EA37FF,9
+r2Lim,17042,liminal part of r2 alar plate,EE80FF,Rest Hindbrain,EA37FF,9
+r2Limv,17043,ventricular zone of r2Lim,EE80FF,Rest Hindbrain,EA37FF,9
+r2Limm,17044,mantle zone of r2Lim,F29EFF,Rest Hindbrain,EA37FF,9
+r2Limp,111220668,periventricular stratum of r2Lim,F29EFF,Rest Hindbrain,EA37FF,9
+r2LimCG,17050,r2 liminal central gray,F29EFF,Rest Hindbrain,EA37FF,9
+r2Limi,111220670,intermediate stratum of r2Lim,F29EFF,Rest Hindbrain,EA37FF,9
+r2VPCRt,17051,r2 part of the ventral parvicellular reticular formation,F29EFF,Rest Hindbrain,EA37FF,9
+r2Lims,111220672,superficial stratum of r2Lim,F29EFF,Rest Hindbrain,EA37FF,9
+r2-5M,17045,r2 part of the trigeminal motor nucleus,F29EFF,Rest Hindbrain,EA37FF,9
+5Te,17046,temporal muscle trigeminal motor cell group,F29EFF,Rest Hindbrain,EA37FF,9
+5Ma,17047,masseter muscle trigeminal motor cell group,F29EFF,Rest Hindbrain,EA37FF,9
+5Pt,17048,pterigoid muscle trigeminal motor cell group,F29EFF,Rest Hindbrain,EA37FF,9
+5TT,17049,temporotympanic muscle trigeminal motor cell group,F29EFF,Rest Hindbrain,EA37FF,9
+r2B,17053,r2 basal plate,CA6DD9,Rest Hindbrain,EA37FF,9
+r2BL,17054,lateral part of r2B,D673E6,Rest Hindbrain,EA37FF,9
+r2BLm,17056,mantle zone of r2BL,D673E6,Rest Hindbrain,EA37FF,9
+r2BLp,17057,periventricular stratum of r2BL,D673E6,Rest Hindbrain,EA37FF,9
+r2BLi,17058,intermediate stratum of r2BL,D673E6,Rest Hindbrain,EA37FF,9
+r2BLRt,17062,r2 part of basolateral reticular formation,D673E6,Rest Hindbrain,EA37FF,9
+r2BLs,17063,superficial stratum of r2BL,D673E6,Rest Hindbrain,EA37FF,9
+r2VLL,17064,r2 part of ventral lateral lemniscal nucleus,D673E6,Rest Hindbrain,EA37FF,9
+r2MPL,17060,r2 part of medial paralemniscal nucleus,D673E6,Rest Hindbrain,EA37FF,9
+r2BIs,17078,superficial stratum of r2BI,D673E6,Rest Hindbrain,EA37FF,9
+r2LPn,124372464,r2 part of lateral pontine nuclei,D673E6,Rest Hindbrain,EA37FF,9
+PH,17092,pontine hindbrain,9442FF,Pons,9442FF,9
+r3,17093,rhombomere 3,9442FF,Pons,9442FF,9
+r3R,17094,r3 roof plate,B378FF,Pons,9442FF,9
+r3A,17095,r3 alar plate,9442FF,Pons,9442FF,9
+r3Ve,17101,r3 part of vestibular sensory column,9442FF,Pons,9442FF,9
+r3Vev,17102,ventricular zone of r3Ve,9442FF,Pons,9442FF,9
+r3Vem,17103,mantle zone of r3Ve,A35DFF,Pons,9442FF,9
+r3Vep,111220688,periventricular stratum of r3Ve,A35DFF,Pons,9442FF,9
+r3MVePC,17106,r3 part of parvicellular medial vestibular nucleus,A35DFF,Pons,9442FF,9
+r3Vei,111220690,intermediate stratum of r3Ve,A35DFF,Pons,9442FF,9
+r3MVeMC,17105,r3 part of magnocellular medial vestibular nucleus,A35DFF,Pons,9442FF,9
+r3Ves,111220692,superficial stratum of r3Ve,A35DFF,Pons,9442FF,9
+r3LVe,17104,r3 part of lateral vestibular nucleus,A35DFF,Pons,9442FF,9
+r3Tr,17107,r3 part of trigeminal sensory column,9442FF,Pons,9442FF,9
+r3Trm,17109,mantle zone of r3Tr,A35DFF,Pons,9442FF,9
+r3Trp,111220694,periventricular stratum of r3Tr,A35DFF,Pons,9442FF,9
+r3Tri,111220696,intermediate stratum of r3Tr,A35DFF,Pons,9442FF,9
+r3-5Tr,17111,r3 part of trigeminal transition zone,A35DFF,Pons,9442FF,9
+r3DPCRt,17112,r3 part of dorsal parvicellular reticular formation,A35DFF,Pons,9442FF,9
+r3Trs,111220698,superficial stratum of r3Tr,A35DFF,Pons,9442FF,9
+r3Sp5O,17110,r3 part of spinal trigeminal sensory column- oral part,A35DFF,Pons,9442FF,9
+r3Lim,17113,liminal part of r3 alar plate,9442FF,Pons,9442FF,9
+r3Limv,17114,ventricular zone of r3Lim,9442FF,Pons,9442FF,9
+r3Limm,17115,mantle zone of r3Lim,A35DFF,Pons,9442FF,9
+r3Limp,111220700,periventricular stratum of r3Lim,A35DFF,Pons,9442FF,9
+r3LimCG,17122,r3 liminal central gray,A35DFF,Pons,9442FF,9
+r3Limi,111220702,intermediate stratum of r3Lim,A35DFF,Pons,9442FF,9
+r3VPCRt,17121,r3 part of ventral parvicellular reticular formation,A35DFF,Pons,9442FF,9
+r3Lims,111220704,superficial stratum of r3Lim,A35DFF,Pons,9442FF,9
+r3-5M,17116,r3 part of the trigeminal motor nucleus,A35DFF,Pons,9442FF,9
+5ADi,17117,anterior digastric muscle trigeminal motor cell group,A35DFF,Pons,9442FF,9
+r3B,17123,r3 basal plate,7635CC,Pons,9442FF,9
+r3BL,17124,lateral part of r3B,7635CC,Pons,9442FF,9
+r3BLv,17125,ventricular zone of r3BL,7635CC,Pons,9442FF,9
+r3BLm,17126,mantle zone of r3BL,853BE6,Pons,9442FF,9
+r3BLi,17129,intermediate stratum of r3BL,853BE6,Pons,9442FF,9
+r3BLRt,17130,r3 part of basolateral reticular formation,853BE6,Pons,9442FF,9
+r3BLs,17131,superficial stratum of r3BL,853BE6,Pons,9442FF,9
+r3VLL,17118,r3 part of ventral lateral lemniscal nucleus,853BE6,Pons,9442FF,9
+r3MPL,17119,r3 part of medial paralemniscal nucleus,853BE6,Pons,9442FF,9
+r3BI,17132,intermediate part of r3B,7635CC,Pons,9442FF,9
+r3BIm,17134,mantle zone of r3BI,853BE6,Pons,9442FF,9
+r3BIi,17139,intermediate stratum of r3BI,853BE6,Pons,9442FF,9
+r3BIRt,17140,r3 part of basointermediate reticular formation,853BE6,Pons,9442FF,9
+r3BMi,17148,intermediate stratum of r3BM,853BE6,Pons,9442FF,9
+r3RtTgS,17150,r3 part of reticulotegmental nucleus- shell portion,853BE6,Pons,9442FF,9
+r4,17156,rhombomere 4,9E63FF,Pons,9442FF,9
+r4A,17158,r4 alar plate,9E63FF,Pons,9442FF,9
+r4Ve,17164,r4 part of vestibular sensory column,9E63FF,Pons,9442FF,9
+r4Vev,17165,ventricular zone of r4Ve,9E63FF,Pons,9442FF,9
+r4Vem,17166,mantle zone of r4Ve,AC79FF,Pons,9442FF,9
+r4Vep,111220720,periventricular stratum of r4Ve,AC79FF,Pons,9442FF,9
+r4MVePC,17169,r4 part of parvocellular medial vestibular nucleus,AC79FF,Pons,9442FF,9
+r4Vei,111220722,intermediate stratum of r4Ve,AC79FF,Pons,9442FF,9
+r4MVeMC,17168,r4 part of magnocellular medial vestibular nucleus,AC79FF,Pons,9442FF,9
+r4Ves,111220724,superficial stratum of r4Ve,AC79FF,Pons,9442FF,9
+r4LVe,17167,r4 part of lateral vestibular nucleus,AC79FF,Pons,9442FF,9
+r4Tr,17170,r4 part of trigeminal sensory column,9E63FF,Pons,9442FF,9
+r4Trm,17172,mantle zone of r4Tr,AC79FF,Pons,9442FF,9
+r4Trp,111220726,periventricular stratum of r4Tr,AC79FF,Pons,9442FF,9
+r4Tri,111220728,intermediate stratum of r4Tr,AC79FF,Pons,9442FF,9
+r4DPCRt,17175,r4 part of dorsal parvicellular reticular formation,AC79FF,Pons,9442FF,9
+r4Trs,111220730,superficial stratum of r4Tr,AC79FF,Pons,9442FF,9
+r4Sp5O,17173,r4 part of descending trigeminal sensory nucleus- oral part,AC79FF,Pons,9442FF,9
+r4Lim,17176,liminal part of r4 alar plate,9E63FF,Pons,9442FF,9
+r4Limv,17177,ventricular zone of r4Lim,9E63FF,Pons,9442FF,9
+r4Limm,17178,mantle zone of r4Lim,AC79FF,Pons,9442FF,9
+r4Limp,111220732,periventricular stratum of r4Lim,AC79FF,Pons,9442FF,9
+r4LimCG,17179,r4 liminal central gray,AC79FF,Pons,9442FF,9
+r4Limi,111220734,intermediate stratum of r4Lim,AC79FF,Pons,9442FF,9
+r4VPCRt,17180,r4 part of ventral parvicellular reticular formation,AC79FF,Pons,9442FF,9
+r4Lims,111220736,superficial stratum of r4Lim,AC79FF,Pons,9442FF,9
+r4B,17182,r4 basal plate,7E4FCC,Pons,9442FF,9
+r4BL,17183,lateral part of r4B,7E4FCC,Pons,9442FF,9
+r4BLv,17184,ventricular zone of r4BL,7E4FCC,Pons,9442FF,9
+r4BLm,17185,mantle zone of r4BL,8E59E6,Pons,9442FF,9
+r4BLp,17186,periventricular stratum of r4BL,8E59E6,Pons,9442FF,9
+r4BLi,17188,intermediate stratum of r4BL,8E59E6,Pons,9442FF,9
+r4BLRt,17191,r4 part of basolateral reticular formation,8E59E6,Pons,9442FF,9
+r4BLs,17192,superficial stratum of r4BL,8E59E6,Pons,9442FF,9
+r4VLL,17193,r4 part of ventral lateral lemniscal nucleus,8E59E6,Pons,9442FF,9
+r4MPL,17194,r4 part of medial paralemniscal nucleus,8E59E6,Pons,9442FF,9
+r4BI,17196,intermediate part of r4B,7E4FCC,Pons,9442FF,9
+r4BIv,17197,ventricular zone of r4BI,7E4FCC,Pons,9442FF,9
+r4BIm,17198,mantle zone of r4BI,8E59E6,Pons,9442FF,9
+r4BIi,17203,intermediate stratum of r4BI,8E59E6,Pons,9442FF,9
+r4BIRt,17204,r4 part of basointermediate reticular formation,8E59E6,Pons,9442FF,9
+r4BMi,17212,intermediate stratum of r4BM,8E59E6,Pons,9442FF,9
+r4RtTgS,17213,r4 part of reticulotegmental nucleus- shell portion,8E59E6,Pons,9442FF,9
+PMH,17220,pontomedullary hindbrain,37A7FF,Rest Hindbrain,EA37FF,9
+r5,17221,rhombomere 5,37A7FF,Rest Hindbrain,EA37FF,9
+r5R,17222,r5 roof plate,70C0FF,Rest Hindbrain,EA37FF,9
+r5A,17223,r5 alar plate,37A7FF,Rest Hindbrain,EA37FF,9
+r5Ve,17229,r5 part of the vestibular column,37A7FF,Rest Hindbrain,EA37FF,9
+r5Vev,17230,ventricular zone of r5Ve,37A7FF,Rest Hindbrain,EA37FF,9
+r5Vem,17231,mantle zone of r5Ve,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Vep,111220752,periventricular stratum of r5Ve,5DB8FF,Rest Hindbrain,EA37FF,9
+r5MVePC,17234,r5 part of parvocellular medial vestibular nucleus,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Vei,111220754,intermediate stratum of r5Ve,5DB8FF,Rest Hindbrain,EA37FF,9
+r5MVeMC,17233,r5 part of magnocellular medial vestibular nucleus,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Ves,111220756,superficial stratum of r5Ve,5DB8FF,Rest Hindbrain,EA37FF,9
+r5SpVe,17232,r5 part of spinal vestibular nucleus,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Tr,17235,r5 part of the trigeminal column,37A7FF,Rest Hindbrain,EA37FF,9
+r5Trv,17236,ventricular zone of r5Tr,37A7FF,Rest Hindbrain,EA37FF,9
+r5Trm,17237,mantle zone of r5Tr,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Trp,111220758,periventricular stratum of r5Tr,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Tri,111220760,intermediate stratum of r5Tr,5DB8FF,Rest Hindbrain,EA37FF,9
+r5DPCRt,17241,r5 part of dorsal parvicellular reticular formation,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Trs,111220762,superficial stratum of r5Tr,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Sp5O,17238,r5 part of the oral Sp5 subnucleus,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Lim,17242,liminal part of the r5 alar plate,37A7FF,Rest Hindbrain,EA37FF,9
+r5Limv,17243,ventricular zone of r5Lim,37A7FF,Rest Hindbrain,EA37FF,9
+r5Limm,17244,mantle zone of r5Lim,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Limp,111220764,periventricular stratum of r5Lim,5DB8FF,Rest Hindbrain,EA37FF,9
+r5LimCG,17245,r5 liminal central gray,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Limi,111220766,intermediate stratum of r5Lim,5DB8FF,Rest Hindbrain,EA37FF,9
+r5VPCRt,17246,r5 part of ventral parvicellular reticular formation,5DB8FF,Rest Hindbrain,EA37FF,9
+r5Lims,111220768,superficial stratum of r5Lim,5DB8FF,Rest Hindbrain,EA37FF,9
+r5A5,17247,r5 part of A5 noradrenergic cell group,5DB8FF,Rest Hindbrain,EA37FF,9
+CAT,17249,nucleus of the central acoustic tract,5DB8FF,Rest Hindbrain,EA37FF,9
+r5B,17250,r5 basal plate,2C86CC,Rest Hindbrain,EA37FF,9
+r5BL,17251,lateral part of r5B,2C86CC,Rest Hindbrain,EA37FF,9
+r5BLv,17252,ventricular zone of r5BL,2C86CC,Rest Hindbrain,EA37FF,9
+r5BLm,17253,mantle zone of r5BL,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BLi,17256,intermediate stratum of 5BL,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BLRt,17257,r5 part of basolateral reticular formation,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BLs,17258,superficial stratum of r5BL,3.30E+09,Rest Hindbrain,EA37FF,9
+r5VLL,17259,r5 part of ventral lateral lemniscal nucleus,3.30E+09,Rest Hindbrain,EA37FF,9
+DPeO,17260,dorsal periolivary nucleus,3.30E+09,Rest Hindbrain,EA37FF,9
+LSO,17261,lateral superior olive,3.30E+09,Rest Hindbrain,EA37FF,9
+MSO,17262,medial superior olive,3.30E+09,Rest Hindbrain,EA37FF,9
+RPeO,17263,rostral periolivary nucleus,3.30E+09,Rest Hindbrain,EA37FF,9
+SPeO,17264,superior periolivary nucleus,3.30E+09,Rest Hindbrain,EA37FF,9
+VLPeO,17265,ventrolateral periolivary nucleus,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BI,17266,intermediate part of r5B,2C86CC,Rest Hindbrain,EA37FF,9
+r5BIv,17267,ventricular zone of r5BI,2C86CC,Rest Hindbrain,EA37FF,9
+r5BIm,17268,mantle zone of r5BI,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BIp,17269,periventricular stratum of r5BI,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BIi,17271,intermediate stratum of r5BI,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BIRt,17272,r5 part of basointermediate reticular formation,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BIs,17273,superficial stratum of r5BI,3.30E+09,Rest Hindbrain,EA37FF,9
+LTz,17274,lateral trapezoid nucleus,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BM,17275,medial part of r5B,2C86CC,Rest Hindbrain,EA37FF,9
+r5BMv,17276,ventricular zone of r5BM,2C86CC,Rest Hindbrain,EA37FF,9
+r5BMm,17277,mantle zone of r5BM,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BMi,17280,intermediate stratum of r5BM,3.30E+09,Rest Hindbrain,EA37FF,9
+RPnRt,17282,retropontine reticular area,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BMRt,17283,r5 part of basomedial reticular formation,3.30E+09,Rest Hindbrain,EA37FF,9
+r5BMs,17286,superficial stratum of r5BM,3.30E+09,Rest Hindbrain,EA37FF,9
+MTz,17287,medial trapezoid nucleus,3.30E+09,Rest Hindbrain,EA37FF,9
+r6,17290,rhombomere 6,5DB8FF,Rest Hindbrain,EA37FF,9
+r6R,17291,r6 roof plate,8BCCFF,Rest Hindbrain,EA37FF,9
+r6A,17292,r6 alar plate,5DB8FF,Rest Hindbrain,EA37FF,9
+r6Ve,17298,r6 part of the vestibular column,5DB8FF,Rest Hindbrain,EA37FF,9
+r6Vev,17299,ventricular zone of r6Ve,5DB8FF,Rest Hindbrain,EA37FF,9
+r6Vem,17300,mantle zone of r6Ve,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Vep,111220784,periventricular stratum of r6Ve,7CC6FF,Rest Hindbrain,EA37FF,9
+r6MVePC,17303,r6 part of parvocellular medial vestibular nucleus,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Vei,111220786,intermediate stratum of r6Ve,7CC6FF,Rest Hindbrain,EA37FF,9
+r6MVeMC,17302,r6 part of magnocellular medial vestibular nucleus,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Tr,17304,r6 part of the trigeminal column,5DB8FF,Rest Hindbrain,EA37FF,9
+r6Trv,17305,ventricular zone of r6Tr,5DB8FF,Rest Hindbrain,EA37FF,9
+r6Trm,17306,mantle zone of r6Tr,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Trp,111220790,periventricular stratum of r6Tr,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Sol,17309,r6 (gustatory) part of solitary complex,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Tri,111220792,intermediate stratum of r6Tr,7CC6FF,Rest Hindbrain,EA37FF,9
+r6-5Tr,17308,r6 part of trigeminal transition zone,7CC6FF,Rest Hindbrain,EA37FF,9
+r6DPCRt,17310,r6 part of dorsal parvicellular reticular formation,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Trs,111220794,superficial stratum of r6Tr,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Sp5O,17307,r6 part of spinal trigeminal nucleus- pars oralis,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Lim,17311,liminal part of the r6 alar plate,5DB8FF,Rest Hindbrain,EA37FF,9
+r6Limm,17313,mantle zone of r6Lim,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Limp,111220796,periventricular stratum of r6Lim,7CC6FF,Rest Hindbrain,EA37FF,9
+r6LimCG,17314,r6 liminal central gray,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Limi,111220798,intermediate stratum of r6Lim,7CC6FF,Rest Hindbrain,EA37FF,9
+r6VPCRt,17315,r6 part of ventral parvicellular reticular formation,7CC6FF,Rest Hindbrain,EA37FF,9
+r6Lims,111220800,superficial stratum of r6Lim,7CC6FF,Rest Hindbrain,EA37FF,9
+7M,17317,facial motor nucleus,7CC6FF,Rest Hindbrain,EA37FF,9
+r6B,17318,r6 basal plate,4A93CC,Rest Hindbrain,EA37FF,9
+r6BL,17319,lateral part of r6B,4A93CC,Rest Hindbrain,EA37FF,9
+r6BLv,17320,ventricular zone of r6BL,4A93CC,Rest Hindbrain,EA37FF,9
+r6BLm,17321,mantle zone of r6BL,54A6E6,Rest Hindbrain,EA37FF,9
+r6BLp,17322,periventricular stratum of r6BL,54A6E6,Rest Hindbrain,EA37FF,9
+r6BLi,17324,intermediate stratum of r6BL,54A6E6,Rest Hindbrain,EA37FF,9
+r6BLRt,17325,r6 part of the basolateral reticular formation,54A6E6,Rest Hindbrain,EA37FF,9
+r6BLs,17326,superficial stratum of r6BL,54A6E6,Rest Hindbrain,EA37FF,9
+RTZ,17327,retrotrapezoid nucleus,54A6E6,Rest Hindbrain,EA37FF,9
+r6BI,17328,intermediate part of r6B,4A93CC,Rest Hindbrain,EA37FF,9
+r6BIv,17329,ventricular zone of r6BI,4A93CC,Rest Hindbrain,EA37FF,9
+r6BIm,17330,mantle zone of r6BI,54A6E6,Rest Hindbrain,EA37FF,9
+r6BIp,17331,periventricular stratum of r6BI,54A6E6,Rest Hindbrain,EA37FF,9
+r6BIi,17333,intermediate stratum of r6BI,54A6E6,Rest Hindbrain,EA37FF,9
+r6BIRt,17334,r6 part of basointermediate reticular formation,54A6E6,Rest Hindbrain,EA37FF,9
+r6BIs,17335,superficial stratum of r6BI,54A6E6,Rest Hindbrain,EA37FF,9
+r6PGi,17336,r6 part of paragigantocellular nucleus,54A6E6,Rest Hindbrain,EA37FF,9
+r6RVM,17337,r6 part of rostral ventromedial reticular area,54A6E6,Rest Hindbrain,EA37FF,9
+r6BMv,17339,ventricular zone of r6BM,4A93CC,Rest Hindbrain,EA37FF,9
+r6BMs,17348,superficial stratum of r6BM,54A6E6,Rest Hindbrain,EA37FF,9
+MH,17352,medullary hindbrain (medulla),12D9B9,Rest Hindbrain,EA37FF,9
+r7,17353,rhombomere 7,12D9B9,Rest Hindbrain,EA37FF,9
+r7R,17354,r7 roof plate,6EE8D4,Rest Hindbrain,EA37FF,9
+r7A,17355,r7 alar plate,12D9B9,Rest Hindbrain,EA37FF,9
+r7Ve,17361,r7 part of the vestibular column,12D9B9,Rest Hindbrain,EA37FF,9
+r7Vev,17362,ventricular zone of r7Ve,12D9B9,Rest Hindbrain,EA37FF,9
+r7Vem,17363,mantle zone of r7Ve,56E4CD,Rest Hindbrain,EA37FF,9
+r7Vep,111220816,periventricular stratum of r7Ve,56E4CD,Rest Hindbrain,EA37FF,9
+r7MVePC,17365,r7 part of parvocellular medial vestibular nucleus,56E4CD,Rest Hindbrain,EA37FF,9
+r7Vei,111220818,intermediate stratum of r7Ve,56E4CD,Rest Hindbrain,EA37FF,9
+r7Ves,111220820,superficial stratum of r7Ve,56E4CD,Rest Hindbrain,EA37FF,9
+r7SpVe,17364,r7 part of spinal vestibular nucleus,56E4CD,Rest Hindbrain,EA37FF,9
+r7Tr,17366,r7 part of the trigeminal column,12D9B9,Rest Hindbrain,EA37FF,9
+r7Trv,17367,ventricular zone of r7Tr,12D9B9,Rest Hindbrain,EA37FF,9
+r7Trm,17368,mantle zone of r7Tr,56E4CD,Rest Hindbrain,EA37FF,9
+r7Trp,111220822,periventricular stratum of r7Tr,56E4CD,Rest Hindbrain,EA37FF,9
+r7Sol,17371,r7 (gustatory) part of solitary complex,56E4CD,Rest Hindbrain,EA37FF,9
+r7Tri,111220824,intermediate stratum of r7Tr,56E4CD,Rest Hindbrain,EA37FF,9
+r7-5Tr,17370,r7 part of trigeminal transition zone,56E4CD,Rest Hindbrain,EA37FF,9
+r7DPCRt,17372,r7 part of dorsal parvicellular reticular formation,56E4CD,Rest Hindbrain,EA37FF,9
+r7Trs,111220826,superficial stratum of r7Tr,56E4CD,Rest Hindbrain,EA37FF,9
+r7Sp5I,17369,r7 part of spinal trigeminal nucleus- interpolar part,56E4CD,Rest Hindbrain,EA37FF,9
+r7Lim,17373,liminal part of the r7 alar plate,12D9B9,Rest Hindbrain,EA37FF,9
+r7Limv,17374,ventricular zone of r7Lim,12D9B9,Rest Hindbrain,EA37FF,9
+r7Limm,17375,mantle zone of r7Lim,56E4CD,Rest Hindbrain,EA37FF,9
+r7Limp,111220828,periventricular stratum of r7Lim,56E4CD,Rest Hindbrain,EA37FF,9
+r7LimCG,17376,r7 liminal central gray,56E4CD,Rest Hindbrain,EA37FF,9
+r7Limi,111220830,intermediate stratum of r7Lim,56E4CD,Rest Hindbrain,EA37FF,9
+r7VPCRt,17379,r7 part of ventral parvicellular reticular formation,56E4CD,Rest Hindbrain,EA37FF,9
+r7Lims,111220832,superficial stratum of r7Lim,56E4CD,Rest Hindbrain,EA37FF,9
+r7Amb,17378,r7 portion of ambiguous motor nucleus,56E4CD,Rest Hindbrain,EA37FF,9
+r7BL,17381,lateral part of r7B,0EAE94,Rest Hindbrain,EA37FF,9
+r7BLm,17383,mantle zone of r7BL,10C3A7,Rest Hindbrain,EA37FF,9
+r7BLp,17384,periventricular stratum of r7BL,10C3A7,Rest Hindbrain,EA37FF,9
+r7BLi,17386,intermediate stratum of r7BL,10C3A7,Rest Hindbrain,EA37FF,9
+r7BLRt,17387,r7 part of basolateral reticular formation,10C3A7,Rest Hindbrain,EA37FF,9
+r7BLs,17388,superficial stratum of r7BL,10C3A7,Rest Hindbrain,EA37FF,9
+RVL,17389,rostral ventrolateral reticular area,10C3A7,Rest Hindbrain,EA37FF,9
+r7BI,17390,intermediate part of r7B,0EAE94,Rest Hindbrain,EA37FF,9
+r7BIm,17392,mantle zone of r7BI,10C3A7,Rest Hindbrain,EA37FF,9
+r7BIp,17393,periventricular stratum of r7BI,10C3A7,Rest Hindbrain,EA37FF,9
+r7BIs,17397,superficial stratum of r7BI,10C3A7,Rest Hindbrain,EA37FF,9
+r7PGi,17398,r7 part of paragigantocellular nucleus,10C3A7,Rest Hindbrain,EA37FF,9
+r7RVM,17399,r7 part of rostral ventromedial reticular area,10C3A7,Rest Hindbrain,EA37FF,9
+r8,17416,rhombomere 8,4FD9BF,Rest Hindbrain,EA37FF,9
+r8A,17418,r8 alar plate,4FD9BF,Rest Hindbrain,EA37FF,9
+r8Ve,17419,r8 part of the vestibular column,4FD9BF,Rest Hindbrain,EA37FF,9
+r8Vev,17420,ventricular zone of r8Ve,4FD9BF,Rest Hindbrain,EA37FF,9
+r8Vem,17421,mantle zone of r8Ve,79E2CE,Rest Hindbrain,EA37FF,9
+r8Vei,111220844,intermediate stratum of r8Ve,79E2CE,Rest Hindbrain,EA37FF,9
+r8SpVe,17422,r8 part of spinal vestibular nucleus,79E2CE,Rest Hindbrain,EA37FF,9
+r8Ves,111220846,superficial stratum of r8Ve,79E2CE,Rest Hindbrain,EA37FF,9
+r8Tr,17424,r8 part of the trigeminal column,4FD9BF,Rest Hindbrain,EA37FF,9
+r8Trv,17425,ventricular zone of r8Tr,4FD9BF,Rest Hindbrain,EA37FF,9
+r8Trm,17426,mantle zone of r8Tr,79E2CE,Rest Hindbrain,EA37FF,9
+r8Trp,111220848,periventricular stratum of r8Tr,79E2CE,Rest Hindbrain,EA37FF,9
+r8Sol,17429,r8 (gustatory) part of solitary complex,79E2CE,Rest Hindbrain,EA37FF,9
+r8Tri,111220850,intermediate stratum of r8Tr,79E2CE,Rest Hindbrain,EA37FF,9
+r8DPCRt,17430,r8 part of dorsal parvicellular reticular formation,79E2CE,Rest Hindbrain,EA37FF,9
+r8Trs,111220852,superficial stratum of r8Tr,79E2CE,Rest Hindbrain,EA37FF,9
+r8Sp5I,17427,r8 part of spinal trigeminal nucleus- interpolar part,79E2CE,Rest Hindbrain,EA37FF,9
+r8Lim,17431,liminal part of the r8 alar plate,4FD9BF,Rest Hindbrain,EA37FF,9
+r8Limv,17432,ventricular zone of r8Lim,4FD9BF,Rest Hindbrain,EA37FF,9
+r8Limm,17433,mantle zone of r8Lim,79E2CE,Rest Hindbrain,EA37FF,9
+r8Limp,111220854,periventricular stratum of r8Lim,79E2CE,Rest Hindbrain,EA37FF,9
+r8-10M,17435,r8 portion of vagal motor nucleus,79E2CE,Rest Hindbrain,EA37FF,9
+r8Limi,111220856,intermediate stratum of r8Lim,79E2CE,Rest Hindbrain,EA37FF,9
+r8VPCRt,17434,r8 part of ventral parvicellular reticular formation,79E2CE,Rest Hindbrain,EA37FF,9
+r8Lims,111220858,superficial stratum of r8Lim,79E2CE,Rest Hindbrain,EA37FF,9
+r8Amb,17436,r8 portion of ambiguous motor nucleus,79E2CE,Rest Hindbrain,EA37FF,9
+r8BL,17438,lateral part of r8B,3FAE99,Rest Hindbrain,EA37FF,9
+r8BLv,17439,ventricular zone of r8BL,3FAE99,Rest Hindbrain,EA37FF,9
+r8BLm,17440,mantle zone of r8BL,47C3AC,Rest Hindbrain,EA37FF,9
+r8BLi,17443,intermediate stratum of r8BL,47C3AC,Rest Hindbrain,EA37FF,9
+r8BLRt,17444,r8 part of basolateral reticular formation,47C3AC,Rest Hindbrain,EA37FF,9
+r8BLs,17445,superficial stratum of r8BL,47C3AC,Rest Hindbrain,EA37FF,9
+r8LRt,17446,r8 part of lateral reticular nucleus,47C3AC,Rest Hindbrain,EA37FF,9
+r9,17476,rhombomere 9,75D9BF,Rest Hindbrain,EA37FF,9
+r9R,17477,r9 roof plate,AAE7D7,Rest Hindbrain,EA37FF,9
+r9A,17478,r9 alar plate,75D9BF,Rest Hindbrain,EA37FF,9
+r9Tr,17485,r9 part of the trigeminal column,75D9BF,Rest Hindbrain,EA37FF,9
+r9Trv,17486,ventricular zone of r9Tr,75D9BF,Rest Hindbrain,EA37FF,9
+r9Trm,17487,mantle zone of r9Tr,96E2CE,Rest Hindbrain,EA37FF,9
+r9Trp,111220874,periventricular stratum of r9Tr,96E2CE,Rest Hindbrain,EA37FF,9
+r9Sol,17490,r9 (gustatory) part of solitary complex,96E2CE,Rest Hindbrain,EA37FF,9
+r9Tri,111220876,intermediate stratum of r9Tr,96E2CE,Rest Hindbrain,EA37FF,9
+r9-5Tr,17489,r9 part of trigeminal transition zone,96E2CE,Rest Hindbrain,EA37FF,9
+r9DPCRt,17493,r9 part of dorsal parvicellular reticular formation,96E2CE,Rest Hindbrain,EA37FF,9
+r9Trs,111220878,superficial stratum of r9Tr,96E2CE,Rest Hindbrain,EA37FF,9
+r9Sp5I,17488,r9 part of spinal trigeminal nucleus- interpolar part,96E2CE,Rest Hindbrain,EA37FF,9
+r9Lim,17494,liminal part of the r9 alar plate,75D9BF,Rest Hindbrain,EA37FF,9
+r9Limv,17495,ventricular zone of r9Lim,75D9BF,Rest Hindbrain,EA37FF,9
+r9Limm,17496,mantle zone of r9Lim,96E2CE,Rest Hindbrain,EA37FF,9
+r9Limp,111220880,periventricular stratum of r9Lim,96E2CE,Rest Hindbrain,EA37FF,9
+r9Limi,111220882,intermediate stratum of r9Lim,96E2CE,Rest Hindbrain,EA37FF,9
+r9VPCRt,17497,r9 part of ventral parvicellular reticular formation,96E2CE,Rest Hindbrain,EA37FF,9
+r9Lims,111220884,superficial stratum of r9Lim,96E2CE,Rest Hindbrain,EA37FF,9
+r9Amb,17499,r9 portion of ambiguous motor nucleus (postmigratory),96E2CE,Rest Hindbrain,EA37FF,9
+r9BL,17501,lateral part of r9B,5EAE99,Rest Hindbrain,EA37FF,9
+r9BLm,17503,mantle zone of r9BL,69C3AC,Rest Hindbrain,EA37FF,9
+r9BLi,17506,intermediate stratum of r9BL,69C3AC,Rest Hindbrain,EA37FF,9
+r9BLRt,17507,r9 part of the basolateral reticular formation,69C3AC,Rest Hindbrain,EA37FF,9
+r9BLs,17508,superficial stratum of r9BL,69C3AC,Rest Hindbrain,EA37FF,9
+r9LRt,17509,r9 part of the lateral reticular nucleus,69C3AC,Rest Hindbrain,EA37FF,9
+r9Li,17511,r9 part of linear nucleus,69C3AC,Rest Hindbrain,EA37FF,9
+r10,17538,rhombomere 10,91D9BF,Rest Hindbrain,EA37FF,9
+r10R,17539,r10 roof plate,ABE2CE,Rest Hindbrain,EA37FF,9
+r10A,17540,r10 alar plate,91D9BF,Rest Hindbrain,EA37FF,9
+r10Tr,17547,r10 part of the trigeminal column,91D9BF,Rest Hindbrain,EA37FF,9
+r10Trv,17548,ventricular zone of r10Tr,91D9BF,Rest Hindbrain,EA37FF,9
+r10Trm,17549,mantle zone of r10Tr,A6E0CB,Rest Hindbrain,EA37FF,9
+r10Trp,111220900,periventricular stratum of r10Tr,A6E0CB,Rest Hindbrain,EA37FF,9
+r10Sol,17552,r10 part of solitary complex,A6E0CB,Rest Hindbrain,EA37FF,9
+r10Tri,111220902,intermediate stratum of r10Tr,A6E0CB,Rest Hindbrain,EA37FF,9
+r10-5Tr,17551,r10 part of trigeminal transition zone,A6E0CB,Rest Hindbrain,EA37FF,9
+r10DPCRt,17555,r10 part of dorsal parvicellular reticular formation,A6E0CB,Rest Hindbrain,EA37FF,9
+r10Lim,17556,liminal part of the r10 alar plate,91D9BF,Rest Hindbrain,EA37FF,9
+r10Limv,17557,ventricular zone of r10Lim,91D9BF,Rest Hindbrain,EA37FF,9
+r10Limm,17558,mantle zone of r10Lim,A6E0CB,Rest Hindbrain,EA37FF,9
+r10Limp,111220906,periventricular stratum of r10Lim,A6E0CB,Rest Hindbrain,EA37FF,9
+r10-10M,17560,r10 part of vagal motor nucleus,A6E0CB,Rest Hindbrain,EA37FF,9
+r10Limi,111220908,intermediate stratum of r10Lim,A6E0CB,Rest Hindbrain,EA37FF,9
+r10VPCRt,17559,r10 part of ventral parvicellular reticular formation,A6E0CB,Rest Hindbrain,EA37FF,9
+r10Lims,111220910,superficial stratum of r10Lim,A6E0CB,Rest Hindbrain,EA37FF,9
+r11R,17597,r11 roof plate,CFE9DA,Rest Hindbrain,EA37FF,9
+r11Trv,17604,ventricular zone of r11Tr,BBE0CB,Rest Hindbrain,EA37FF,9
+r11Lim,17612,liminal part of the r11 alar plate,BFD9BF,Rest Hindbrain,EA37FF,9
+r11Limv,17613,ventricular zone of r11Lim,BFD9BF,Rest Hindbrain,EA37FF,9
+r11Limm,17614,mantle zone of r11Lim,BBE0CB,Rest Hindbrain,EA37FF,9
+r11Limp,111220932,periventricular stratum of r11Lim,BBE0CB,Rest Hindbrain,EA37FF,9
+r11LimCG,17615,r11 liminal central gray,BBE0CB,Rest Hindbrain,EA37FF,9
+r11-10M,17617,r11 part of vagal motor nucleus (postmigratory),BBE0CB,Rest Hindbrain,EA37FF,9
+r11Limi,111220934,intermediate stratum of r11Lim,BBE0CB,Rest Hindbrain,EA37FF,9
+r11VPCRt,17616,r11 part of ventral parvicellular reticular formation,BBE0CB,Rest Hindbrain,EA37FF,9
+r11Lims,111220936,superficial stratum of r11Lim,BBE0CB,Rest Hindbrain,EA37FF,9
+ ,, , , , ,
+PHy,16211,peduncular (caudal) hypothalamus,DF7257,Rest Forebrain,C86A39,10
+PHyA,16212,alar part of peduncular hypothalamus,DF7257,Rest Forebrain,C86A39,10
+PPaA,16213,peduncular paraventricular area of PHyA,DF7257,Rest Forebrain,C86A39,10
+PPam,16215,mantle zone of PPaA,E4866F,Rest Forebrain,C86A39,10
+PPai,16225,intermediate stratum of PPaA,E4866F,Rest Forebrain,C86A39,10
+PaL,16226,paraventricular nucleus- lateral part,E4866F,Rest Forebrain,C86A39,10
+UDPeF,16227,upper dorsal perifornical nucleus,E4866F,Rest Forebrain,C86A39,10
+UDLH,16228,upper dorsal lateral hypothalamic area,E4866F,Rest Forebrain,C86A39,10
+LPo,16229,lateral posterior nucleus,E4866F,Rest Forebrain,C86A39,10
+PSM,16230,peduncular nucleus of the stria medullaris,E4866F,Rest Forebrain,C86A39,10
+PPas,16231,superficial stratum of PPaA,E4866F,Rest Forebrain,C86A39,10
+EPD,16232,dorsal entopeduncular nucleus,E4866F,Rest Forebrain,C86A39,10
+PSPa,16233,peduncular subparaventricular area,DF7257,Rest Forebrain,C86A39,10
+PSPav,16234,ventricular zone of PSPa,DF7257,Rest Forebrain,C86A39,10
+PSPam,16235,mantle zone of PSPa,E4866F,Rest Forebrain,C86A39,10
+PSPap,16236,periventricular stratum of PSPa,E4866F,Rest Forebrain,C86A39,10
+A13,16238,A13 dopaminergic cell group,E4866F,Rest Forebrain,C86A39,10
+PSPai,16239,intermediate stratum of PSPa,E4866F,Rest Forebrain,C86A39,10
+AHP,16240,posterior part of anterior hypothalamic nucleus,E4866F,Rest Forebrain,C86A39,10
+LDPeF,16242,lower dorsal perifornical nucleus,E4866F,Rest Forebrain,C86A39,10
+LDLH,16243,lower dorsal lateral hypothalamic area,E4866F,Rest Forebrain,C86A39,10
+PSPas,16244,superficial stratum of PSPa,E4866F,Rest Forebrain,C86A39,10
+EPV,16245,ventral entopeduncular nucleus,E4866F,Rest Forebrain,C86A39,10
+PHyB-D,16248,dorsal part of PHyB,B25B46,Rest Forebrain,C86A39,10
+PHyB-Dm,16250,mantle zone of PHyB-D,C9674E,Rest Forebrain,C86A39,10
+PHyB-Di,16253,intermediate stratum of PHyB-D,C9674E,Rest Forebrain,C86A39,10
+PBasi,16254,posterobasal nucleus- intermediate part,C9674E,Rest Forebrain,C86A39,10
+UBLH,16255,upper basal lateral hypothalamic area,C9674E,Rest Forebrain,C86A39,10
+UBPeF,16256,upper basal perifornical nucleus,C9674E,Rest Forebrain,C86A39,10
+PHyB-Ds,16257,superficial stratum of PHyB-D,C9674E,Rest Forebrain,C86A39,10
+MCSH,16258,magnocellular superficial hypothalamic nucleus,C9674E,Rest Forebrain,C86A39,10
+P-DMH,16265,peduncular part of dorsomedial hypothalamic nucleus,C9674E,Rest Forebrain,C86A39,10
+P-DMHc,16266,core of P-DMH,C9674E,Rest Forebrain,C86A39,10
+P-DMHs,16267,shell of P-DMH,C9674E,Rest Forebrain,C86A39,10
+STh,16272,subthalamic nucleus (migrated),C9674E,Rest Forebrain,C86A39,10
+PHyB-Vp,16278,periventricular stratum of PHyB-V,C9674E,Rest Forebrain,C86A39,10
+DTMp,16279,dorsal tuberomammillary nucleus- periventricular part (histaminergic),C9674E,Rest Forebrain,C86A39,10
+PHyB-Vi,16280,intermediate stratum of PHyB-V,C9674E,Rest Forebrain,C86A39,10
+DTMi,16281,dorsal tuberomammillary nucleus- intermediate part (histaminergic),C9674E,Rest Forebrain,C86A39,10
+PHyB-Pp,16288,periventricular stratum of PHyB-P,C9674E,Rest Forebrain,C86A39,10
+PPRM,16289,periventricular periretromammillary nucleus,C9674E,Rest Forebrain,C86A39,10
+PHyB-Pi,16290,intermediate stratum of PHyB-P,C9674E,Rest Forebrain,C86A39,10
+IPRM,16291,intermediate periretromammillary nucleus,C9674E,Rest Forebrain,C86A39,10
+RMap,16298,periventricular stratum of RMa,C9674E,Rest Forebrain,C86A39,10
+RMM,16299,retromammillary area- medial part,C9674E,Rest Forebrain,C86A39,10
+SMT,16300,submammillothalamic nucleus,C9674E,Rest Forebrain,C86A39,10
+D,16308,diencephalon,FFF9C7,Rest Forebrain,C86A39,10
+p3,16309,prosomere 3,FFF9C7,Rest Forebrain,C86A39,10
+PTh,16310,prethalamus,FFF9C7,Rest Forebrain,C86A39,10
+p3R,16311,roof plate of p3,FFF9C7,Rest Forebrain,C86A39,10
+p3Ch,16312,choroidal tissue of p3,FFF7BD,Rest Forebrain,C86A39,10
+p3Chv,111220576,ventricular zone of p3Ch,FFF7BD,Rest Forebrain,C86A39,10
+p3A,16313,alar plate of p3 (alar prethalamus),FFF4A4,Rest Forebrain,C86A39,10
+p3AD,16314,dorsal part of alar p3,FFF4A4,Rest Forebrain,C86A39,10
+PThE,16315,prethalamic eminence,FFF4A4,Rest Forebrain,C86A39,10
+PThEv,16316,ventricular zone of PThE,FFF4A4,Rest Forebrain,C86A39,10
+PThEm,16317,mantle zone of PThE,FFF7BD,Rest Forebrain,C86A39,10
+PThEp,16318,periventricular stratum of PThE,FFF7BD,Rest Forebrain,C86A39,10
+PThEi,16319,intermediate stratum of PThE,FFF7BD,Rest Forebrain,C86A39,10
+SM,16320,nucleus of the stria medullaris (prethalamic),FFF7BD,Rest Forebrain,C86A39,10
+PThEs,16321,superficial stratum of PThE,FFF7BD,Rest Forebrain,C86A39,10
+p3AL,16322,lateral part of alar p3,FFF4A4,Rest Forebrain,C86A39,10
+RtC,16323,reticular complex,FFF4A4,Rest Forebrain,C86A39,10
+RtCv,16324,ventricular zone of RtC,FFF4A4,Rest Forebrain,C86A39,10
+RtCm,16325,mantle zone of RtC,FFF7BD,Rest Forebrain,C86A39,10
+RtCp,16326,periventricular stratum of RtC,FFF7BD,Rest Forebrain,C86A39,10
+RHy,16327,retrohypothalamic nucleus,FFF7BD,Rest Forebrain,C86A39,10
+RtCi,16328,intermediate stratum of RtC,FFF7BD,Rest Forebrain,C86A39,10
+Rt,16329,reticular nucleus,FFF7BD,Rest Forebrain,C86A39,10
+RtCs,16330,superficial stratum of RtC,FFF7BD,Rest Forebrain,C86A39,10
+SubG,16331,subgeniculate nucleus,FFF7BD,Rest Forebrain,C86A39,10
+p3APV,16332,posteroventral part of alar p3,FFF4A4,Rest Forebrain,C86A39,10
+p3ZL,16333,prethalamic (p3) zona limitans domain,FFF4A4,Rest Forebrain,C86A39,10
+p3ZLv,16334,ventricular zone of p3ZL,FFF4A4,Rest Forebrain,C86A39,10
+p3ZLm,16335,mantle zone of p3ZL,FFF7BD,Rest Forebrain,C86A39,10
+p3ZLp,16336,periventricular stratum of p3ZL,FFF7BD,Rest Forebrain,C86A39,10
+p3ZLS,16337,shell of p3ZL,FFF7BD,Rest Forebrain,C86A39,10
+p3ZLi,16338,intermediate stratum of p3ZL,FFF7BD,Rest Forebrain,C86A39,10
+IntC,16339,intercalate nucleus,FFF7BD,Rest Forebrain,C86A39,10
+p3ZLs,16340,superficial stratum of p3ZL,FFF7BD,Rest Forebrain,C86A39,10
+PreG,16341,pregeniculate nucleus,FFF7BD,Rest Forebrain,C86A39,10
+PP,16342,peripeduncular nucleus,FFF7BD,Rest Forebrain,C86A39,10
+ZIC,16343,zona incerta complex,FFF4A4,Rest Forebrain,C86A39,10
+ZICv,16344,ventricular zone of ZIC,FFF4A4,Rest Forebrain,C86A39,10
+ZICm,16345,mantle zone of ZIC,FFF7BD,Rest Forebrain,C86A39,10
+ZICp,16346,periventricular stratum of ZIC,FFF7BD,Rest Forebrain,C86A39,10
+ZICi,16348,intermediate stratum of ZIC,FFF7BD,Rest Forebrain,C86A39,10
+RZI,16349,rostral zona incerta,FFF7BD,Rest Forebrain,C86A39,10
+ZICs,16350,superficial stratum of ZIC,FFF7BD,Rest Forebrain,C86A39,10
+PThTg,16352,prethalamic tegmentum,CCC383,Rest Forebrain,C86A39,10
+p3B,16353,basal plate of p3,CCC383,Rest Forebrain,C86A39,10
+p3Bm,16355,mantle zone of p3B,DAD18D,Rest Forebrain,C86A39,10
+p3Bp,16356,periventricular stratum of p3B,DAD18D,Rest Forebrain,C86A39,10
+p3PEW,16357,p3 portion of the pre-Edinger-Westphal nucleus,DAD18D,Rest Forebrain,C86A39,10
+p3Bi,16358,intermediate stratum of p3B,DAD18D,Rest Forebrain,C86A39,10
+p3ZLC,16359,p3 part of the ZL core,DAD18D,Rest Forebrain,C86A39,10
+CZI,16360,caudal zona incerta,DAD18D,Rest Forebrain,C86A39,10
+p3Tg,16361,tegmental field of p3 (Forel's field),DAD18D,Rest Forebrain,C86A39,10
+p3PBP,16363,p3 portion of parabrachial pigmented nucleus,DAD18D,Rest Forebrain,C86A39,10
+p2,16375,prosomere 2,FFF189,Rest Forebrain,C86A39,10
+Th,16376,thalamus,FFF189,Thalamus,FFF189,10
+p2A,16382,alar plate of p2 (alar thalamus),FFED64,Thalamus,FFF189,10
+p2AD,16383,dorsal part of alar p2,FFED64,Thalamus,FFF189,10
+Hb,16384,habenula (old epithalamus),FFED64,Thalamus,FFF189,10
+Hbv,16385,ventricular zone of Hb,FFED64,Thalamus,FFF189,10
+Hbm,16386,mantle zone of Hb,FFF189,Thalamus,FFF189,10
+Hbp,16387,periventricular stratum of Hb,FFF189,Thalamus,FFF189,10
+MHb,16388,medial habenular nucleus,FFF189,Thalamus,FFF189,10
+MSHb,16389,medial subhabenular nucleus,FFF189,Thalamus,FFF189,10
+Hbi,16390,intermediate stratum of Hb,FFF189,Thalamus,FFF189,10
+LHbM,16391,medial part of the lateral habenular nucleus,FFF189,Thalamus,FFF189,10
+LSHb,16392,lateral subhabenular nucleus,FFF189,Thalamus,FFF189,10
+Hbs,16393,superficial stratum of Hb,FFF189,Thalamus,FFF189,10
+LHbL,16394,lateral part of the lateral habenular nucleus,FFF189,Thalamus,FFF189,10
+p2AL,16395,lateral part of alar p2,FFED64,Thalamus,FFF189,10
+p2ALv,111220588,ventricular zone of p2AL,FFED64,Thalamus,FFF189,10
+DTTh,16396,dorsal tier of thalamus,FFED64,Thalamus,FFF189,10
+DTThv,16397,ventricular zone of DTTh,FFED64,Thalamus,FFF189,10
+DTThm,16398,mantle zone of DTTh,FFF189,Thalamus,FFF189,10
+DTThp,16399,periventricular stratum of DTTh,FFF189,Thalamus,FFF189,10
+PVA,16400,anterior paraventricular nucleus of thalamus,FFF189,Thalamus,FFF189,10
+IMD,16401,intermediodorsal nucleus,FFF189,Thalamus,FFF189,10
+CM,16402,centromedian nucleus,FFF189,Thalamus,FFF189,10
+IAM,16403,interanteromedial nucleus,FFF189,Thalamus,FFF189,10
+IAD,16404,interanterodorsal nucleus,FFF189,Thalamus,FFF189,10
+Rh,16405,rhomboid nucleus,FFF189,Thalamus,FFF189,10
+Re,16406,reuniens nucleus- main part,FFF189,Thalamus,FFF189,10
+RRe,16407,retroreuniens nucleus,FFF189,Thalamus,FFF189,10
+VRe,16408,ventral reuniens nucleus,FFF189,Thalamus,FFF189,10
+DTThi,16409,intermediate stratum of DTTh,FFF189,Thalamus,FFF189,10
+PT,16410,paratenial nucleus,FFF189,Thalamus,FFF189,10
+MD,16411,mediodorsal nucleus,FFF189,Thalamus,FFF189,10
+MDM,16412,medial (magnocellular) part of MD,FFF189,Thalamus,FFF189,10
+MDL,16413,lateral (parvicellular) part of MD,FFF189,Thalamus,FFF189,10
+MDC,16414,central part of MD,FFF189,Thalamus,FFF189,10
+IL,16415,intralaminar nuclei,FFF189,Thalamus,FFF189,10
+PC,16416,paracentral nucleus,FFF189,Thalamus,FFF189,10
+OPC,16417,oval paracentral nucleus,FFF189,Thalamus,FFF189,10
+CL,16418,central lateral nucleus,FFF189,Thalamus,FFF189,10
+A,16419,anterior nuclei,FFF189,Thalamus,FFF189,10
+AD,16420,anterodorsal nucleus,FFF189,Thalamus,FFF189,10
+AV,16421,anteroventral nucleus,FFF189,Thalamus,FFF189,10
+AM,16422,anteromedial nucleus,FFF189,Thalamus,FFF189,10
+V,16423,ventral nuclei,FFF189,Thalamus,FFF189,10
+VM,16424,ventromedial nucleus,FFF189,Thalamus,FFF189,10
+SubM,16426,submedius thalamic nucleus,FFF189,Thalamus,FFF189,10
+VL,16428,ventral lateral nucleus,FFF189,Thalamus,FFF189,10
+VPM,16429,ventral posteromedial nucleus,FFF189,Thalamus,FFF189,10
+VPL,16430,ventral posterolateral nucleus,FFF189,Thalamus,FFF189,10
+VPPC,16431,ventral posterior parvicellular nucleus,FFF189,Thalamus,FFF189,10
+Po,16432,posterior (ventral) nucleus,FFF189,Thalamus,FFF189,10
+DTThs,16433,superficial stratum of DTTh,FFF189,Thalamus,FFF189,10
+LD,16434,laterodorsal nucleus,FFF189,Thalamus,FFF189,10
+LP,16435,lateral posterior nucleus,FFF189,Thalamus,FFF189,10
+DLG,16436,dorsal lateral geniculate nucleus,FFF189,Thalamus,FFF189,10
+ITTh,16437,intermediate tier of thalamus,FFED64,Thalamus,FFF189,10
+ITThv,16438,ventricular zone of ITTh,FFED64,Thalamus,FFF189,10
+ITThm,16439,mantle zone of ITTh,FFF189,Thalamus,FFF189,10
+ITThp,16440,periventricular stratum of ITTh,FFF189,Thalamus,FFF189,10
+PVP,16441,posterior paraventricular nucleus,FFF189,Thalamus,FFF189,10
+PF,16442,parafascicular nucleus,FFF189,Thalamus,FFF189,10
+ITThi,16443,intermediate stratum of ITTh,FFF189,Thalamus,FFF189,10
+Sc,16445,scaphoid nucleus,FFF189,Thalamus,FFF189,10
+Eth,16446,ethmoid nucleus,FFF189,Thalamus,FFF189,10
+SEth,16447,subethmoid nucleus,FFF189,Thalamus,FFF189,10
+VLi,16448,ventral linear nucleus,FFF189,Thalamus,FFF189,10
+PoT,16449,posterior triangular nucleus,FFF189,Thalamus,FFF189,10
+ITThs,16450,superficial stratum of ITTh,FFF189,Thalamus,FFF189,10
+IPo,16451,intermedioposterior nucleus,FFF189,Thalamus,FFF189,10
+SG,16452,suprageniculate nucleus,FFF189,Thalamus,FFF189,10
+VTTh,16453,ventral tier of thalamus,FFED64,Thalamus,FFF189,10
+VTThm,16455,mantle zone of VTTh,FFF189,Thalamus,FFF189,10
+VTThp,16456,periventricular stratum of VTTh,FFF189,Thalamus,FFF189,10
+SPFMC,16457,magnocellular (medial) subparafascicular nucleus,FFF189,Thalamus,FFF189,10
+VTThi,16458,intermediate stratum of VTTh,FFF189,Thalamus,FFF189,10
+SPFPC,16459,parvicellular (lateral) subparafascicular nucleus,FFF189,Thalamus,FFF189,10
+PIL,16460,posterior intralaminar nucleus,FFF189,Thalamus,FFF189,10
+VTThs,16461,superficial stratum of VTTh,FFF189,Thalamus,FFF189,10
+MG,16462,medial geniculate nucleus,FFF189,Thalamus,FFF189,10
+MGV,16463,ventral subnucleus of MG,FFF189,Thalamus,FFF189,10
+MGD,16464,dorsal subnucleus of MG,FFF189,Thalamus,FFF189,10
+p2AAV,16466,anteroventral part of alar thalamus,FFED64,Thalamus,FFF189,10
+p2ZL,16467,thalamic (p2) zona limitans domain,FFED64,Thalamus,FFF189,10
+p2ZLv,16468,ventricular zone of p2ZL,FFED64,Thalamus,FFF189,10
+p2ZLm,16469,mantle zone of p2ZL,FFF189,Thalamus,FFF189,10
+p2ZLp,16470,periventricular stratum of p2ZL,FFF189,Thalamus,FFF189,10
+p2ZLS,16471,shell of p2ZL,FFF189,Thalamus,FFF189,10
+p2ZLi,16472,intermediate stratum of p2ZL,FFF189,Thalamus,FFF189,10
+IZL,16473,interstitial nucleus of the zona limitans,FFF189,Thalamus,FFF189,10
+p2ZLs,16474,superficial stratum of p2ZL,FFF189,Thalamus,FFF189,10
+IGL,16475,intergeniculate leaflet,FFF189,Thalamus,FFF189,10
+p2Lim,16476,liminal part of alar p2,FFED64,Thalamus,FFF189,10
+p2Limm,16478,mantle zone of p2Lim,FFF189,Thalamus,FFF189,10
+p2Limp,16479,periventricular stratum of p2Lim,FFF189,Thalamus,FFF189,10
+Lim,16480,liminal nucleus,FFF189,Thalamus,FFF189,10
+p2Limi,16481,intermediate stratum of p2Lim,FFF189,Thalamus,FFF189,10
+p2LimRt,16482,reticular formation of p2Lim,FFF189,Thalamus,FFF189,10
+p2Lims,16483,superficial stratum of p2Lim,FFF189,Thalamus,FFF189,10
+ThTg,16486,thalamic tegmentum,CCBE50,Rest Forebrain,C86A39,10
+p2B,16487,basal plate of p2,CCBE50,Rest Forebrain,C86A39,10
+p2Bp,16490,periventricular stratum of p2B,E0D058,Rest Forebrain,C86A39,10
+p2ZLC,16493,p2 part of the zona limitans core population,E0D058,Rest Forebrain,C86A39,10
+PcPD,16521,dorsal part of PcP,F4E35F,Rest Forebrain,C86A39,10
+PcPDv,16522,ventricular zone of PcPD,FFE524,Rest Forebrain,C86A39,10
+PcPDm,16523,mantle zone of PcPD,F4E35F,Rest Forebrain,C86A39,10
+PcPDp,16524,periventricular stratum of PcPD,F4E35F,Rest Forebrain,C86A39,10
+PcPDi,16526,intermediate stratum of PcPD,F4E35F,Rest Forebrain,C86A39,10
+DF,16527,dorsofrontal pretectal nucleus,F4E35F,Rest Forebrain,C86A39,10
+PcPDs,16528,superficial stratum of PCPD,F4E35F,Rest Forebrain,C86A39,10
+DFS,16529,superficial dorsofrontal area,F4E35F,Rest Forebrain,C86A39,10
+PcPLv,16531,ventricular zone of PcPL,FFE524,Rest Forebrain,C86A39,10
+JcPDi,16554,intermediate stratum of JcPD,F4E35F,Rest Forebrain,C86A39,10
+DJcP,16555,dorsal juxtacommissural pretectal nucleus,F4E35F,Rest Forebrain,C86A39,10
